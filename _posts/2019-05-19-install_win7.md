@@ -37,7 +37,8 @@ tags:                               #标签
 然后电脑会自动重启,,然后会出现很多设置,,自己选择自己喜欢的设置,然后就安装完成了!
 
 如果以上这些你还看不懂或者不想看懂的话,这里有整个过程的视频
-[百度网盘](https://pan.baidu.com/s/1dFyGabv)密码:egvw
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/czfcIeUVMEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 如果你还抱怨为什么我电脑上和你显示的不一样的话,那么恭喜你,你是填鸭式教育的成果,我猜接下来你要问的问题就像你在网吧问网管:'我的电脑屏幕上为什么比别人少了一个快捷方式?你是不是看不起我'之类的,学习的意义不在于你学到了什么,而是学会如何学习
 

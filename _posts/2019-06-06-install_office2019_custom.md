@@ -55,3 +55,8 @@ configure.xml
 + VisioPro2019Volume表示安装VISIO
 + ProjectPro2019Volume表示安装Project
 + 剩下的靠猜也能猜出来
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kewFfaHMfOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2019同理

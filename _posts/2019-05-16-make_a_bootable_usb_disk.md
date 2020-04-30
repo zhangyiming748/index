@@ -9,6 +9,9 @@ catalog: True                       # 是否归档
 tags:                               #标签
     - 操作系统
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eWowF40_pDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 之前写过使用软碟通制作启动盘的教程,但毕竟那是个正版收费的软件,估计王涛也觉得自己很冤,又因为之前写的软碟通的教程只适用在Windows平台,如果想做Linux甚至Macos需要手动更改的地方太多,不是一种大众的等级,所以又写了这个用[Rufus](https://rufus.ie/)制作启动盘的教程
 
 ### 下载Rufus
