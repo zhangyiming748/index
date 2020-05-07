@@ -14,7 +14,7 @@ github_repo: "https://github.com/zhangyiming748/zhangyiming748.github.io.git" # 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "巴山楚水凄凉地,responsibility"
-sidebar-avatar: /img/LineMe.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/instagram.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings
