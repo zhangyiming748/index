@@ -12,66 +12,66 @@ tags:                               #标签
 |密码|名称|下载链接|DLC|
 |:---:|:---:|:---:|:---:|
 |005875|艾迪芬奇的记忆|链接https://pan.baidu.com/s/1iQFPiOIwrcj1_tHBSR4AhA|赠品https://pan.baidu.com/s/12PQZIgV5pIb_FEwTwfXbpQ|
-|554158|暗影：觉醒|链接https://pan.baidu.com/s/1maOi4rxuqgEX8eU5DD-bFg|赠品https://pan.baidu.com/s/1QVmXTRHkdQOkrPtMsYwIsQ|
+|554158|暗影:觉醒|链接https://pan.baidu.com/s/1maOi4rxuqgEX8eU5DD-bFg|赠品https://pan.baidu.com/s/1QVmXTRHkdQOkrPtMsYwIsQ|
 |326325|遨游中国2 内容少/欧洲模拟卡车2/CTS6|链接https://pan.baidu.com/s/1AoR2gnYApqKKjQ1KW_W9aA||
 |326325|遨游中国2 v1.20稳定版/欧洲模拟卡车2/CTS6|链接https://pan.baidu.com/s/14abV2BuEtx51dG6sKR5fQw||
 |215412|暗黑地牢|游戏下载链接https://pan.baidu.com/s/1mlSDvUHH3BDcDlnBAl34-A||
 |365232|阿尔法行星|链接https://pan.baidu.com/s/1r9skWBzP81GKmku-hXKjCA||
 |457488|暗黑血统3/2/1|链接https://pan.baidu.com/s/1hyjZOtBKMdBU682YdnsPRg|赠品https://pan.baidu.com/s/1uuYqXt4HFZLqo1QhejiqzQ|
-|258447|暗黑血统：创世纪/单机.网络联机|链接https://pan.baidu.com/s/19kogao9g4buTp_Wve16ViQ|赠品https://pan.baidu.com/s/1xWr7htnpEMG9Dk1N_0a_Yw|
-|632654|暗黑破坏神2：毁灭之王v1.14d/局域网联机版|链接https://pan.baidu.com/s/1ZtdZvHcwuhUYLmbo8wd16Q|赠品https://pan.baidu.com/s/1JjlKLqgUuad3j7BdKSZ2PA|
+|258447|暗黑血统:创世纪/单机.网络联机|链接https://pan.baidu.com/s/19kogao9g4buTp_Wve16ViQ|赠品https://pan.baidu.com/s/1xWr7htnpEMG9Dk1N_0a_Yw|
+|632654|暗黑破坏神2:毁灭之王v1.14d/局域网联机版|链接https://pan.baidu.com/s/1ZtdZvHcwuhUYLmbo8wd16Q|赠品https://pan.baidu.com/s/1JjlKLqgUuad3j7BdKSZ2PA|
 |632654|暗黑破坏神2 v1.13c/单机.局域网联机|链接https://pan.baidu.com/s/1xWWVmJRLs3x3qe_7QJ4HVw|赠品https://pan.baidu.com/s/1SDG5kswTmPuJlPleJXZ96w|
 |996587|Ashen/灰烬/Win10游戏|链接https://pan.baidu.com/s/18_84iqk_lRChEVOVnHTlFA|赠品https://pan.baidu.com/s/1D6ee9oRDD6zwpKuzSbbTpA|
-|965874|奥日和黑暗森林：终极版|链接https://pan.baidu.com/s/14gKTLOgKiL0u8NSgkW8W7g|赠品https://pan.baidu.com/s/1VFHogl9pNDsrm02rPF_czw|
-|558748|暗黑之门：伦敦|链接https://pan.baidu.com/s/1pxP-ZLBYB66ye08HafLHKQ||
+|965874|奥日和黑暗森林:终极版|链接https://pan.baidu.com/s/14gKTLOgKiL0u8NSgkW8W7g|赠品https://pan.baidu.com/s/1VFHogl9pNDsrm02rPF_czw|
+|558748|暗黑之门:伦敦|链接https://pan.baidu.com/s/1pxP-ZLBYB66ye08HafLHKQ||
 |521477|ABZU/智慧之海/海洋探索/深海探险|链接https://pan.baidu.com/s/1_Hp76WZerAYZkJAaw2vWBw|赠品https://pan.baidu.com/s/1uQ9Rg2j8-_1TfViy6R3oNg|
 |522214|ATLAS/阿特拉斯,奇幻海盗冒险生存|链接https://pan.baidu.com/s/1mVbxXQ5SACPtk1PN_DpSsQ||
-|521487|阿加雷斯特战记：甜蜜新婚|链接https://pan.baidu.com/s/1XCmkwCFEmew5zpKyY1hxig|赠品https://pan.baidu.com/s/1D0tx9yVUSqviOkjlJt8_Ow|
-|154875|阿提拉：全面战争|链接https://pan.baidu.com/s/1krSZyw24j21F3XpB-AUhkw|赠品https://pan.baidu.com/s/1EtNNpq2X3uqCUVyA2U7X3w|
-|987445|阿普索夫：诸神终结|链接https://pan.baidu.com/s/1W7pohGdNK7wSIsSyMBszUA||
-|854996|AI：梦境档案/爱梦境档案|链接https://pan.baidu.com/s/1DOQtzkSN962OpaEPBGBvOQ||
+|521487|阿加雷斯特战记:甜蜜新婚|链接https://pan.baidu.com/s/1XCmkwCFEmew5zpKyY1hxig|赠品https://pan.baidu.com/s/1D0tx9yVUSqviOkjlJt8_Ow|
+|154875|阿提拉:全面战争|链接https://pan.baidu.com/s/1krSZyw24j21F3XpB-AUhkw|赠品https://pan.baidu.com/s/1EtNNpq2X3uqCUVyA2U7X3w|
+|987445|阿普索夫:诸神终结|链接https://pan.baidu.com/s/1W7pohGdNK7wSIsSyMBszUA||
+|854996|AI:梦境档案/爱梦境档案|链接https://pan.baidu.com/s/1DOQtzkSN962OpaEPBGBvOQ||
 |632555|阿贡诺斯和众神石像|链接https://pan.baidu.com/s/10WSFnjCz73obA5jzxWEn3A||
 |487745|AI少女/你懂的|链接https://pan.baidu.com/s/1-Ml_q_KdId6Gt8if5jYqmA|赠品https://pan.baidu.com/s/14DfdYoUwdP2rSYmbNZYWkQ|
-|523663|安妮：最后的希望/电脑小游戏|链接https://pan.baidu.com/s/1G4PhDQ1V0MKqBl-QGvMbdg||
+|523663|安妮:最后的希望/电脑小游戏|链接https://pan.baidu.com/s/1G4PhDQ1V0MKqBl-QGvMbdg||
 |632223|爱之钥2/你懂的|链接https://pan.baidu.com/s/1ZBm3H2-IEq2-sue8Rcny3A||
-|358774|Arise：一个平凡的故事/单机.同屏多人|链接https://pan.baidu.com/s/1aaMstn8qix-hxVX0jOxA_Q||
-|415225|埃德娜和哈维：逃离疯人院|链接https://pan.baidu.com/s/1h6hZKI5C2L22w0vM_6VMNg||
+|358774|Arise:一个平凡的故事/单机.同屏多人|链接https://pan.baidu.com/s/1aaMstn8qix-hxVX0jOxA_Q||
+|415225|埃德娜和哈维:逃离疯人院|链接https://pan.baidu.com/s/1h6hZKI5C2L22w0vM_6VMNg||
 |569887|奥赛罗冒险2|链接https://pan.baidu.com/s/12C_YvrjjrTQIZSMs8NQ6AA||
 |636697|ASCOT Demon'sWaltz/恶魔的华尔兹/你懂的|链接https://pan.baidu.com/s/1DiIDRnOspIUWDcmhlN6mFg||
-|632598|阿零和拍塔：女皇BUG的袭来/Null Peta|链接https://pan.baidu.com/s/1UTF5BM6hwKJOAz85u_I8mA||
-|748744|阿嚏琉斯：欧米茄/古希腊语暴民/推翻希腊众神流氓|链接https://pan.baidu.com/s/19G9WsgH2r1d9IKyrBg6GJw||
+|632598|阿零和拍塔:女皇BUG的袭来/Null Peta|链接https://pan.baidu.com/s/1UTF5BM6hwKJOAz85u_I8mA||
+|748744|阿嚏琉斯:欧米茄/古希腊语暴民/推翻希腊众神流氓|链接https://pan.baidu.com/s/19G9WsgH2r1d9IKyrBg6GJw||
 |526333|爱的闪耀偶像企划/你懂的|链接https://pan.baidu.com/s/1x4SI3gqadbTb3yxFzOYTvg||
 |687444|安娜贝尔的诅咒|链接https://pan.baidu.com/s/1NEptesfdkbu7WWnrd7Kjew||
 |698569|暴战机甲兵|链接https://pan.baidu.com/s/18wio4628QnXSEa2pWALsTw|赠品https://pan.baidu.com/s/1sDlO5LNH9H_TPtMyO8tXIA|
 |856665|迸发2/1/机甲狂潮/巨浪|链接https://pan.baidu.com/s/1TQ-najWNVL_vzCkqo9YGPQ|赠品https://pan.baidu.com/s/1w-JXmqN4Od73W_u6Xg5mHQ|
 |587698|北境之地/北加尔/进化之地|链接https://pan.baidu.com/s/1da_n6SHp-7e_SQV9zIibIw|赠品https://pan.baidu.com/s/1m4u3PutkH3Bs_f_uc-RJOQ|
-|693589|薄樱鬼真改：华之章.风之章|链接https://pan.baidu.com/s/1O-fdL2EzB7EaCgz3p2C-oA|赠品https://pan.baidu.com/s/1dMGfjjAijWXYNo8y3xelAg|
-|254444|蝙蝠侠：阿卡姆/阿甘骑士/阿卡姆疯人院/阿甘之城/阿甘起源/阿甘起源之黑门/故事版全5章/内战,内敌全5章|链接https://pan.baidu.com/s/1lcXkogp9x4eBIEJLeXT20Q|赠品https://pan.baidu.com/s/1DI5eoFl3aljQ6HiRYVc42Q|
+|693589|薄樱鬼真改:华之章.风之章|链接https://pan.baidu.com/s/1O-fdL2EzB7EaCgz3p2C-oA|赠品https://pan.baidu.com/s/1dMGfjjAijWXYNo8y3xelAg|
+|254444|蝙蝠侠:阿卡姆/阿甘骑士/阿卡姆疯人院/阿甘之城/阿甘起源/阿甘起源之黑门/故事版全5章/内战,内敌全5章|链接https://pan.baidu.com/s/1lcXkogp9x4eBIEJLeXT20Q|赠品https://pan.baidu.com/s/1DI5eoFl3aljQ6HiRYVc42Q|
 |448758|不义联盟2传奇版/单人.多人同屏|链接https://pan.baidu.com/s/1uPbD_-Xr7o00FLwLwi0eVA|赠品https://pan.baidu.com/s/1SsmqcTQ209rCW2YA4oM2lw|
 |254963|波西亚时光/电脑小游戏|链接https://pan.baidu.com/s/1RI36MkiWqDE-BnGr4_hBPQ|赠品https://pan.baidu.com/s/1lKkBLXiJYAw-FMhkvfnJCg|
 |524631|别样视界|链接https://pan.baidu.com/s/12dktnEbLOwlyw5LF2QL5cQ||
 |336964|边缘世界 环世界|链接https://pan.baidu.com/s/1CeLwM6XI2keJhYV1foVmGA|赠品https://pan.baidu.com/s/1XnJWxQSLQAly5ZHyf-idig|
-|558748|不不可思议的幻想乡：TOD RELOADED|链接https://pan.baidu.com/s/1LsfK-FvCvR7X2AfEbGty7A||
+|558748|不不可思议的幻想乡:TOD RELOADED|链接https://pan.baidu.com/s/1LsfK-FvCvR7X2AfEbGty7A||
 |101112|不要喂食猴子|链接https://pan.baidu.com/s/1-PTN1KYIykl1KtULompSAw||
 |332333|不可思议|||
 |854754|宝藏猎人寻宝模拟器|链接https://pan.baidu.com/s/1INHpq3X6zntRwDgbDhbhIg||
-|254121|薄暮传说：终极版/宵星传奇：终极版|链接https://pan.baidu.com/s/1pDiKrjLGWl2jq4cvb_4uhQ|赠品https://pan.baidu.com/s/18a32mo433d-Qrlc1rpDQ0Q|
-|658877|孢子：银河大冒险|链接https://pan.baidu.com/s/1DboVFBjqH0SnLY6M3jIzVA|赠品https://pan.baidu.com/s/15vb_XDvDkvt24MjgveAtaQ|
+|254121|薄暮传说:终极版/宵星传奇:终极版|链接https://pan.baidu.com/s/1pDiKrjLGWl2jq4cvb_4uhQ|赠品https://pan.baidu.com/s/18a32mo433d-Qrlc1rpDQ0Q|
+|658877|孢子:银河大冒险|链接https://pan.baidu.com/s/1DboVFBjqH0SnLY6M3jIzVA|赠品https://pan.baidu.com/s/15vb_XDvDkvt24MjgveAtaQ|
 |874458|博德之门2加强版/单机.局域网联机/赠送1代|链接https://pan.baidu.com/s/1ac6_yhV12wq7KZarU07rAw|赠品https://pan.baidu.com/s/14Cvz3_OvTMfyAq8lQ0CDyg|
-|512448|笨蛋魔女：苏菲莉娅的好·色使魔/你懂的|链接https://pan.baidu.com/s/1SFXQJkYQB8fkbP0wgrQKVw|赠品https://pan.baidu.com/s/1nrDtqZV7ZGaoNNrI7RzQmA|
+|512448|笨蛋魔女:苏菲莉娅的好·色使魔/你懂的|链接https://pan.baidu.com/s/1SFXQJkYQB8fkbP0wgrQKVw|赠品https://pan.baidu.com/s/1nrDtqZV7ZGaoNNrI7RzQmA|
 |326521|被亲戚家双子少女逆推/被长辈发现就会GG的强制播种/你懂的|链接https://pan.baidu.com/s/1n0iuPpwpILUXJ04el6nkSw||
 |521447|病毒恶化|链接https://pan.baidu.com/s/1VI6MHnrYi2d_ZmlY6FAaxA||
-|632541|百万亚瑟王：秘术之血/圣灵之血/网络联机/同屏联机|链接https://pan.baidu.com/s/106ppaBdFfrqL2IYkPxCihg|赠品https://pan.baidu.com/s/1b-Ar_AtExL8s2vY8uYnE9A|
+|632541|百万亚瑟王:秘术之血/圣灵之血/网络联机/同屏联机|链接https://pan.baidu.com/s/106ppaBdFfrqL2IYkPxCihg|赠品https://pan.baidu.com/s/1b-Ar_AtExL8s2vY8uYnE9A|
 |852147|彼处水如酒/那里水美似酒/水蜜如酒之地|链接https://pan.baidu.com/s/1fZuYHCf4dj4y2K5D3uQHRQ||
-|632547|变形定律：重塑/墨菲斯法则重制版/局域网联机|链接https://pan.baidu.com/s/1AuwxTaCySU0B8WDLYQysEQ||
+|632547|变形定律:重塑/墨菲斯法则重制版/局域网联机|链接https://pan.baidu.com/s/1AuwxTaCySU0B8WDLYQysEQ||
 |854777|变量|链接https://pan.baidu.com/s/1ztISIAoRW1tMdHg4cH97-A||
-|963236|百战天虫：战争武器|链接https://pan.baidu.com/s/10YWB5LL6MQsga0hDuDwiFw||
+|963236|百战天虫:战争武器|链接https://pan.baidu.com/s/10YWB5LL6MQsga0hDuDwiFw||
 |963254|布莱尔女巫|链接https://pan.baidu.com/s/1WfaCcQHsJoox5E1JIlvfxg|赠品https://pan.baidu.com/s/1u-bB-POMoUSCJGDijfv79Q|
 |748547|八方旅人/歧路旅人|链接https://pan.baidu.com/s/1_DuI0ICBlu2j7TEkHikrUA|赠品https://pan.baidu.com/s/1yA3nu6tcvQn59VQFJ93kMw|
 |854778|白日噩梦1998/昼魇1998|链接https://pan.baidu.com/s/1inel70KwkBlo_IVuG_Ssrg|赠品https://pan.baidu.com/s/1RQmGDA76q60b2Lpp_zVKLQ|
 |748554|不屈者柯南/蛮王不可战胜|链接https://pan.baidu.com/s/1qwVQyDLGr03bhAu8wNupjg|赠品https://pan.baidu.com/s/1r1pPr2_q000zKpPrrrSmLw|
 |632223|暴雨|链接https://pan.baidu.com/s/1aqBiZz6drlZZE5FBochnWQ||
-|325669|堡垒：火焰之炼|链接https://pan.baidu.com/s/1xjyi5nVBEfU_ICeC22rx1Q||
+|325669|堡垒:火焰之炼|链接https://pan.baidu.com/s/1xjyi5nVBEfU_ICeC22rx1Q||
 |236554|巴士模拟18|链接https://pan.baidu.com/s/1KXH4m5oEKlFOtQ8VdcIBeg||
 |236554|巴士司机模拟器2019/城市公交模拟器2019|链接https://pan.baidu.com/s/18-sTxuqLqrk985fzxXKbNA||
 |652114|Baldr Sky/水无月空|链接https://pan.baidu.com/s/1Ag-w50Yh2lCbQ1778L9gaw||
@@ -81,32 +81,32 @@ tags:                               #标签
 |748774|碧蓝航线CrossWave|链接https://pan.baidu.com/s/1kBYENFePMD808xfScNDvHg|赠品https://pan.baidu.com/s/1XqkATfokPBlznbn65KkdiQ|
 |965874|白恋SAKURA GRAM/你懂的|链接https://pan.baidu.com/s/1Su9XRx__GEpE5Ojz0-zocQ||
 |965879|超级炸弹人R|链接https://pan.baidu.com/s/179-otT2RwQXUNsBD0zcTTQ|赠品https://pan.baidu.com/s/1MrG1xeZrrfNxBJOOMZP8Ew|
-|693259|苍翼默示录：交叉组队战|链接https://pan.baidu.com/s/1sa-9079PvkovPE2X62PnPQ|赠品https://pan.baidu.com/s/1JcjZsYXtTqkCt1sY66a2pg|
+|693259|苍翼默示录:交叉组队战|链接https://pan.baidu.com/s/1sa-9079PvkovPE2X62PnPQ|赠品https://pan.baidu.com/s/1JcjZsYXtTqkCt1sY66a2pg|
 ||CS|链接https://pan.baidu.com/s/1gkigqD0S4fvH93oUGVOIWQ|赠品https://pan.baidu.com/s/1OWVunF_8Wim0Rx-LN7H7SQ|
 |548777|尘埃拉力赛2.0/拉力赛1.0/决战/4/3/2/1|链接https://pan.baidu.com/s/1b-VL4jr8y-j_j48W1Hk7Mw|赠品https://pan.baidu.com/s/1AOIxq-YQ3oSWiAO6hGbEGg|
-|035268|耻辱2、界外魔之死|链接https://pan.baidu.com/s/1BRrA2AINKncccF8vY0rNjw|赠品https://pan.baidu.com/s/1-7-s1m767GMb_9-krZ2--Q|
+|035268|耻辱2\界外魔之死|链接https://pan.baidu.com/s/1BRrA2AINKncccF8vY0rNjw|赠品https://pan.baidu.com/s/1-7-s1m767GMb_9-krZ2--Q|
 |558799|茶杯头/同屏联机|链接https://pan.baidu.com/s/1-fIj6VbJngxJXQ79pFj-jg|赠品https://pan.baidu.com/s/12qRKh11AjoBwu0V-lEQORg|
-|126953|城市：天际线|链接https://pan.baidu.com/s/1i40HN4YW6oU9g9MNIpWglw|赠品https://pan.baidu.com/s/1D-knuXHSvjBaHMrpla0V8Q|
-|101542|刺客信条8：奥德赛/3重置版/15部合集|链接https://pan.baidu.com/s/15aaCCPUyWIsR3va4Vo9QAg|赠品https://pan.baidu.com/s/19C7UFoYcqOAxoEUOzI_Tng|
+|126953|城市:天际线|链接https://pan.baidu.com/s/1i40HN4YW6oU9g9MNIpWglw|赠品https://pan.baidu.com/s/1D-knuXHSvjBaHMrpla0V8Q|
+|101542|刺客信条8:奥德赛/3重置版/15部合集|链接https://pan.baidu.com/s/15aaCCPUyWIsR3va4Vo9QAg|赠品https://pan.baidu.com/s/19C7UFoYcqOAxoEUOzI_Tng|
 |326984|吃鸡模拟器|链接https://pan.baidu.com/s/1sNeL50f47iq4ggigJoE-uw||
 |145698|超级情圣2/绝世情圣2/泡妞搭讪教程2/1|链接https://pan.baidu.com/s/1xKv70LyXdbY5uTuZdayFRw||
 |215463|错误的信标|链接https://pan.baidu.com/s/16-KltU8M_nUw6iZ8Idyq3Q||
-|215454|错误的信标2 错误：里程碑2|链接https://pan.baidu.com/s/1pN1y56LW9v6zOYPCeHAqzQ||
-|548745|超杀：行尸走肉|链接https://pan.baidu.com/s/1DqDxGPsK1M9Q-tDwPaezAQ|赠品https://pan.baidu.com/s/1wuxgF3Jot9cdfqjdaGJ-cg|
+|215454|错误的信标2 错误:里程碑2|链接https://pan.baidu.com/s/1pN1y56LW9v6zOYPCeHAqzQ||
+|548745|超杀:行尸走肉|链接https://pan.baidu.com/s/1DqDxGPsK1M9Q-tDwPaezAQ|赠品https://pan.baidu.com/s/1wuxgF3Jot9cdfqjdaGJ-cg|
 |326514|超级马里奥制造|链接https://pan.baidu.com/s/1IRL-I3hIWVpGz9Z7LoiI_w|赠品https://pan.baidu.com/s/10RvsvzMMiP8DhqCn31oMiA|
 |587454|彩虹ZL|||
-|336522|彩虹六号：围攻|链接https://pan.baidu.com/s/1ZZ7AJl8I-wFARn5QtzGL1w|赠品https://pan.baidu.com/s/1VKrVJc3dGwvDyk8MkxqDnw|
-|784555|超级龙珠英雄：世界任务|链接https://pan.baidu.com/s/1ZZFmwP19PS1h-XoLEWFKlQ|赠品https://pan.baidu.com/s/1wLwRTBg667mxWbd7ytyL7A|
+|336522|彩虹六号:围攻|链接https://pan.baidu.com/s/1ZZ7AJl8I-wFARn5QtzGL1w|赠品https://pan.baidu.com/s/1VKrVJc3dGwvDyk8MkxqDnw|
+|784555|超级龙珠英雄:世界任务|链接https://pan.baidu.com/s/1ZZFmwP19PS1h-XoLEWFKlQ|赠品https://pan.baidu.com/s/1wLwRTBg667mxWbd7ytyL7A|
 |566544|超音速|链接https://pan.baidu.com/s/19vygU8ag2maUtVYttz0f8A||
-|454777|残机0：最后的开始/余命为零|链接https://pan.baidu.com/s/1vGlm_59H-oCXnsL6i6-7cw|赠品https://pan.baidu.com/s/1WVQd4CFlh95TUVX_I4N7oQ|
+|454777|残机0:最后的开始/余命为零|链接https://pan.baidu.com/s/1vGlm_59H-oCXnsL6i6-7cw|赠品https://pan.baidu.com/s/1WVQd4CFlh95TUVX_I4N7oQ|
 |854777|尘怒之拳/达斯蒂猛烈拳击/.同屏联机|链接https://pan.baidu.com/s/1kIertfdN0o1SLpDtfHVpQA|赠品https://pan.baidu.com/s/1WzBMZzhoPvXze98jqWQ4WQ|
 |326522|传说法师/单机.同屏联机|链接https://pan.baidu.com/s/1g52Eh0ZFTpbgKchNc6Fo3g|赠品https://pan.baidu.com/s/1dswxHJ4-Y4--e2U-xj1JJw|
 |874512|层层恐惧2/1|链接https://pan.baidu.com/s/12czOaE70m82yX4Pv-yQ-9A|赠品https://pan.baidu.com/s/1oYxhq_etb--Gg-MTgCcDzA|
 |541112|冲突的意志/你懂的|链接https://pan.baidu.com/s/1AxXGKVYQzoYNu1uu9DQYRg||
 |625554|超级海王星/勇者战机少女|链接https://pan.baidu.com/s/1zoEbFCi_YiF_rpNELZz3QA|赠品https://pan.baidu.com/s/1Kh_sMQir1pavsRY6JMU5NQ|
-|625554|超次元海王星：重生1|链接https://pan.baidu.com/s/1ucGH5a2x9zPmodoZ3WlY-w|赠品https://pan.baidu.com/s/172-83gufCeEiGwL9e_iIkw|
-|625554|超次元海王星：重生2姐妹时代|链接https://pan.baidu.com/s/1Dc93eFC_OzaJXSxoURLAFg|赠品https://pan.baidu.com/s/1nakLHBWdT97PCRyjqYjV_A|
-|625554|超次元海王星：重生3 V世纪|链接https://pan.baidu.com/s/12GKPnq6zDnAldGrhfkNEgQ|赠品https://pan.baidu.com/s/1xwbFI8OLGrnYpmCdn4svzA|
+|625554|超次元海王星:重生1|链接https://pan.baidu.com/s/1ucGH5a2x9zPmodoZ3WlY-w|赠品https://pan.baidu.com/s/172-83gufCeEiGwL9e_iIkw|
+|625554|超次元海王星:重生2姐妹时代|链接https://pan.baidu.com/s/1Dc93eFC_OzaJXSxoURLAFg|赠品https://pan.baidu.com/s/1nakLHBWdT97PCRyjqYjV_A|
+|625554|超次元海王星:重生3 V世纪|链接https://pan.baidu.com/s/12GKPnq6zDnAldGrhfkNEgQ|赠品https://pan.baidu.com/s/1xwbFI8OLGrnYpmCdn4svzA|
 |963254|沉没之城|链接https://pan.baidu.com/s/1Dwuvwa3DLaKTBcFo9xx7JQ|赠品https://pan.baidu.com/s/1l1PrYaAYSDovrs8Kgcz-fg|
 |965887|传送门骑士|链接https://pan.baidu.com/s/1bX6Zxy9qJNy81BSer4jhaA|赠品https://pan.baidu.com/s/1dyaCyHcPfFf_BC1lttvZ9A|
 |632666|刺客女仆佛媞/你懂的|链接https://pan.baidu.com/s/1UJRvj7PpzK02Ho4bLzxeQg||
@@ -122,34 +122,34 @@ tags:                               #标签
 |364458|苍月之光和魔剑锻造师/你懂的|链接https://pan.baidu.com/s/141TZn5YYn324XmDWZo0nZQ||
 |874996|虫虫学院|链接https://pan.baidu.com/s/1V-0BFXXwKyEN8bay3SU5Rg||
 |659474|CODE SHIFTER|链接https://pan.baidu.com/s/1KVFxp3TyLrzPbRsHT6Cw_g||
-|632147|传颂之物：虚伪的假面|链接https://pan.baidu.com/s/1s7HxAl1-zZI7260milMx0Q||
-|632147|传颂之物：二人的白皇|链接https://pan.baidu.com/s/1yO9WUQNdqS49fk_NON-aJg||
+|632147|传颂之物:虚伪的假面|链接https://pan.baidu.com/s/1s7HxAl1-zZI7260milMx0Q||
+|632147|传颂之物:二人的白皇|链接https://pan.baidu.com/s/1yO9WUQNdqS49fk_NON-aJg||
 |748556|超时空打球/单机.同屏多人|链接https://pan.baidu.com/s/1LKPTt6GjeqG_XVSkEm5INg||
 |547896|超级宇宙巡航机/单机.同屏多人|链接https://pan.baidu.com/s/1smPprnSlY-4Qn3FtgMwPqg||
 |748779|纯情魅魔的同居生活/TroubleDays/你懂的|链接https://pan.baidu.com/s/1_284lyrI5r5IC0CfYrhW8Q||
-|254663|帝国时代：终极版/4/3/2/1/9部合集|链接https://pan.baidu.com/s/1jVzomF-P59Q9jULHcg4ZIw|赠品https://pan.baidu.com/s/1UO2WGIr1Y1G2u3qNuyzTSA|
-|254663|帝国时代2：决定版|链接https://pan.baidu.com/s/143bnZUEtZR0N1PAEMKBmxQ|赠品https://pan.baidu.com/s/1BCVBw3TUw4gJ5KIMqj05vw|
+|254663|帝国时代:终极版/4/3/2/1/9部合集|链接https://pan.baidu.com/s/1jVzomF-P59Q9jULHcg4ZIw|赠品https://pan.baidu.com/s/1UO2WGIr1Y1G2u3qNuyzTSA|
+|254663|帝国时代2:决定版|链接https://pan.baidu.com/s/143bnZUEtZR0N1PAEMKBmxQ|赠品https://pan.baidu.com/s/1BCVBw3TUw4gJ5KIMqj05vw|
 |058796|迪托之剑|链接https://pan.baidu.com/s/1zJV0XETGsfAKuwbO-Hs6gg|赠品https://pan.baidu.com/s/1drFGnBVrayphs_hSFGgo5w|
 |254132|电脑装机模拟器|链接https://pan.baidu.com/s/1EwQ48eP8Zuak8i3dCFwAHQ|赠品https://pan.baidu.com/s/1UEGa21iLg3VVT5VPzVpgaw|
-|552587|刀剑神域：虚空断章|链接https://pan.baidu.com/s/1lPJzKf7HISDsfXkttedg4w|赠品https://pan.baidu.com/s/18RAEQRlai_-Em8DblC0tBQ|
-|521114|刀剑神域：夺命凶弹|链接https://pan.baidu.com/s/1sdGaOhsQBd4bSMicW4-3tA|赠品https://pan.baidu.com/s/1Vu9IVqhEJfZe_k3gFG42Uw|
-||刀剑神域：虚空幻界|链接https://pan.baidu.com/s/1XngkNpRxE1G3svoGGQrBZA|赠品https://pan.baidu.com/s/1y_YRzHFMFZn8XWvRCE5_kg|
-|254125|刀剑神域：失落之歌  黑衣剑士|链接https://pan.baidu.com/s/1mA28MGhdUJ08yNvUpIKH5w||
-|326666|德军总部2：新巨像/新巨人+1代+旧血脉+新序章合集|链接https://pan.baidu.com/s/1a0te3M3O-hOvNF50n2VUQA|赠品https://pan.baidu.com/s/1fWIknOqE-C9Im7PZKdsUSw|
-|326666|德军总部：新血脉/新血液|链接https://pan.baidu.com/s/1rC2yH66v97-pnIl0CM_ojg|赠品https://pan.baidu.com/s/1o8bJiZw4UMpmkQpb3KURUA|
+|552587|刀剑神域:虚空断章|链接https://pan.baidu.com/s/1lPJzKf7HISDsfXkttedg4w|赠品https://pan.baidu.com/s/18RAEQRlai_-Em8DblC0tBQ|
+|521114|刀剑神域:夺命凶弹|链接https://pan.baidu.com/s/1sdGaOhsQBd4bSMicW4-3tA|赠品https://pan.baidu.com/s/1Vu9IVqhEJfZe_k3gFG42Uw|
+||刀剑神域:虚空幻界|链接https://pan.baidu.com/s/1XngkNpRxE1G3svoGGQrBZA|赠品https://pan.baidu.com/s/1y_YRzHFMFZn8XWvRCE5_kg|
+|254125|刀剑神域:失落之歌  黑衣剑士|链接https://pan.baidu.com/s/1mA28MGhdUJ08yNvUpIKH5w||
+|326666|德军总部2:新巨像/新巨人+1代+旧血脉+新序章合集|链接https://pan.baidu.com/s/1a0te3M3O-hOvNF50n2VUQA|赠品https://pan.baidu.com/s/1fWIknOqE-C9Im7PZKdsUSw|
+|326666|德军总部:新血脉/新血液|链接https://pan.baidu.com/s/1rC2yH66v97-pnIl0CM_ojg|赠品https://pan.baidu.com/s/1o8bJiZw4UMpmkQpb3KURUA|
 |487596|地球陨落|链接https://pan.baidu.com/s/1HvdlH8QvXqMSqo76EGvKqQ||
-||大神：绝景版|链接https://pan.baidu.com/s/1KpiP4gbRILEqUase91OycA|赠品https://pan.baidu.com/s/1OQFJo-R6UPjuT5nBxz5SRQ|
+||大神:绝景版|链接https://pan.baidu.com/s/1KpiP4gbRILEqUase91OycA|赠品https://pan.baidu.com/s/1OQFJo-R6UPjuT5nBxz5SRQ|
 |889745|地狱潜者/绝地战兵|链接https://pan.baidu.com/s/10bL3SPlUORg_cRc_XQef0w|赠品https://pan.baidu.com/s/16F06fiDbDfd6c6S-yi0yMw|
-|965874|地狱之刃：塞娜的献祭|链接https://pan.baidu.com/s/12mjgV42xC7p4bSDcGGc0bw|赠品https://pan.baidu.com/s/1-701Z7ykx8T_dPi6TkWumQ|
-|215412|地下世界：崛起|链接https://pan.baidu.com/s/1eZB9W2P5kWBA7X271HvTmg||
+|965874|地狱之刃:塞娜的献祭|链接https://pan.baidu.com/s/12mjgV42xC7p4bSDcGGc0bw|赠品https://pan.baidu.com/s/1-701Z7ykx8T_dPi6TkWumQ|
+|215412|地下世界:崛起|链接https://pan.baidu.com/s/1eZB9W2P5kWBA7X271HvTmg||
 |548754|第一棵树|链接https://pan.baidu.com/s/1CwLnpzWMmbd_LE6eU4L34Q||
 |587458|电竞|||
-|658741|帝国：全面战争|链接https://pan.baidu.com/s/1MVerUeXEnMiLGxqD8WbOHQ|赠品https://pan.baidu.com/s/1oWgZAd0WBVkWnkBIjW8i8Q|
+|658741|帝国:全面战争|链接https://pan.baidu.com/s/1MVerUeXEnMiLGxqD8WbOHQ|赠品https://pan.baidu.com/s/1oWgZAd0WBVkWnkBIjW8i8Q|
 |521453|地铁离去/地铁离乡|链接https://pan.baidu.com/s/1PhFSfY-aXQCmLvMcUJAXcA|赠品https://pan.baidu.com/s/1PVKaAJZlKA7-XooKWyaqqg|
 |548744|东方之茵|链接https://pan.baidu.com/s/1dYVcAFtd4dJQD64ysSH8aA||
 |365222|第七部门|链接https://pan.baidu.com/s/19LmxPscbjtnOL-fLKYd8mQ||
 |456663|岛民/岛屿建造|链接https://pan.baidu.com/s/1zobHqz5CIGsaaIBUZ71T_Q||
-|566326|大将军：罗马/帝皇罗马/统治者罗马|链接https://pan.baidu.com/s/1TOttE1vY-2EA26vM3UrMOQ|赠品https://pan.baidu.com/s/10COR1fDlUDX4pyotyigFZw|
+|566326|大将军:罗马/帝皇罗马/统治者罗马|链接https://pan.baidu.com/s/1TOttE1vY-2EA26vM3UrMOQ|赠品https://pan.baidu.com/s/10COR1fDlUDX4pyotyigFZw|
 |652144|狄仁杰之锦蔷薇|链接https://pan.baidu.com/s/1rTKIHJhJQjnrICxqByhybw|赠品https://pan.baidu.com/s/1-4NTm55uLD07j4tZDtymaw|
 |321541|动人心弦的旋律/你懂的|链接https://pan.baidu.com/s/1i93KUNTpnvu-UvXOz_8p3g||
 |874125|奠基|链接https://pan.baidu.com/s/1TzKrbAeSvOGUmdNscXJpNg|赠品https://pan.baidu.com/s/1OzDb21O9fpUnYuKVGF94Nw|
@@ -157,25 +157,25 @@ tags:                               #标签
 |521445|大兄弟/你懂的|链接https://pan.baidu.com/s/19eOaMmRjo0uRwHzgpqPRyg||
 |215412|东方月神夜|链接https://pan.baidu.com/s/1Erwsl1se7HGflWoq0t8V-w||
 |633656|地牢之上/越过地牢/超越地牢|链接https://pan.baidu.com/s/1dgEV37DI_wgD2ojX7UCjgA||
-|855669|代达罗斯：黄金爵士乐的觉醒/神宫寺三郎代达洛斯|链接https://pan.baidu.com/s/1qKEvynWUay-PLrP91dT-VQ||
+|855669|代达罗斯:黄金爵士乐的觉醒/神宫寺三郎代达洛斯|链接https://pan.baidu.com/s/1qKEvynWUay-PLrP91dT-VQ||
 |744775|地球防卫军5/单机.同屏联机|链接https://pan.baidu.com/s/1bp3Yr95VM7uky3Ri97BsZA||
 |963265|豆腐脑模拟器|链接https://pan.baidu.com/s/1SQ6UVLsWeQJmV9cLZeN5qA||
 |854117|洞窟开拓者/洞穴开拓者|链接https://pan.baidu.com/s/1XMEi9_d0EwRKp2741JXykg||
 |363225|打造世界/网络联机|链接https://pan.baidu.com/s/1NwgV0OPpZmTuzIIjUusIBQ|赠品https://pan.baidu.com/s/1AyYRxDBRyR6piRFOjMvdpw|
-|363225|打造世界：单机版/创造世界|链接https://pan.baidu.com/s/1ptMDvB2Ed6_aIPlMJJxFiQ|赠品https://pan.baidu.com/s/1IKt-BAQhUuuqhwZnmFhqtg|
+|363225|打造世界:单机版/创造世界|链接https://pan.baidu.com/s/1ptMDvB2Ed6_aIPlMJJxFiQ|赠品https://pan.baidu.com/s/1IKt-BAQhUuuqhwZnmFhqtg|
 |365998|堕落之春/你懂的|链接https://pan.baidu.com/s/1wzJ2TV_ZfMQOyAAPYmBioQ|赠品https://pan.baidu.com/s/1RSdTbHfXcpuWEZj5de0Fqg|
 |632558|堕落玩偶.女2号/你懂的|链接https://pan.baidu.com/s/1v3V_O59J9R28fXA2FUsaig||
 |632547|打工新妻莉安娜/你懂的|链接https://pan.baidu.com/s/1IgS2ysOzOeWc8Tlr2htZMQ||
 |854775|DARQ/达拉克|链接https://pan.baidu.com/s/1Zu9zLui9PyeMBAYk2wQJ5Q||
 |521456|渎神|链接https://pan.baidu.com/s/1-JDv9m4aYY6VhRtVprP13g|赠品https://pan.baidu.com/s/1kxpetTZwkntJyOJa3UTkag|
 |636366|Depraved/堕落/腐化|链接https://pan.baidu.com/s/1-JpJsjHrQKVk7gYyQNkudg|赠品https://pan.baidu.com/s/115XPeOh8Ema1CYjJojT7KQ|
-|632554|哆啦A梦：牧场物语|链接https://pan.baidu.com/s/101WCsMsy4CUn16th7vsxDQ|赠品https://pan.baidu.com/s/15hmylkWQkC9yoh3S7OhB0w|
+|632554|哆啦A梦:牧场物语|链接https://pan.baidu.com/s/101WCsMsy4CUn16th7vsxDQ|赠品https://pan.baidu.com/s/15hmylkWQkC9yoh3S7OhB0w|
 |521448|蒂亚的炼金工坊/你懂的|链接https://pan.baidu.com/s/1obOrGBwlg9rCJE7mnK9g7g||
 |632221|大富翁10/网络联机版/电脑小游戏|链接https://pan.baidu.com/s/18IHq2cwp1LHwPLM8KLN4Bg|赠品https://pan.baidu.com/s/1bTO_Di_5-WAU-Pru2ycf4g|
 |547885|地狱少女/你懂的|链接https://pan.baidu.com/s/1jk3CT0Rd9WzX5mGnqcasNQ||
-|854778|东京喰种：re CALL to EXIST|链接https://pan.baidu.com/s/1NY45eNg_mFcpvHqZV4D76w|链接https://pan.baidu.com/s/1RqpiRdCJrIqdkFj2rNXJTw|
-|478554|毒枭：卡特尔崛起|链接https://pan.baidu.com/s/1oRcXql-rKuHl-KjeMwdpWQ||
-|632221|单身日记：新鲜人篇/你懂的|链接https://pan.baidu.com/s/1tD1Nezdk7ov2KY_f1pkdug||
+|854778|东京喰种:re CALL to EXIST|链接https://pan.baidu.com/s/1NY45eNg_mFcpvHqZV4D76w|链接https://pan.baidu.com/s/1RqpiRdCJrIqdkFj2rNXJTw|
+|478554|毒枭:卡特尔崛起|链接https://pan.baidu.com/s/1oRcXql-rKuHl-KjeMwdpWQ||
+|632221|单身日记:新鲜人篇/你懂的|链接https://pan.baidu.com/s/1tD1Nezdk7ov2KY_f1pkdug||
 |521447|喋血街头4|链接https://pan.baidu.com/s/1Sff9Yt8NQU2th1asMCfyRg||
 |362221|地下室/Basement|链接https://pan.baidu.com/s/1t_tg4BD9dy1WYFuu-nMO7g||
 |215554|大正×对称爱丽丝|链接https://pan.baidu.com/s/1NMCmM8lJK_rZiHt6agFgkQ||
@@ -185,10 +185,10 @@ tags:                               #标签
 |358996|东方帝国|链接https://pan.baidu.com/s/1JzvvgFTAXnkYSaYYS6u2Ow||
 |698554|第3000次决斗|链接https://pan.baidu.com/s/1oMVu5Uftxwa5eam4vceXBA||
 |658744|动物之鬪/电脑小游戏|链接https://pan.baidu.com/s/15eWC79DevNWSQ6lZY5vGPA||
-|854744|第二次机会：圣诞特别版/你懂的|链接https://pan.baidu.com/s/1pdjKVw8RY-KNCXvvVnKGJg||
+|854744|第二次机会:圣诞特别版/你懂的|链接https://pan.baidu.com/s/1pdjKVw8RY-KNCXvvVnKGJg||
 |963223|代号109城市 爱丽丝篇·序/你懂的|链接https://pan.baidu.com/s/1AOfKwsS2jCXzShcQwc0q0g||
 |635477|Danger Gazers/单机.同屏多人|链接https://pan.baidu.com/s/1YefUH8mlLQpp7IT7Kyx74w||
-|632599|弹丸论破2：再见了绝望学园/超级弹丸论破2|链接https://pan.baidu.com/s/1W3ayn_tHaPt3KvfjC8jWRg|赠品https://pan.baidu.com/s/1wM3WIz68nOX5xUd6C9FSqQ|
+|632599|弹丸论破2:再见了绝望学园/超级弹丸论破2|链接https://pan.baidu.com/s/1W3ayn_tHaPt3KvfjC8jWRg|赠品https://pan.baidu.com/s/1wM3WIz68nOX5xUd6C9FSqQ|
 |632599|弹丸论破V3/新弹丸论破V3大家的自相残杀新学期|链接https://pan.baidu.com/s/1K_OEVg3mT5rR0tptM14ohg|赠品https://pan.baidu.com/s/1RBzXiHZ9dFzqPpPY6A7d2Q|
 |326322|大禹治水/电脑小游戏|链接https://pan.baidu.com/s/1hCIlit0-dORilAdrA5fdiA||
 |745896|地下矿工/矿坑之下|链接https://pan.baidu.com/s/1V7u-FAPHWJkQ9kRLZEN3ww|赠品https://pan.baidu.com/s/1kbU2t85OvUqaFt9kEMWILA|
@@ -199,8 +199,8 @@ tags:                               #标签
 |635225|地下城3/单机.局域网联机|链接https://pan.baidu.com/s/1HBE9bDLZZLtQXQl3o4qc4Q|赠品https://pan.baidu.com/s/1w8HNZSLSuyfTWLqbnXtfYg|
 |221541|恶灵附身2+1|链接https://pan.baidu.com/s/1hRqvMc2hNYtDsQYdvc_jRg|赠品https://pan.baidu.com/s/1PN1eB_DSMN1aj5gXX_b8XA|
 ||ELEX|链接https://pan.baidu.com/s/1gLRcTuIV4kykL7qyPNZPfw|赠品https://pan.baidu.com/s/14R5IZYgJjEgjoz6FdTpemg|
-|669875|二之国：白色圣灰的女王重制版/二之国双重国度白女巫之怒|链接https://pan.baidu.com/s/1ZfM8WCNGNCiLAHktaMj3Uw|赠品https://pan.baidu.com/s/1CiS5BoyGDZyfgT0ZFYNDbg|
-|669875|二之国2：幽灵国度/幽灵王国/亡灵国度/亡灵之国|链接https://pan.baidu.com/s/18jZ-sz1IhluiCXzRnZiLHw|赠品https://pan.baidu.com/s/1fg7xJVN1Eh8opX12jINJZw|
+|669875|二之国:白色圣灰的女王重制版/二之国双重国度白女巫之怒|链接https://pan.baidu.com/s/1ZfM8WCNGNCiLAHktaMj3Uw|赠品https://pan.baidu.com/s/1CiS5BoyGDZyfgT0ZFYNDbg|
+|669875|二之国2:幽灵国度/幽灵王国/亡灵国度/亡灵之国|链接https://pan.baidu.com/s/18jZ-sz1IhluiCXzRnZiLHw|赠品https://pan.baidu.com/s/1fg7xJVN1Eh8opX12jINJZw|
 |215496|恶果之地/单人.多人同屏/电脑小游戏|链接https://pan.baidu.com/s/1sXek18H_-uEroJCzUTKJ1w&shfl=sharepset|赠品https://pan.baidu.com/s/105rlzhqpbVL5kZx771BIPQ&shfl=sharepset|
 |447854|恶魔之书|链接https://pan.baidu.com/s/1m4Qsr7HXU0Xa5x6JM5DSTg|赠品https://pan.baidu.com/s/1jHbFooBsYXhDvD9RYvO_PQ|
 |963254|俄罗斯方块效应|链接https://pan.baidu.com/s/1hsS0-J9FiXHD3spT6MZSgA||
@@ -208,10 +208,10 @@ tags:                               #标签
 |632554|恶魔弹珠|链接https://pan.baidu.com/s/1EqXmFvGKfYupxh0Xo-4ryQ||
 |698547|Embark|链接https://pan.baidu.com/s/1hpPeonjKvEa_mYMv7D9JkQ||
 |587774|恶魔的石板和被诅咒的狗子公主/你懂的|链接https://pan.baidu.com/s/14kSemJs49Ck4EMbBIkmPNg||
-|658741|恶魔之女：永恒黑夜/你懂的|链接https://pan.baidu.com/s/1ETNKniiWWUEylldR5UC_fg||
+|658741|恶魔之女:永恒黑夜/你懂的|链接https://pan.baidu.com/s/1ETNKniiWWUEylldR5UC_fg||
 |668799|腐烂国度2|链接https://pan.baidu.com/s/1q7Msb0qSwVRtH22yffE_rg|赠品https://pan.baidu.com/s/1cdtjAIpMlqi6QuF5zZqNgA|
-|258969|方舟：生存进化/单机.网络联机|链接https://pan.baidu.com/s/1t60hulJPR-VwVQ65Hv3ndA|赠品https://pan.baidu.com/s/1Siz2_6mfBT20Gw_B8ugFPg|
-|854968|辐射4绅士MOD：144G终极整合/淘宝160元版|链接https://pan.baidu.com/s/1E0mMDUP5l6Nq6TNsFv8R-Q||
+|258969|方舟:生存进化/单机.网络联机|链接https://pan.baidu.com/s/1t60hulJPR-VwVQ65Hv3ndA|赠品https://pan.baidu.com/s/1Siz2_6mfBT20Gw_B8ugFPg|
+|854968|辐射4绅士MOD:144G终极整合/淘宝160元版|链接https://pan.baidu.com/s/1E0mMDUP5l6Nq6TNsFv8R-Q||
 |854968|辐射4/3/2/1/辐射避难所/新维加斯/钢铁兄弟会|链接https://pan.baidu.com/s/1QrAkVgLtJeREQpXlMnZ4xg|赠品https://pan.baidu.com/s/11Sl9FEtgViVnXCPRsh63Nw|
 |488595|FIFA19/18/17/15/14/13/12/11/10全家桶|链接https://pan.baidu.com/s/1M5RO_tdZ4IgrO3fR7aK8ZA|赠品https://pan.baidu.com/s/1J-Dby5pnYUin7QB5W_1d3Q|
 |213632|返校/电脑小游戏|链接https://pan.baidu.com/s/1i8s9P5UvrLaLOzZojbodgQ|赠品https://pan.baidu.com/s/1zB2hECAd5Yy07__MBRTUQw|
@@ -221,7 +221,7 @@ tags:                               #标签
 |548777|放逐之城|链接https://pan.baidu.com/s/1LoHhSu2kFzYW4E8MdDCDWA|赠品https://pan.baidu.com/s/15zJ32B7B8rQs-APgkR6k-A|
 |325887|非常英雄/单机.同屏多人/电脑小游戏|链接https://pan.baidu.com/s/1C-9PpXDwSkwzfJQo_sYBzg|赠品https://pan.baidu.com/s/14nqX57bA-u7AAQj7d9voVw|
 |587444|废品机械师|链接https://pan.baidu.com/s/1nwqCV4K2Mct9mGTfQbROsg||
-|587777|福尔摩斯：罪与罚|链接https://pan.baidu.com/s/12z_db9Z8L5_xnIwIKFiPKw||
+|587777|福尔摩斯:罪与罚|链接https://pan.baidu.com/s/12z_db9Z8L5_xnIwIKFiPKw||
 |548744|你懂的/FuHua|链接https://pan.baidu.com/s/1fX1X3RA7aUtDawF9jcQEzQ||
 |632669|疯狂麦克斯|链接https://pan.baidu.com/s/1XLClJYI_nmaSZzhwWwjsWQ|赠品https://pan.baidu.com/s/19pXJJvEX5SFiBJLv59JXIw|
 |548889|纷争解决者/麻烦终结者|链接https://pan.baidu.com/s/1Vikw0u-g-9FtVvn_J2R3IQ||
@@ -232,7 +232,7 @@ tags:                               #标签
 |362215|风之旅人|链接https://pan.baidu.com/s/1gR52LBi_vs47ybpI-N00PA|赠品https://pan.baidu.com/s/14uo7e5vAvrZKWGA-llvcTw|
 |241154|复苏之种|链接https://pan.baidu.com/s/1vkky-6H0qNxu8mj-LI6EKA||
 |521444|符文女孩/你懂的|链接https://pan.baidu.com/s/10nDZUjFeV0PMvf4WaWdf9g||
-|852159|方根书简：最后的答案/根信最后回信|链接https://pan.baidu.com/s/1OU7uW7EIERUIAF-8qwn8Kg||
+|852159|方根书简:最后的答案/根信最后回信|链接https://pan.baidu.com/s/1OU7uW7EIERUIAF-8qwn8Kg||
 |745889|飞向月球/送我们去月球|链接https://pan.baidu.com/s/1zBPojJsevi64appX9-PfQQ||
 |852223|芙兰和罪人之岛/你懂的|链接https://pan.baidu.com/s/1z3VlVJqav9lf8vY6PUYgtQ||
 |632633|疯狂之月|链接https://pan.baidu.com/s/10SJIGKnyzBqttkGEi7CCfQ||
@@ -257,65 +257,65 @@ tags:                               #标签
 |685215|GTA5mod可剧情版/侠盗飞车5/侠盗猎车手5|链接https://pan.baidu.com/s/1Kmq_h4e4_u94pus-sNXQtg|赠品https://pan.baidu.com/s/18TZtEDWHE6D5TiSY0Nkvzg|
 |685215|GTA5纯净剧情版/侠盗飞车5/侠盗猎车手5|链接https://pan.baidu.com/s/1JInDiiO_znNU2aNZbc8Y0A|赠品https://pan.baidu.com/s/1Rr7a1UC9J9Iw7KbGGX0WMA|
 |685215|GTA5纯净版v1.46/侠盗飞车5/侠盗猎车手5|链接https://pan.baidu.com/s/1O96siANw3F7fSseyXbMLFg|赠品https://pan.baidu.com/s/1Azf2R6K_RQdgRlriTSNtWg|
-|652548|孤岛惊魂：新曙光/黎明/血龙/原始杀虐/5/4/3/2|链接https://pan.baidu.com/s/1vHk_c7FJNdTBtKiN85VZSQ|赠品https://pan.baidu.com/s/1w5fBzb3opq9ttwvD3Y1rEA|
+|652548|孤岛惊魂:新曙光/黎明/血龙/原始杀虐/5/4/3/2|链接https://pan.baidu.com/s/1vHk_c7FJNdTBtKiN85VZSQ|赠品https://pan.baidu.com/s/1w5fBzb3opq9ttwvD3Y1rEA|
 |652156|钢铁雄心4/炮手就位|链接https://pan.baidu.com/s/1v_R3DlkaomSUSPDf3YyMbw|赠品https://pan.baidu.com/s/1oQnpyILqY3Ncdq0FvOIJkQ|
-|587469|古墓丽影：暗影/克劳馥版/历代1-11合集|链接https://pan.baidu.com/s/1-E9Tnr94p43jtrISAb7Gpw|赠品https://pan.baidu.com/s/1c7lrM_Lok1pRBGvvF8ZkJQ|
+|587469|古墓丽影:暗影/克劳馥版/历代1-11合集|链接https://pan.baidu.com/s/1-E9Tnr94p43jtrISAb7Gpw|赠品https://pan.baidu.com/s/1c7lrM_Lok1pRBGvvF8ZkJQ|
 |548745|钢铁之师2/钢铁雄狮2/+前作诺曼底44|链接https://pan.baidu.com/s/1b98LBH4pgEZtMlKcRn53ag|赠品https://pan.baidu.com/s/1TNo4GGW3XDlIJhs6HJ8rYQ|
 |369863|过山车之星|链接https://pan.baidu.com/s/14IhfOQt5efiGf-HAVV6_sQ|赠品https://pan.baidu.com/s/1u8MA0DjSxfBwJ2Gcb0H21A|
 |587456|鬼泣5/4/3/2/1/外传/特别版/7部合集|链接https://pan.baidu.com/s/1fIRd-fjeNsFtgYRkxCYO5w|赠品https://pan.baidu.com/s/1hGVfFulK2B7xar09swme6g|
-|668749|光明之响：龙奏回音|链接https://pan.baidu.com/s/1bwsHGJ2DCEPqOdsP7zfCBA|赠品https://pan.baidu.com/s/1pFYd9X2QAJxkw8VsHHS1NA|
+|668749|光明之响:龙奏回音|链接https://pan.baidu.com/s/1bwsHGJ2DCEPqOdsP7zfCBA|赠品https://pan.baidu.com/s/1pFYd9X2QAJxkw8VsHHS1NA|
 |587454|光环战争2|链接https://pan.baidu.com/s/1FP73i7zykUX2t0t3F6ivyA|赠品https://pan.baidu.com/s/1DyM0zSaIyPoSpaNwLfzn_g|
-|587454|光环：士官长合集/光环致远星|链接https://pan.baidu.com/s/1PJEu9GRzvbSQ0_B-eTBLGg|赠品https://pan.baidu.com/s/1wGJR1Y6-lOEYyWMO-uVhig|
-|587454|光环：致远星|链接https://pan.baidu.com/s/1cjP4HNDYxgaSb9WUM9mRKg||
+|587454|光环:士官长合集/光环致远星|链接https://pan.baidu.com/s/1PJEu9GRzvbSQ0_B-eTBLGg|赠品https://pan.baidu.com/s/1wGJR1Y6-lOEYyWMO-uVhig|
+|587454|光环:致远星|链接https://pan.baidu.com/s/1cjP4HNDYxgaSb9WUM9mRKg||
 |899658|格斗领域EX|链接https://pan.baidu.com/s/1eJ1tRtrvFIfmQtD3insyhA||
-|326333|怪物猎人：世界/猛汉王/单机.网络联机版/MHW|链接https://pan.baidu.com/s/1wSn2_KteBuLvJKwSJ9HJZA|赠品https://pan.baidu.com/s/1hvECSC6iln5b7dyCf3tJHQ|
+|326333|怪物猎人:世界/猛汉王/单机.网络联机版/MHW|链接https://pan.baidu.com/s/1wSn2_KteBuLvJKwSJ9HJZA|赠品https://pan.baidu.com/s/1hvECSC6iln5b7dyCf3tJHQ|
 |547847|光之子|链接https://pan.baidu.com/s/1pSMyQdOtOLFGexFY7HRe8w|赠品https://pan.baidu.com/s/1sbuJRPTh77TYhEN9SuttqA|
 |552147|GRIS|链接https://pan.baidu.com/s/1acJQ6TKwZjAAvnsg_zeNyQ||
 |521487|公路救赎/同屏联机版|链接https://pan.baidu.com/s/1EZBS_hn1GpvEk1mEvCHvcw|赠品https://pan.baidu.com/s/19NEDCiWqG28TACWKjlQ3kA|
 |254111|光明记忆|链接https://pan.baidu.com/s/1qhDWuHKlsQDF82FfDHwOAA||
 |326655|鬼武者1/初代/HD/高清重置版/复刻版|链接https://pan.baidu.com/s/13Qumbd-T1j7-MzmNj6k8Vg|赠品https://pan.baidu.com/s/1ApUurDB-sC1MVbSb8-WuEA|
 |365233|孤岛危机3/2/1/弹头|链接https://pan.baidu.com/s/1aYuaNOdOfs0J6DNGfI1vWQ|赠品https://pan.baidu.com/s/14LWoI4Xm4OFM6CY-x0sj2g|
-|548855|哥特舰队：阿玛达2|链接https://pan.baidu.com/s/1--a29UTNZ6ZGOj1ZBppQTw||
+|548855|哥特舰队:阿玛达2|链接https://pan.baidu.com/s/1--a29UTNZ6ZGOj1ZBppQTw||
 |326663|孤帆远航/远方孤帆|链接https://pan.baidu.com/s/1hJ8OaWkqOL25aDCFEJdCsQ|赠品https://pan.baidu.com/s/1IN3mhRUr9NsuAUpQ3ADing|
 |457863|归于沉寂/归于寂静/.网络联机|链接https://pan.baidu.com/s/1vRrSeiPoJlLhudz-HlV1OQ|赠品https://pan.baidu.com/s/16aTFwSy8Bgcb1XdYho2ALQ|
-|632599|Guilty Hell：纯白女神与亡者之都/你懂的       |链接https://pan.baidu.com/s/1Ky-9aLSMvT0Oo2p1OAZFAw||
+|632599|Guilty Hell:纯白女神与亡者之都/你懂的       |链接https://pan.baidu.com/s/1Ky-9aLSMvT0Oo2p1OAZFAw||
 |698899|工业崛起 |链接https://pan.baidu.com/s/1iQ31QIqPQ6TRdjzt8pQAaw|赠品https://pan.baidu.com/s/1JnKG-4fAAWDnOqYaG_37TQ|
-|632598|哥哥，早上起床之前都要抱紧我哦/你懂的|链接https://pan.baidu.com/s/1S7FnRTghxFAmv8ISA9pElQ||
-|632598|哥哥，晚上睡觉之前做更多色·色的事吧/你懂的|链接https://pan.baidu.com/s/1rbFpLQpYDE4T5z2mwhwKyw||
+|632598|哥哥,早上起床之前都要抱紧我哦/你懂的|链接https://pan.baidu.com/s/1S7FnRTghxFAmv8ISA9pElQ||
+|632598|哥哥,晚上睡觉之前做更多色·色的事吧/你懂的|链接https://pan.baidu.com/s/1rbFpLQpYDE4T5z2mwhwKyw||
 |632556|归家异途|链接https://pan.baidu.com/s/15cEubLvNDk6P7lj7rTvqeg||
-|963225|国土防线2：革命/1|链接https://pan.baidu.com/s/1HmOKMpNT_K_NbFEU1atFpg|赠品https://pan.baidu.com/s/1ze7LB3VMoTcJh_JQp7VyoA|
-|874447|钢铁苍狼：混沌之战XD/钢铁之狼：混沌XD|链接https://pan.baidu.com/s/11BgsVmmjP3_hqwwzq1Bb9w||
+|963225|国土防线2:革命/1|链接https://pan.baidu.com/s/1HmOKMpNT_K_NbFEU1atFpg|赠品https://pan.baidu.com/s/1ze7LB3VMoTcJh_JQp7VyoA|
+|874447|钢铁苍狼:混沌之战XD/钢铁之狼:混沌XD|链接https://pan.baidu.com/s/11BgsVmmjP3_hqwwzq1Bb9w||
 |963254|公主计划/你懂的|链接https://pan.baidu.com/s/1ZrjwU2HVEFzLkmgQTca5fw||
 |874566|鬼哭之邦|链接https://pan.baidu.com/s/1ELoVVy9nEXRSNaDmHOlhXA|赠品https://pan.baidu.com/s/1u5F7g3O6PnFokLXegU__wg|
-|963254|挂机吧！勇者|链接https://pan.baidu.com/s/1KArAXKAhHXl7sJNFlZEb-Q||
-|748545|格斗天使：Fight Angel/你懂的|链接https://pan.baidu.com/s/1ApEUzKZs_3-gl2B8S7HYEQ||
+|963254|挂机吧!勇者|链接https://pan.baidu.com/s/1KArAXKAhHXl7sJNFlZEb-Q||
+|748545|格斗天使:Fight Angel/你懂的|链接https://pan.baidu.com/s/1ApEUzKZs_3-gl2B8S7HYEQ||
 |963254|哥特少女勇闯恶魔城/SiNiSistar/你懂的|链接https://pan.baidu.com/s/1GqAk2V1KdXhL_-irLg2xiQ||
 |852145|孤独之海/孤寂之洋|链接https://pan.baidu.com/s/1GVcAx-yQLdRVO9mPd1TVLg||
-|851445|鬼妇：印尼民间恐怖传说|链接https://pan.baidu.com/s/1BXaSe9EBhWE6NLfptnSzrQ||
+|851445|鬼妇:印尼民间恐怖传说|链接https://pan.baidu.com/s/1BXaSe9EBhWE6NLfptnSzrQ||
 |475448|公园|链接https://pan.baidu.com/s/1OSYYh6pED6_kgdPaFEHjIw||
 |633233|国王联赛2/国王联盟2|链接https://pan.baidu.com/s/1kM6UAJy3mKSQT3nLDlb3eA||
 |587779|鬼魂清洁工/单机.同屏多人|链接https://pan.baidu.com/s/1VLtkuMz8HEjus4-VTVlP_g||
-|697448|感受冬季：网络联机版|链接https://pan.baidu.com/s/1m9qri_0ULANHotr3lTCRsQ||
+|697448|感受冬季:网络联机版|链接https://pan.baidu.com/s/1m9qri_0ULANHotr3lTCRsQ||
 |697448|感受冬季|链接https://pan.baidu.com/s/1lxddN_-jt0CE6vzjBVQ_WA||
 |587774|鬼娘乱舞·爱奴养成日记/你懂的|链接https://pan.baidu.com/s/1ovLzTi3AUG8OyoJYxJfZUw||
-|854777|古惑狼：三部曲重制版/疯狂大进击|链接https://pan.baidu.com/s/1xUMZ-pbr5Ppr8W70_9Nwtw|赠品https://pan.baidu.com/s/18qg9oN4aiMOos0IMfjK5Pw|
+|854777|古惑狼:三部曲重制版/疯狂大进击|链接https://pan.baidu.com/s/1xUMZ-pbr5Ppr8W70_9Nwtw|赠品https://pan.baidu.com/s/18qg9oN4aiMOos0IMfjK5Pw|
 |526663|港诡实录/电脑小游戏|链接https://pan.baidu.com/s/1_mfZc6WUIGx14Z3H48q8sA||
 |525889|怪盗夜祭/Out Vegetables/你懂的|链接https://pan.baidu.com/s/1PtDlKej4IclNED0Rarr9FA||
 |877789|光明重影/电脑小游戏|链接https://pan.baidu.com/s/1DeI-j3wnDOK_tfMi9EDifw||
-|358741|孤胆枪手2：传奇/传说|链接https://pan.baidu.com/s/1V5M5B0-7phTwm6NNV8KndA|赠品https://pan.baidu.com/s/1LNKIjDPHDmDbEcYIoSAopQ|
+|358741|孤胆枪手2:传奇/传说|链接https://pan.baidu.com/s/1V5M5B0-7phTwm6NNV8KndA|赠品https://pan.baidu.com/s/1LNKIjDPHDmDbEcYIoSAopQ|
 |558796|黑暗之魂重制版|链接https://pan.baidu.com/s/11Fyk0-UmqdCz3eZwIgUTFQ|赠品https://pan.baidu.com/s/1vmcBJ_yik4T_O_G9Lf75dA|
 |521487|黑暗之魂3/2/1|链接https://pan.baidu.com/s/15W8TRF3WbdSPxtsbAKME9g&shfl=sharepset|赠品https://pan.baidu.com/s/1apXBIMF48Pmv-ACFjIL3_Q|
 |663259|寒霜朋克/冰汽时代|链接https://pan.baidu.com/s/1u89fli3fXNEEmMIZ9XP_tw|赠品https://pan.baidu.com/s/10TB_zuA46TiugppDV3qhlg|
 |778549|黑手党3|链接https://pan.baidu.com/s/1IuChxFaLuopiJwuw3EC9zA|赠品https://pan.baidu.com/s/1OWhAEpDhZVMmr1-vD0FWfg|
 |852445|毁灭战士4|链接https://pan.baidu.com/s/1B2cySNtdwluvhpMaREg48A&shfl=sharepset|赠品https://pan.baidu.com/s/1z70yKBmGz_Gx4Eghplxygw&shfl=sharepset|
-|965872|火影忍者博人传：忍者先锋+合集|链接https://pan.baidu.com/s/1ENMlUZmX-ljLsOosJKNUzg|赠品https://pan.baidu.com/s/1XtPyC2ASMcS92O9nsHZOjA|
-|965872|火影忍者：究极忍者风暴4/单人.多人同屏|链接https://pan.baidu.com/s/10DSiFqzWsTBPByGUg1x5WA|赠品https://pan.baidu.com/s/1mwT1W4iXyXzvLg2hCLm9xA|
-|744885|合金装备5：幻痛|链接https://pan.baidu.com/s/1bCx8QIbItTgLAhoNMEkkaw|赠品https://pan.baidu.com/s/1EYtaQS6YSqWAOUGTozWCqg|
+|965872|火影忍者博人传:忍者先锋+合集|链接https://pan.baidu.com/s/1ENMlUZmX-ljLsOosJKNUzg|赠品https://pan.baidu.com/s/1XtPyC2ASMcS92O9nsHZOjA|
+|965872|火影忍者:究极忍者风暴4/单人.多人同屏|链接https://pan.baidu.com/s/10DSiFqzWsTBPByGUg1x5WA|赠品https://pan.baidu.com/s/1mwT1W4iXyXzvLg2hCLm9xA|
+|744885|合金装备5:幻痛|链接https://pan.baidu.com/s/1bCx8QIbItTgLAhoNMEkkaw|赠品https://pan.baidu.com/s/1EYtaQS6YSqWAOUGTozWCqg|
 ||和班尼特福迪一起攻克难关|链接https://pan.baidu.com/s/10r4lZgHUq0RlQ5VOsLBCRg|赠品https://pan.baidu.com/s/1ErW5qg5Njbp3nfgP_67JNA|
 ||画中世界|链接https://pan.baidu.com/s/1-qvk07DW1C3K-R4_qogTFg||
 |363652|火星求生|链接https://pan.baidu.com/s/14upojmA2ptuUS8vueOHClQ|赠品https://pan.baidu.com/s/1Y-kxJyjNU7RIILhrmrJoZQ|
 ||红色警戒|链接https://pan.baidu.com/s/116_ldrdZIQ228cLCsve73g|赠品https://pan.baidu.com/s/1KF2iRaNYyf-sVg2vnJbgPw|
-|636352|红色派系：游击战重制版|链接https://pan.baidu.com/s/1SH-rniaIojAldj6oQwYQmQ||
+|636352|红色派系:游击战重制版|链接https://pan.baidu.com/s/1SH-rniaIojAldj6oQwYQmQ||
 |254631|黑色沙漠|链接https://pan.baidu.com/s/1tEe6JzPGvFJvyzxYluQfew||
 |225414|Hue|链接https://pan.baidu.com/s/16zQphZk9TweE84AzLNWb0Q||
 |774875|行会3|链接https://pan.baidu.com/s/1tgA097_qOIY_pTzt4UbPCA|赠品https://pan.baidu.com/s/1uPISDiKwjOoOvaWW5zGPmA|
@@ -324,42 +324,42 @@ tags:                               #标签
 |874544|幻想新国度2|链接https://pan.baidu.com/s/1FWBRyk_zUPSg4pSblyDGVg||
 |889745|海贼无双3|链接https://pan.baidu.com/s/1JBxlUdZaaNKeJVtTQgGp8g|赠品https://pan.baidu.com/s/1OEWLWrUfzjTts5WTln_kjg|
 |965447|荒无人烟|链接https://pan.baidu.com/s/12QpzKtG3va5MONKqHJBK7A|赠品https://pan.baidu.com/s/14sRjwvu5ZcAucOta1_2Mwg|
-|632541|黑道圣徒4：世纪版/3/2/逃出地狱|链接https://pan.baidu.com/s/1w1KEClooHbBgza_7IamPCg|赠品https://pan.baidu.com/s/1CnJGU5LmMa5PzD29rtIXtw|
-|213336|皇牌空战7：未知领域/空域/突击地平线增强版|链接https://pan.baidu.com/s/1iUUV75M9Ry8Fmk7hwBBevA|赠品https://pan.baidu.com/s/1NWiphvgHncH7EKafzil4MQ|
+|632541|黑道圣徒4:世纪版/3/2/逃出地狱|链接https://pan.baidu.com/s/1w1KEClooHbBgza_7IamPCg|赠品https://pan.baidu.com/s/1CnJGU5LmMa5PzD29rtIXtw|
+|213336|皇牌空战7:未知领域/空域/突击地平线增强版|链接https://pan.baidu.com/s/1iUUV75M9Ry8Fmk7hwBBevA|赠品https://pan.baidu.com/s/1NWiphvgHncH7EKafzil4MQ|
 |254121|荒岛求生|链接https://pan.baidu.com/s/1SBsa6zk3mo01lP86OUHVIA|赠品https://pan.baidu.com/s/1itrgo-IzQlgx6OdZZJR4-Q|
-|323333|核爆RPG：末日余生|链接https://pan.baidu.com/s/1NojwodeKjkEbi417efDKeA|赠品https://pan.baidu.com/s/1jlToVjHAybVAg26ZSdJiZg|
+|323333|核爆RPG:末日余生|链接https://pan.baidu.com/s/1NojwodeKjkEbi417efDKeA|赠品https://pan.baidu.com/s/1jlToVjHAybVAg26ZSdJiZg|
 |584756|你懂得/Huan愿/国产恐怖|链接https://pan.baidu.com/s/1HaKR21qWEfebgM1VdTeeWQ||
-|548756|海贼王：世界探索者/寻秘世界|链接https://pan.baidu.com/s/18Fu7XrpbqfDP2_Iq_lpz3Q|赠品https://pan.baidu.com/s/1guK6jBSK4a8fC1dEM6PGkg|
+|548756|海贼王:世界探索者/寻秘世界|链接https://pan.baidu.com/s/18Fu7XrpbqfDP2_Iq_lpz3Q|赠品https://pan.baidu.com/s/1guK6jBSK4a8fC1dEM6PGkg|
 |748555|海岛大亨6/单机.网络联机/+54321|链接https://pan.baidu.com/s/1PMgRkgLTy72a_KwWi_6T0Q|赠品https://pan.baidu.com/s/129v0oJPQkbDW27rjVz8Q2A|
-|554777|火星Z：战术基地防御|链接https://pan.baidu.com/s/1gmzrTsz6lEC3CbdkP_yzuA||
+|554777|火星Z:战术基地防御|链接https://pan.baidu.com/s/1gmzrTsz6lEC3CbdkP_yzuA||
 |632333|火车山谷2|链接https://pan.baidu.com/s/12SXwbahY_9OvRulwSwElxw||
-|541115|荒野大镖客：救赎|链接https://pan.baidu.com/s/1ccQ_TFFiD0Mciy5nfpdfAQ||
+|541115|荒野大镖客:救赎|链接https://pan.baidu.com/s/1ccQ_TFFiD0Mciy5nfpdfAQ||
 |655448|黑暗献祭|链接https://pan.baidu.com/s/1-ACtI9Yqj80otiuBLWbdug||
 |587444|荒野八人组/网络联机|链接https://pan.baidu.com/s/1JRMUNpsbS9u2hiu1T-izeg|赠品https://pan.baidu.com/s/1lIn5oWV6Dp0QitgckxBYqw|
 |632563|和夏海的暑假~曾经的后悔和夏天的重逢/你懂的|链接https://pan.baidu.com/s/1K7N8pmNoojQfOW3XIYmGkw||
 |124698|黑暗悖论/.同屏联机|链接https://pan.baidu.com/s/12Nn880UHUMyOdH3mb3J8dQ||
-|856663|H魔塔：魔界洞鲁鲁？法蕾雅 侵饭魔物娘！/你懂的|链接https://pan.baidu.com/s/1Q99DuaG3wtRajTmv6KWAXQ||
+|856663|H魔塔:魔界洞鲁鲁?法蕾雅 侵饭魔物娘!/你懂的|链接https://pan.baidu.com/s/1Q99DuaG3wtRajTmv6KWAXQ||
 |632556|欢迎来到时间停止的岛屿/你懂的|链接https://pan.baidu.com/s/1PDFRC62p4uqVAoEt1VHPYA||
 |695549|黑暗的欲望/你懂的|链接https://pan.baidu.com/s/1yTMQA0DMDa0YF2pByFe87A||
 |254112|婚约/你懂的|链接https://pan.baidu.com/s/1ThNCuzqqNVBoBa0qZQn8eA||
-|522369|火影同人：鸣人的假期/你懂的|链接https://pan.baidu.com/s/14868QLXmYwlGjgaWn1igGw|赠品https://pan.baidu.com/s/19q5zmL50lIMzRsM2pOQCWQ|
-|587448|哈梅斯塔西亚王国：勇者与4名女神们/你懂的|链接https://pan.baidu.com/s/1mb7Eqr89hHBHCpGX81QA3g||
+|522369|火影同人:鸣人的假期/你懂的|链接https://pan.baidu.com/s/14868QLXmYwlGjgaWn1igGw|赠品https://pan.baidu.com/s/19q5zmL50lIMzRsM2pOQCWQ|
+|587448|哈梅斯塔西亚王国:勇者与4名女神们/你懂的|链接https://pan.baidu.com/s/1mb7Eqr89hHBHCpGX81QA3g||
 |855669|混沌宙域|链接https://pan.baidu.com/s/1gbRyCPdWcKL9U-VuSsqDQw||
 |633654|鸿源战纪|链接https://pan.baidu.com/s/1bnWVXxvEnzdrDSXUiYHAgQ|赠品https://pan.baidu.com/s/1V4isRz8RYEQq83tjvp5zzA|
-|874558|黑相集：棉兰号/单机.同屏.网络联机|链接https://pan.baidu.com/s/1To9ANTgOr4TJjw8VfDwxAA||
+|874558|黑相集:棉兰号/单机.同屏.网络联机|链接https://pan.baidu.com/s/1To9ANTgOr4TJjw8VfDwxAA||
 |632365|灰鹰幻境/灰鹰的迷幻|链接https://pan.baidu.com/s/13OAoqJ6AlX8jQYRcgvQv3w||
 |632547|幻想将军2/奇幻将军2|链接https://pan.baidu.com/s/1R8Uhmla9RZZrQn73rhiZhg||
 |748555|幻想乡萃夜祭/幻想郷萃夜祭|链接https://pan.baidu.com/s/1-HSx9O5HWa_cHv_KMl-ZBg&shfl=sharepset||
-|652558|魂斗罗：无赖军团/魂斗罗RC联盟|链接https://pan.baidu.com/s/1y0_92M882_hjmeOBDb75Sw||
+|652558|魂斗罗:无赖军团/魂斗罗RC联盟|链接https://pan.baidu.com/s/1y0_92M882_hjmeOBDb75Sw||
 |632223|亨利.毕绍普的历史|链接https://pan.baidu.com/s/1gwbS4pJEaUDzILAZ9WArXQ||
-|745885|黑色规则：西格玛|链接https://pan.baidu.com/s/1db1ecN2L6-5zCVedA1d9uA||
+|745885|黑色规则:西格玛|链接https://pan.baidu.com/s/1db1ecN2L6-5zCVedA1d9uA||
 |548744|黑色未来88/单机.同屏多人|链接https://pan.baidu.com/s/1IPBaCpOejRwOIp_mvKbpKA||
-|213632|昏迷：重制版/切割重新剪辑|链接https://pan.baidu.com/s/1EgDPUEhMz07XnkIwlh4eDQ||
-|213632|昏迷2：凶残恶毒姐妹|链接https://pan.baidu.com/s/1pFqh-GItzM7lkWz57q4Y_Q||
-|365247|航海日记：起航/电脑小游戏|链接https://pan.baidu.com/s/1MWC3rnxCPDzFueqdicl6KQ||
+|213632|昏迷:重制版/切割重新剪辑|链接https://pan.baidu.com/s/1EgDPUEhMz07XnkIwlh4eDQ||
+|213632|昏迷2:凶残恶毒姐妹|链接https://pan.baidu.com/s/1pFqh-GItzM7lkWz57q4Y_Q||
+|365247|航海日记:起航/电脑小游戏|链接https://pan.baidu.com/s/1MWC3rnxCPDzFueqdicl6KQ||
 |698774|华沙|链接https://pan.baidu.com/s/1GI0e_rSvIpSwOPgwP6krcw|赠品https://pan.baidu.com/s/1kXzmCl_yVJvQOy1TItdKNA|
 |658774|HAMMY|链接https://pan.baidu.com/s/1hZeca3jH_QCQjCCUd5rajg||
-|321114|哈迪斯：杀出地狱/地狱之战|链接https://pan.baidu.com/s/13_xaTJTo1UeTGJS7STfKWA|赠品https://pan.baidu.com/s/1aDXHdaxFpn-FIBdHbe0d8A|
+|321114|哈迪斯:杀出地狱/地狱之战|链接https://pan.baidu.com/s/13_xaTJTo1UeTGJS7STfKWA|赠品https://pan.baidu.com/s/1aDXHdaxFpn-FIBdHbe0d8A|
 |852332|和妹妹两个人看家/你懂的|链接https://pan.baidu.com/s/1MoiQcawCkVKHTra_m49i3Q||
 |852332|和妹妹两个人看家2/你懂的|链接https://pan.baidu.com/s/1C4RH2MCax8D9rRPKRbld1A||
 |856336|荒野传说|链接https://pan.baidu.com/s/1yuRyfweu8WQB3pjtqU1Eow||
@@ -367,38 +367,38 @@ tags:                               #标签
 |652114|红发的艾蕾娜想要榨鲸/你懂的|链接https://pan.baidu.com/s/17YW8_F0XykCHw9fdcUKfOg||
 |879635|和女儿一起的H生活/你懂的|链接https://pan.baidu.com/s/1MNB7awnA_C8gK2Ece2unTA||
 |587445|黑暗的年代/走过至暗时刻|链接https://pan.baidu.com/s/1qnPPFzc8d1DLKSal7J14qA||
-|632558|黑水晶：抗战纪元战略版|链接https://pan.baidu.com/s/15OrikpnzOliI2YOMDRhEMg||
+|632558|黑水晶:抗战纪元战略版|链接https://pan.baidu.com/s/15OrikpnzOliI2YOMDRhEMg||
 |748775|荒野时代|链接https://pan.baidu.com/s/16rjXX14IHIwmXXi79DVBCw||
 |562147|H-Rescue|链接https://pan.baidu.com/s/19O5L3jFmIydtUyElE9frAw||
 |748596|化身侦探/变形侦探|链接https://pan.baidu.com/s/1DbiHNhFAf-1PlMiFuMNE0Q||
 |365214|和我玩/Play With Me|链接https://pan.baidu.com/s/1RcWSxavvybCeHeMzmYYPwg||
 |524878|INSIDE/内部/地狱边境续作:囚禁|链接https://pan.baidu.com/s/1zCz3DBO96L6rfys1y2QCDA|赠品https://pan.baidu.com/s/1SErkTV59ZPQ3cijCJOFjNA|
 |514487|极速骑行3/飞速骑行3/摩托机车3|链接https://pan.baidu.com/s/11hFiK2H553Flbjl0ET950w||
-|659874|街头霸王5：冠军版/单机.同屏多人|链接https://pan.baidu.com/s/1Aiap2j6eviIf_4l9tMyHJg|赠品https://pan.baidu.com/s/11iLWvXK0v3vY-H_Ka2TicQ|
-|213654|进击的巨人2：最终之战/1|链接https://pan.baidu.com/s/1Wm2uPMQn3P5ZKeBfMn87aA|赠品https://pan.baidu.com/s/1eqLCo4WisP9V9iDOHYMhLQ|
-|259648|狙击手：幽灵战士3|链接https://pan.baidu.com/s/1ll1pP35UMzmCwaK1gkqGXQ|赠品https://pan.baidu.com/s/1pwh3tuqwDcFlzMfpBQc4Ng|
-|259648|狙击手：幽灵战士契约|链接https://pan.baidu.com/s/1iY9aWNpZtdc5VxwxvxIaGg|赠品https://pan.baidu.com/s/1osMqza43ufPfRALzyOq2HA|
+|659874|街头霸王5:冠军版/单机.同屏多人|链接https://pan.baidu.com/s/1Aiap2j6eviIf_4l9tMyHJg|赠品https://pan.baidu.com/s/11iLWvXK0v3vY-H_Ka2TicQ|
+|213654|进击的巨人2:最终之战/1|链接https://pan.baidu.com/s/1Wm2uPMQn3P5ZKeBfMn87aA|赠品https://pan.baidu.com/s/1eqLCo4WisP9V9iDOHYMhLQ|
+|259648|狙击手:幽灵战士3|链接https://pan.baidu.com/s/1ll1pP35UMzmCwaK1gkqGXQ|赠品https://pan.baidu.com/s/1pwh3tuqwDcFlzMfpBQc4Ng|
+|259648|狙击手:幽灵战士契约|链接https://pan.baidu.com/s/1iY9aWNpZtdc5VxwxvxIaGg|赠品https://pan.baidu.com/s/1osMqza43ufPfRALzyOq2HA|
 |854447|狙击精英4/3/2/1/僵尸部队三部曲|链接https://pan.baidu.com/s/1UBQV-a8pQX7MM2ftkuaJXA|赠品https://pan.baidu.com/s/16T9JxPSv9KXLjqnN4IRp5A|
-|556987|极品飞车20：复仇/18/17/16/15···1|链接https://pan.baidu.com/s/13FHQ1culsJnHLXj5C9bWdw|赠品https://pan.baidu.com/s/15zFQIG_m-RwGc7vf--8pUg|
-|556987|极品飞车21：热度|链接https://pan.baidu.com/s/1mG5LGSQRj-8rmQqGA6pxEg|赠品https://pan.baidu.com/s/1-BaHtmRV1HnOsTmumu7LIw|
+|556987|极品飞车20:复仇/18/17/16/15···1|链接https://pan.baidu.com/s/13FHQ1culsJnHLXj5C9bWdw|赠品https://pan.baidu.com/s/15zFQIG_m-RwGc7vf--8pUg|
+|556987|极品飞车21:热度|链接https://pan.baidu.com/s/1mG5LGSQRj-8rmQqGA6pxEg|赠品https://pan.baidu.com/s/1-BaHtmRV1HnOsTmumu7LIw|
 |587412|九张羊皮纸|链接https://pan.baidu.com/s/1zyUu0D8ylXTT96oHKRotew||
-|887459|极限竞速：地平线4/3|链接https://pan.baidu.com/s/1w8pzaN2RbXjb-rV4aJPoKg||
+|887459|极限竞速:地平线4/3|链接https://pan.baidu.com/s/1w8pzaN2RbXjb-rV4aJPoKg||
 |215469|寂静岭P.T.|链接https://pan.baidu.com/s/1LqZFugKXAfJkv7zkXLPuzA|赠品https://pan.baidu.com/s/17pHcXhgdC0XjSgGwTHaN9w|
-|125487|精灵宝可梦：究极之日究极之月|链接https://pan.baidu.com/s/1U9c5Id53xIMBx1iy-47q2Q|赠品https://pan.baidu.com/s/1EHG3nTkP8HvTpmegUAV5KA|
-|211463|究极大越野：完整版|链接https://pan.baidu.com/s/1O77-SiTQ0WWlSXJ8HHGm8w||
+|125487|精灵宝可梦:究极之日究极之月|链接https://pan.baidu.com/s/1U9c5Id53xIMBx1iy-47q2Q|赠品https://pan.baidu.com/s/1EHG3nTkP8HvTpmegUAV5KA|
+|211463|究极大越野:完整版|链接https://pan.baidu.com/s/1O77-SiTQ0WWlSXJ8HHGm8w||
 |521548|今晚没开|链接https://pan.baidu.com/s/1HadjjgPJtCDJ2gTNeSOPYw|赠品https://pan.baidu.com/s/1auOVPOM-obUxpYMKqe9WSw|
 |213658|精灵鼠传说|链接https://pan.baidu.com/s/1fyXGqWVHYiYwbopzDBuzzw||
 |254136|极速大乱斗/速度斗殴|链接https://pan.baidu.com/s/1vLTtcZ_KTQrobcj2Uz8n_Q|赠品https://pan.baidu.com/s/1YyrzfpvDDRiaOcz-_auSiQ|
-|332636|剑与勇士2：肉夹末日|链接https://pan.baidu.com/s/1Wa9vPy1hcpq_KJF0-Dx0gQ||
+|332636|剑与勇士2:肉夹末日|链接https://pan.baidu.com/s/1Wa9vPy1hcpq_KJF0-Dx0gQ||
 |215485|绝境北方 坏北 从维京人手中捍卫家园|链接https://pan.baidu.com/s/1ZOF38KFw97aZ8R3fsKeOdQ||
 |254111|JSZL|J|J18|
 |525487|巨神狩猎/神之祈猎|链接https://pan.baidu.com/s/1wcjXFb2qhbayovb6LkLc5Q||
 |548744|家族崩坏/Playhome/你懂的|链接https://pan.baidu.com/s/1vuskvg1mIH-SqaRpWdjMhw|赠品https://pan.baidu.com/s/18xbVJpPGEboUS8398T08qQ|
 |541223|纪元1800/2205/2070/1701/1404|链接https://pan.baidu.com/s/1VBtcl_oM3cVCPD26cGr3Pw|赠品https://pan.baidu.com/s/1f045Gf2qra9TgdNj-hlj4g|
-|362336|镜之边缘：催化剂/1|链接https://pan.baidu.com/s/1n5FgjS_NS80TaxqNGDAP2w|赠品https://pan.baidu.com/s/1kOdYqK3Brf7OlIICKBY3vw|
+|362336|镜之边缘:催化剂/1|链接https://pan.baidu.com/s/1n5FgjS_NS80TaxqNGDAP2w|赠品https://pan.baidu.com/s/1kOdYqK3Brf7OlIICKBY3vw|
 |659932|Jump大乱斗/全明星大乱斗/单机.同屏多人|链接https://pan.baidu.com/s/1EOeF7ZC9uemyS7BxiGDEIQ|赠品https://pan.baidu.com/s/19lAus1lkhtwKeGb3LQ0gvA|
 |548745|你懂的/JiJiaHong鸣|链接https://pan.baidu.com/s/1hehxAs665VlJSdC4G6th9w||
-|548555|你懂的/JinYongQunXia传X：绅士无双后宫版|链接https://pan.baidu.com/s/1oduQup5y23bTK-v7D-Yssw||
+|548555|你懂的/JinYongQunXia传X:绅士无双后宫版|链接https://pan.baidu.com/s/1oduQup5y23bTK-v7D-Yssw||
 |548521|剑士|链接https://pan.baidu.com/s/1hLeOhOGw8mEw9CEyXUodeg|赠品https://pan.baidu.com/s/16Ni3kAP8Z-VZQ9nuecjPiA|
 |874569|僵尸毁灭工程|链接https://pan.baidu.com/s/15V_TIPFya8gZLGHi8bXQsQ|赠品https://pan.baidu.com/s/11alxb24KDSQ7oyBB2t-Htw|
 |544889|僵尸世界大战|链接https://pan.baidu.com/s/16y4fEuYBx3j4a8DzZNaR3Q|赠品https://pan.baidu.com/s/1_tbIPPEmxJ2XRDVURd_vcQ|
@@ -411,15 +411,15 @@ tags:                               #标签
 |741558|监狱建筑师|链接https://pan.baidu.com/s/1LTNOv8cnuqOPKds3_Egy2w|赠品https://pan.baidu.com/s/1TI-9dleglsM-ZfoXY8dNfQ|
 |336632|僵尸末日DayZ/单机.局域网联机|链接https://pan.baidu.com/s/1XXyDklt7LLbw4itz8AUVjA||
 |635874|简单易懂的黑杰克游戏/你懂的|链接https://pan.baidu.com/s/1kA2DcPL81ssCAOk4BAVgNA||
-|632554|剑与魂2：未见/刀剑与灵魂2尼弗森 |链接https://pan.baidu.com/s/1W8j0VbPqJZFaVMjjPpSjLA|赠品https://pan.baidu.com/s/1Sj9_uRZiUs_G1U8ThZtoaw|
+|632554|剑与魂2:未见/刀剑与灵魂2尼弗森 |链接https://pan.baidu.com/s/1W8j0VbPqJZFaVMjjPpSjLA|赠品https://pan.baidu.com/s/1Sj9_uRZiUs_G1U8ThZtoaw|
 |963225|记忆重构|链接https://pan.baidu.com/s/1oT0mvQcqYrrKFC1I6ctHJw||
 |854789|基因特工/单机.网络联机|链接https://pan.baidu.com/s/1YW7UsnqroqTWfM2r1bawxg||
 |852225|机器人殖民地|链接https://pan.baidu.com/s/1Dc07LJaYjSPAOyvptaydzQ&shfl=sharepset||
 |258889|进击!要塞!/进击要塞|链接https://pan.baidu.com/s/1mMmxeKRYPp5a_5GA4VxlFw||
-|365447|机甲战士5：雇佣兵|链接https://pan.baidu.com/s/1ZHmK2VrkbkaeKmNgdmFfmA|赠品https://pan.baidu.com/s/1-Lv0Q87hgy7TmnpjLbf7Ug|
+|365447|机甲战士5:雇佣兵|链接https://pan.baidu.com/s/1ZHmK2VrkbkaeKmNgdmFfmA|赠品https://pan.baidu.com/s/1-Lv0Q87hgy7TmnpjLbf7Ug|
 |362541|家庭教师/你懂的|链接https://pan.baidu.com/s/1eqdJLSRMre3ZOyaXIEubVw||
 |658774|结衣的异世界冒险/你懂的|链接https://pan.baidu.com/s/18JaRY8I1OfNwKX3k42gh-A||
-|879996|基因雨：风塔/电脑小游戏|链接https://pan.baidu.com/s/1WESajq4B0mpEXKCCPRKocQ||
+|879996|基因雨:风塔/电脑小游戏|链接https://pan.baidu.com/s/1WESajq4B0mpEXKCCPRKocQ||
 |658774|饥荒/电脑小游戏|链接https://pan.baidu.com/s/1Cr2MY9-1RDsQ_HEl1eFnLA|赠品https://pan.baidu.com/s/1HwiS7BAYJHKICbm98FSwvg|
 |987445|机械迷城|链接https://pan.baidu.com/s/1Z7vMBDm7rwqjhdASomPbOw||
 |587449|家出少女/你懂的|链接https://pan.baidu.com/s/1hUNmhRL_T7mwcKd7p_NAcw||
@@ -430,12 +430,12 @@ tags:                               #标签
 |521874|看门狗2/1|链接https://pan.baidu.com/s/1VrBN7Zwya87Ko1nxEmCcMQ|赠品https://pan.baidu.com/s/17Kza07h7EEIbA3DKbkIKMg|
 |563336|狂战传说/绯夜传奇|链接https://pan.baidu.com/s/1te4KnQPNYPYeVImKiyFbRw|赠品https://pan.baidu.com/s/1MiY80sr0F7y_Rn4p2V6UTA|
 |548754|空洞骑士|链接https://pan.baidu.com/s/1FCPLEpSvf-wdkP9_nEStcg|赠品https://pan.baidu.com/s/1KmygOM3P-PNZPx1CN3eS1A|
-|254136|开拓者：拥王者|链接https://pan.baidu.com/s/11ErqQFIgtk04d4S2IJxMpQ|赠品https://pan.baidu.com/s/1GRo9NGwud7q5bhptM4J8Nw|
+|254136|开拓者:拥王者|链接https://pan.baidu.com/s/11ErqQFIgtk04d4S2IJxMpQ|赠品https://pan.baidu.com/s/1GRo9NGwud7q5bhptM4J8Nw|
 |669566|克苏鲁的呼唤|链接https://pan.baidu.com/s/1Db9IHjmKkWfKkFcgpGb8FA||
 |314785|恐怖黎明|链接https://pan.baidu.com/s/1O3jcaWr-Tz50y2UFNhcSag|赠品https://pan.baidu.com/s/18Kh7x__nsdORb4VaShY6yQ|
 |322111|坎巴拉太空计划|链接https://pan.baidu.com/s/1KlJkzbuuO0UPuXNZ1KSp7A|赠品https://pan.baidu.com/s/1Rgub3Z2On1PKTT3t0saHiw|
 |548889|凯瑟琳|链接https://pan.baidu.com/s/1nDJ91TEv2M0w4OQDVCExIQ|赠品https://pan.baidu.com/s/1wLj-UvZB7ZyAPJSWzw5beA|
-|632154|卡里古拉：过量|链接https://pan.baidu.com/s/1-1c-JGYg5lPN13K4zHPq4A|赠品https://pan.baidu.com/s/119Po99yhm-YQCDyxTeTauA|
+|632154|卡里古拉:过量|链接https://pan.baidu.com/s/1-1c-JGYg5lPN13K4zHPq4A|赠品https://pan.baidu.com/s/119Po99yhm-YQCDyxTeTauA|
 |874585|靠近太阳|链接https://pan.baidu.com/s/1H3KDiFR46YbGwvohyrgftA|赠品https://pan.baidu.com/s/1O_hlSMBhIuelEOLaln6o2Q|
 |874115|狂怒2|链接https://pan.baidu.com/s/1F1hlRi2nVr0E5FYQ7cEjRQ|赠品https://pan.baidu.com/s/1rX3DbggJjAlwaVSZcjS9JA|
 |854478|卡片地下城|链接https://pan.baidu.com/s/1vVPPbWj0oUrN5_3V-BLP5g||
@@ -454,15 +454,15 @@ tags:                               #标签
 |854796|乐高超人总动员 超人特工队|链接https://pan.baidu.com/s/1og4v_MpeG94Oxhrv4j60gQ|赠品https://pan.baidu.com/s/17XmGkZzTYyYysuq8LV_RNA|
 ||乐高漫威超级英雄2|链接https://pan.baidu.com/s/1LvdKy4w6fxlbEA0dA0eR4A|赠品https://pan.baidu.com/s/1z5W7bECZY8ewut4axXjhTg|
 |112369|掠食|链接https://pan.baidu.com/s/1enwqOBAAHlAg-x-bAV9JdQ|赠品https://pan.baidu.com/s/1v7q5FSqpskcAuq-7dmg0GA|
-|112369|掠食：Mooncrash|链接https://pan.baidu.com/s/1Gr-Vh02MVTvAjz4k6UrVAw|赠品https://pan.baidu.com/s/19atwXipVmzG_rR7Nw8EMYA|
-|215416|龙珠：超宇宙2/1/单机.同屏多人|链接https://pan.baidu.com/s/1i3RIrocJUohCjt0t_xd1ug|赠品https://pan.baidu.com/s/1I7R4XDJ8pFcjatLDDuESuQ|
-|215416|龙珠Z：卡卡罗特|链接https://pan.baidu.com/s/1mFZf2UkFP_mvJUrMn_bm8A|赠品https://pan.baidu.com/s/1xMG7GuSJN99AfcvnRfp2ow|
-|326698|猎人：野性的呼唤/荒野的召唤|链接https://pan.baidu.com/s/1SfpyNy3s3zfqUv1wobkhsw|赠品https://pan.baidu.com/s/1L2GCuMtNsm-bqmTqRi0CgA|
+|112369|掠食:Mooncrash|链接https://pan.baidu.com/s/1Gr-Vh02MVTvAjz4k6UrVAw|赠品https://pan.baidu.com/s/19atwXipVmzG_rR7Nw8EMYA|
+|215416|龙珠:超宇宙2/1/单机.同屏多人|链接https://pan.baidu.com/s/1i3RIrocJUohCjt0t_xd1ug|赠品https://pan.baidu.com/s/1I7R4XDJ8pFcjatLDDuESuQ|
+|215416|龙珠Z:卡卡罗特|链接https://pan.baidu.com/s/1mFZf2UkFP_mvJUrMn_bm8A|赠品https://pan.baidu.com/s/1xMG7GuSJN99AfcvnRfp2ow|
+|326698|猎人:野性的呼唤/荒野的召唤|链接https://pan.baidu.com/s/1SfpyNy3s3zfqUv1wobkhsw|赠品https://pan.baidu.com/s/1L2GCuMtNsm-bqmTqRi0CgA|
 |587968|龙珠斗士Z/龙珠格斗Z/龙珠战士Z/单机.同屏多人|链接https://pan.baidu.com/s/1vadn8Y38FHqn1oxE1zyz9A|赠品https://pan.baidu.com/s/1VvGDjrcspq3ENfCyNigeTw|
 |669854|恋姬演武 辽来来|链接https://pan.baidu.com/s/1-4U_ZsjUaRF5Ugkgvq4wug||
-|447548|罗马2：全面战争-帝皇版|链接https://pan.baidu.com/s/1ymxMBbnTORPSg0sSNKT2ow|赠品https://pan.baidu.com/s/18TE-_cGCYzPozFs7Vxw3WA|
+|447548|罗马2:全面战争-帝皇版|链接https://pan.baidu.com/s/1ymxMBbnTORPSg0sSNKT2ow|赠品https://pan.baidu.com/s/18TE-_cGCYzPozFs7Vxw3WA|
 ||龙腾世纪3审判|链接https://pan.baidu.com/s/12ve9qv2IFe1Z6aYjETtELg|赠品https://pan.baidu.com/s/1DADwDYhMC8VBK-sXBU9joA|
-|365984|60秒！重制版 |链接https://pan.baidu.com/s/1iVTANjahyDjj9VZX1wdflg|赠品https://pan.baidu.com/s/1okDvDKKa4OPmRPeGOw_12A|
+|365984|60秒!重制版 |链接https://pan.baidu.com/s/1iVTANjahyDjj9VZX1wdflg|赠品https://pan.baidu.com/s/1okDvDKKa4OPmRPeGOw_12A|
 ||脸黑先生|链接https://pan.baidu.com/s/1p9iYarg6c5kRj6Mq3tIkyQ||
 |365987|离奇世界|链接https://pan.baidu.com/s/1fJl6D7VgOckRyireumVxRg||
 |254123|绿色地狱/丛林地狱|链接https://pan.baidu.com/s/1Ef_3vTuCmf3A7kol0sqNlw|赠品https://pan.baidu.com/s/18eoJDkO6RpnQhi6b5HDvvA|
@@ -481,7 +481,7 @@ tags:                               #标签
 |587441|了不起的修仙模拟器/电脑小游戏|链接https://pan.baidu.com/s/17nVuq5wYB9DOXrBgJXXqpQ&shfl=sharepset|赠品https://pan.baidu.com/s/1JZfiTBHVzB4-ynZT02eZ_A&shfl=sharepset|
 |698554|零世代/零时代|链接https://pan.baidu.com/s/1M560nZgYs2s5ow3AuKc-7Q|赠品https://pan.baidu.com/s/1A5WobarX4129lT89pucjFw|
 |658741|恋活/你懂的|链接https://pan.baidu.com/s/1iN7IrdPc87dpvqUOdWJthg||
-|587411|露露亚的工作室：雅兰德的炼金术士4/炼金工房|链接https://pan.baidu.com/s/11ZgR1l6BozQo5iWxWdFgvA|赠品https://pan.baidu.com/s/19Oq3XfFvIKvPFXbKrAIY6A|
+|587411|露露亚的工作室:雅兰德的炼金术士4/炼金工房|链接https://pan.baidu.com/s/11ZgR1l6BozQo5iWxWdFgvA|赠品https://pan.baidu.com/s/19Oq3XfFvIKvPFXbKrAIY6A|
 |852223|龙崖|链接https://pan.baidu.com/s/1ZhEflO9B-aAFx360DptsBA|赠品https://pan.baidu.com/s/1HrFjtRf3SOxzxnCnF7aNNQ|
 |547822|流浪者|链接https://pan.baidu.com/s/1UMRQtRijH0Ua9rJMobxGTg||
 |362223|料理模拟器/烹饪模拟器|链接https://pan.baidu.com/s/1TzgYJvrXyoTW8qmUogOmTg|赠品https://pan.baidu.com/s/1en7U3bwww_fISyH4ASlqnA|
@@ -489,13 +489,13 @@ tags:                               #标签
 |636669|猎源|链接https://pan.baidu.com/s/1XpVb2TkhsUK4kDzyNpuF9A||
 |632336|恋爱纽带/Love Ribbon/你懂的|链接https://pan.baidu.com/s/1D1jg5tPipdNNPt4zvpt7kw||
 |963256|莉嘉.My Lovely Star/你懂的|链接https://pan.baidu.com/s/1Uh996oXLVut9Ygr0YTw7gg||
-|365214|恋爱定位：电车x同级生/你懂的|链接https://pan.baidu.com/s/1FA9X1zWpHE2F7cYm1I3gRw||
+|365214|恋爱定位:电车x同级生/你懂的|链接https://pan.baidu.com/s/1FA9X1zWpHE2F7cYm1I3gRw||
 |745447|龙星的瓦尔尼尔|链接https://pan.baidu.com/s/1dEfA8o3DuXcjVdiGNnQIRw|赠品https://pan.baidu.com/s/1Zv1CzGcUE8dbWyqb5uP7gA|
 |522112|莉莉传说/你懂的|链接https://pan.baidu.com/s/1VexR1pFfbEM8Qb5Vl_nswg||
 |632254|罗迪亚之翼/你懂的|链接https://pan.baidu.com/s/17-lr52s7Rz7H-TCb4GrWMQ&shfl=sharepset||
 |855477|流星·世界演绎者/你懂的|链接https://pan.baidu.com/s/1vEATGy2-X3YrSmH-AlHoAA||
 |854447||||
-|632554|莱莎的炼金工房：常暗的女王与秘密的隐居处|链接https://pan.baidu.com/s/1XYPQhGfdom1Ii5PQ1vbM1w||
+|632554|莱莎的炼金工房:常暗的女王与秘密的隐居处|链接https://pan.baidu.com/s/1XYPQhGfdom1Ii5PQ1vbM1w||
 |856332|零之骑士幻想曲/你懂的|链接https://pan.baidu.com/s/1oky8nVouU2z5geuI2TCy5g||
 |632256|两座城堡之间|链接https://pan.baidu.com/s/1Iwk7jQ_i5SZ1oC71KHJbTQ||
 |589665|拉拉和神奇迷宫/你懂的|链接https://pan.baidu.com/s/11emT6HYL8-a3k9-FAq0jRg||
@@ -504,19 +504,19 @@ tags:                               #标签
 |145225|恋爱季节/你懂的|链接https://pan.baidu.com/s/1WmMgoK6NQonodX8_E2sEyA||
 |325447|露露&恩诺伊 交织世界命运的少女/你懂的|链接https://pan.baidu.com/s/1cESCzLBqv6jndYO6f0DPyg||
 |874459|恋爱少女人格崩坏/你懂的|链接https://pan.baidu.com/s/1mwzWJ7EywQ8ZduVIuUnJ5g||
-|856669|落难航船：诅咒之岛的探险者|链接https://pan.baidu.com/s/1eGtEklmneob3daGTm31MAg||
-|658749|炼金工房：奈尔克与传说之炼金术士们.新大地之炼金工房|链接https://pan.baidu.com/s/15bRSZziaKPvWu3vFh9o59Q|赠品https://pan.baidu.com/s/1kYzWMqtIbp19dQB1LaUb8w|
-|658749|炼金工房：爱夏的炼金工房.黄昏大地之炼金术士DX|链接https://pan.baidu.com/s/1AnSD8yQwqnlOGaoV-fjNaA||
-|658749|炼金工房：爱丝卡与罗吉的炼金工房.黄昏天空之炼金术士DX|链接https://pan.baidu.com/s/1Jjj7FgC6-ppYD8ppyOOraQ||
-|658749|炼金工房：夏莉的炼金工房.黄昏海洋之炼金术士DX|链接https://pan.baidu.com/s/14uoLaLp7fqYE5yXNT9ZIYg||
-|785489|罗马执政官：高清重置版|链接https://pan.baidu.com/s/108ORcMAk_CduD3cTUvvniQ||
-|652336|蓝色反射：幻舞少女之剑|链接https://pan.baidu.com/s/1Cc-kG-VvgKxHYqOdJpAFpA|赠品https://pan.baidu.com/s/1OVGeml9mq26aL-VQKO7JpQ|
-|654112|灵之秘境：异象残影/电脑小游戏|链接https://pan.baidu.com/s/1147QCOXDBQMCRFU3zb0SOA||
+|856669|落难航船:诅咒之岛的探险者|链接https://pan.baidu.com/s/1eGtEklmneob3daGTm31MAg||
+|658749|炼金工房:奈尔克与传说之炼金术士们.新大地之炼金工房|链接https://pan.baidu.com/s/15bRSZziaKPvWu3vFh9o59Q|赠品https://pan.baidu.com/s/1kYzWMqtIbp19dQB1LaUb8w|
+|658749|炼金工房:爱夏的炼金工房.黄昏大地之炼金术士DX|链接https://pan.baidu.com/s/1AnSD8yQwqnlOGaoV-fjNaA||
+|658749|炼金工房:爱丝卡与罗吉的炼金工房.黄昏天空之炼金术士DX|链接https://pan.baidu.com/s/1Jjj7FgC6-ppYD8ppyOOraQ||
+|658749|炼金工房:夏莉的炼金工房.黄昏海洋之炼金术士DX|链接https://pan.baidu.com/s/14uoLaLp7fqYE5yXNT9ZIYg||
+|785489|罗马执政官:高清重置版|链接https://pan.baidu.com/s/108ORcMAk_CduD3cTUvvniQ||
+|652336|蓝色反射:幻舞少女之剑|链接https://pan.baidu.com/s/1Cc-kG-VvgKxHYqOdJpAFpA|赠品https://pan.baidu.com/s/1OVGeml9mq26aL-VQKO7JpQ|
+|654112|灵之秘境:异象残影/电脑小游戏|链接https://pan.baidu.com/s/1147QCOXDBQMCRFU3zb0SOA||
 |658745|洛川群侠传/电脑小游戏|链接https://pan.baidu.com/s/1FsOVY0uOaVINna6tNb46gA|赠品https://pan.baidu.com/s/19tCeWWHaZrgo6PoEWsbyEw|
 |748589|LOVELY×CATION2/1/你懂的|链接https://pan.baidu.com/s/1j3nY7jh01Xx46a1Mm0eS-Q|赠品https://pan.baidu.com/s/1S1tmWhro7GlzGw_o-CTm-Q|
 |859674|蜡烛人/电脑小游戏|链接https://pan.baidu.com/s/1_OIiZu54eItZYwUgoUPu7A||
 |521448|百科全书+漫画|链接https://pan.baidu.com/s/11RepUz1Thl3PDYZDTIwpMA||
-|548899|美丽水世界：零度之下/电脑小游戏|链接https://pan.baidu.com/s/1iofRPfwhsSm-M8s6WjqfPw|赠品https://pan.baidu.com/s/1Lk2EBLaFF5rDMzVRN1mBRA|
+|548899|美丽水世界:零度之下/电脑小游戏|链接https://pan.baidu.com/s/1iofRPfwhsSm-M8s6WjqfPw|赠品https://pan.baidu.com/s/1Lk2EBLaFF5rDMzVRN1mBRA|
 |548899|美丽水世界/水下之旅/深海迷航/电脑小游戏|链接https://pan.baidu.com/s/1TXsKNvg4RGTMMu7wbTrpBw|赠品https://pan.baidu.com/s/1sAbZvD3Jjs_6e1DM5wTTWQ|
 |548741|迷失森林|链接https://pan.baidu.com/s/1vWW42sBNDYkvI2j7n8kZOA|赠品https://pan.baidu.com/s/1kT9xcvXW4AX87MOctptgGw|
 |548741|迷失森林联机版/支持单机|链接https://pan.baidu.com/s/1uDbUe7IaLxKeHUA8C4Nz3g||
@@ -536,7 +536,7 @@ tags:                               #标签
 |528741|模拟火车世界2020|链接https://pan.baidu.com/s/1zv5VVAvYOZWWLF_eUdfunA||
 |215987|毛线小精灵2/1/同屏联机|链接https://pan.baidu.com/s/1rm2RM7uv2x8SM0F97wmDXA|赠品https://pan.baidu.com/s/1nRnIfff-ZqfxZSnUk5WN8w|
 |215968|面容|链接https://pan.baidu.com/s/1q_jNMJqVCz1XbDxqCtdVrA||
-|336522|魔兽争霸3：冰封王座合集|链接https://pan.baidu.com/s/1VwoAprH7BE_bhEI8wSdmDQ|赠品https://pan.baidu.com/s/1Ilet_pH9zUjSuQad3aCJ4A|
+|336522|魔兽争霸3:冰封王座合集|链接https://pan.baidu.com/s/1VwoAprH7BE_bhEI8wSdmDQ|赠品https://pan.baidu.com/s/1Ilet_pH9zUjSuQad3aCJ4A|
 |665987|魔界战记5|链接https://pan.baidu.com/s/1L5yKQk6eEQJAYS0HtLH61w|赠品https://pan.baidu.com/s/1lzkDeCWHB6hLamSHQcDCNw|
 |215421|模拟农场19|链接https://pan.baidu.com/s/1jRAHzAojCtEHSu9dW1lZDA|赠品https://pan.baidu.com/s/1cANUgggDfE9HGYaLnoHbQg|
 |124774|模拟火车2019/RW10/TS2019|链接https://pan.baidu.com/s/1sRusg7lB1PTHJOcM7aiiHg||
@@ -544,7 +544,7 @@ tags:                               #标签
 |323332|迷雾生存/迷雾求生|链接https://pan.baidu.com/s/1UGAbgZPwaAHGPzgcqLlLvA|赠品https://pan.baidu.com/s/126qjozvsnpBr1udHpKuTMw|
 |154517|美少女偶像练习生/你懂的|链接https://pan.baidu.com/s/1Ht6-tP9Zt48VaEWGkOVxwg||
 |985444|命运 创世 连接/新命运之夜/Fate/EXTELLA LINK|链接https://pan.baidu.com/s/1IqBAsPomu-hqcGZYZiFoeQ|赠品https://pan.baidu.com/s/15g6KbSzKQYiAU43wpZY2Tw|
-|587774|命运石之门：精英|链接https://pan.baidu.com/s/1Py4USxTwUHbBDxdhS8mU_A|赠品https://pan.baidu.com/s/1vfxTlX-wKMmCZcvvRLZSAg|
+|587774|命运石之门:精英|链接https://pan.baidu.com/s/1Py4USxTwUHbBDxdhS8mU_A|赠品https://pan.baidu.com/s/1vfxTlX-wKMmCZcvvRLZSAg|
 |965554|冒险者商店2|链接https://pan.baidu.com/s/1leKAMDbyThI2MPUwwgVWJA||
 |587779|猫忍之心2Love.PLUS/2.1.番外.五部合集/你懂的|链接https://pan.baidu.com/s/1fYMOq5fLa5V80MxiwUQJBQ|赠品https://pan.baidu.com/s/1QOSHydJyAIYWtUtLaPPSKg|
 |587779|猫忍之心3/你懂的|链接https://pan.baidu.com/s/1sUGirse2ZSa6i4KYOZoFXA&shfl=sharepset||
@@ -554,7 +554,7 @@ tags:                               #标签
 |785411|美国逃亡者|链接https://pan.baidu.com/s/1yGdSs0nYl9iBeMQYUssiYw|赠品https://pan.baidu.com/s/1QdBKLSirexBDkRvJNO1bgA|
 |958521|魔犬大骚乱/同屏联机|链接https://pan.baidu.com/s/1NAw3xAs9i-NLtU90FAruzg||
 |632514|命运-尘埃帝国/你懂的|链接https://pan.baidu.com/s/1VUQZdV8jHC15HQHKQvqdEQ||
-|215412|美味餐厅17：艾米丽的公路旅行/16/15/14/13/12/11/10/9/8|链接https://pan.baidu.com/s/12uNRQWYr0jELtZEO1HH8bA|赠品https://pan.baidu.com/s/1s2Z6jhFbTxGh5_r5xAN6DA|
+|215412|美味餐厅17:艾米丽的公路旅行/16/15/14/13/12/11/10/9/8|链接https://pan.baidu.com/s/12uNRQWYr0jELtZEO1HH8bA|赠品https://pan.baidu.com/s/1s2Z6jhFbTxGh5_r5xAN6DA|
 |521441|末日方舟|链接https://pan.baidu.com/s/1A1ZqD7LQE2pHQWlJ9mX4uQ||
 |326332|喵斯快跑|链接https://pan.baidu.com/s/19ldudITw3_Vp4ftzvVBgeQ||
 |521445|美少女万華鏡4/3/2.5/2/1/你懂的|链接https://pan.baidu.com/s/1N60QCxwcjOI4ZtXD5oIMYg|赠品https://pan.baidu.com/s/1YpbyWGLJPbPJuRWV17ScRA|
@@ -563,18 +563,18 @@ tags:                               #标签
 |852225|猫娘纯情奇谭.与上门猫又娘的幸福生活/你懂的|链接https://pan.baidu.com/s/1F6NUClsa5SkN1th2WWhAbQ||
 |332114|迷失魔镜/Mirror/你懂的|链接https://pan.baidu.com/s/10582DQfi6ivRatPm_vxXbw|赠品https://pan.baidu.com/s/1XcXmGFHxXJFV87D5Vr1JsA|
 |521447|冒牌英雄/你懂的|链接https://pan.baidu.com/s/1b5Al6ItblUeLIHxxk3mK1w||
-|854779|玛丽的骑士：使用身体来支付旅费吧/你懂的|链接https://pan.baidu.com/s/1fhzp18YjzRPPNp9gM-z0TQ|赠品https://pan.baidu.com/s/1hB3U_f6DAlqFDNDyei_52w|
+|854779|玛丽的骑士:使用身体来支付旅费吧/你懂的|链接https://pan.baidu.com/s/1fhzp18YjzRPPNp9gM-z0TQ|赠品https://pan.baidu.com/s/1hB3U_f6DAlqFDNDyei_52w|
 |788996|迷失的生命/Lost Life/你懂的|链接https://pan.baidu.com/s/11OzlPSHDHN0M-2YO9JEB1g||
 |874559|牧场物语BreedingFarm/你懂的|链接https://pan.baidu.com/s/1USsluTvK8XQhfv6TLdw3Rw||
 |854774|萌萌2次大战(略)3|链接https://pan.baidu.com/s/1S1RlWZ8H7upVrG8TDvH2sw||
 |748556|没时间放松/单机.同屏.网络联机|链接https://pan.baidu.com/s/1emmDMPc3w_uhkRj1jR2Ycw||
 |963254|莫塔之子/莫塔守山人|链接https://pan.baidu.com/s/1EVeJYxWvKBXLGKJ3h30blg|赠品https://pan.baidu.com/s/1cgmC1wCzS4V5pXsEmjcQSw|
 |859696|末日之旅/陆地之上/长途跋涉/Overland|链接https://pan.baidu.com/s/1AJaFIz3X_7LGTxNhgq6maQ||
-|748556|妹妹同居生活：黑白色/你懂的|链接https://pan.baidu.com/s/1cb9YAKog4lDWCJzHWPjPUg||
+|748556|妹妹同居生活:黑白色/你懂的|链接https://pan.baidu.com/s/1cb9YAKog4lDWCJzHWPjPUg||
 |854745|喵咪斗恶龙2/单机.同屏多人|链接https://pan.baidu.com/s/1G2HkrX4asbXLXHfRTDyvDA||
 |745854|媚肉之香/本篇.番外|链接https://pan.baidu.com/s/1vFN0JReUHlUDuyDZncEz8Q|赠品https://pan.baidu.com/s/16USzsvZpoXbqkdIU2m4_Xg|
 |745122|魔方世界/Cube World/网络联机|链接https://pan.baidu.com/s/1YdVrGqhTey3CkWp8bd_OAg||
-|854115|绵羊回家：Farmageddon|链接https://pan.baidu.com/s/1evHkQJqcHU6tuYBywUR76Q&shfl=sharepset||
+|854115|绵羊回家:Farmageddon|链接https://pan.baidu.com/s/1evHkQJqcHU6tuYBywUR76Q&shfl=sharepset||
 |747885|末日求生/余波求生/劫后余生|链接https://pan.baidu.com/s/1b9JBr6XkHYskU-CkETCDxg||
 |852336|梦魇|链接https://pan.baidu.com/s/1JA4AiP31uGpAALZrT-ks9A||
 |784456|蜜蜂模拟器|链接https://pan.baidu.com/s/1ZWHFgPFQah367n_U_L-AkQ||
@@ -582,16 +582,16 @@ tags:                               #标签
 |215447|马赛克|链接https://pan.baidu.com/s/1k6ZQivGx5sMO51tIK1a_nA||
 |451114|魅魔的囚笼/你懂的|链接https://pan.baidu.com/s/1tk8y_g63vRTexurPJsTozA||
 |325447|魅魔新妻 甜蜜新婚生活/你懂的|链接https://pan.baidu.com/s/1CFkOGzFGCelrE4eVbbApZw||
-|748774|冥河：旧日支配者之治/旧神统治|链接https://pan.baidu.com/s/1H3T3lMCAE57C4CHoq53m9w||
+|748774|冥河:旧日支配者之治/旧神统治|链接https://pan.baidu.com/s/1H3T3lMCAE57C4CHoq53m9w||
 |658744|萌萌兔耳娘的大冒险/拉比哩比/Rabi-Ribi|链接https://pan.baidu.com/s/1y9hb-px-zDSkx7SDGdqjqQ||
 |879995|魔王的征途/Tyrannical Beast/你懂的|链接https://pan.baidu.com/s/18Wjs8Z_iYNEYWdDghct4TA||
 |698554|魔女的侵袭/Under The Witch/你懂的|链接https://pan.baidu.com/s/1vs3vwWahygZJqaCpmBug9A||
 |658774|密不可分/形影不离/心有灵犀|链接https://pan.baidu.com/s/1p_ha2rUGy8OA5mtkOS23UA|赠品https://pan.baidu.com/s/1XhNRBVNNE4ot8KMshlh-hw|
 |326633|牧剑/电脑小游戏|链接https://pan.baidu.com/s/1qAduBNmgHB7Tlkq7snYmXA||
-|855222|漫画英雄VS卡普空：无限/漫威VS卡普空无限/单机.同屏多人|链接https://pan.baidu.com/s/1KmG6hqK3523_44L_8RvZfQ|链接https://pan.baidu.com/s/1nKk_iPTOB2HAEe6nFUOvpw|
+|855222|漫画英雄VS卡普空:无限/漫威VS卡普空无限/单机.同屏多人|链接https://pan.baidu.com/s/1KmG6hqK3523_44L_8RvZfQ|链接https://pan.baidu.com/s/1nKk_iPTOB2HAEe6nFUOvpw|
 |859699|魔道兵装/Mahou Arms/你懂的|链接https://pan.baidu.com/s/1ycGIfGBaEeWz3k516PO3qA||
 |587996| 懵懂少女惠子/你懂的|链接https://pan.baidu.com/s/1z1TAV8wSZdNbQI-kaJ4Grg||
-|698554|盟军敢死队2：高清重置版|链接https://pan.baidu.com/s/1vBZU2WEWftGEiQ5Z4QnE7g|赠品https://pan.baidu.com/s/1OQ_ooY9V8Xl8b3rXvdGClg|
+|698554|盟军敢死队2:高清重置版|链接https://pan.baidu.com/s/1vBZU2WEWftGEiQ5Z4QnE7g|赠品https://pan.baidu.com/s/1OQ_ooY9V8Xl8b3rXvdGClg|
 |874596|Metal Unit|链接https://pan.baidu.com/s/1V59kAVoTzJ2bZJt3e5PjyA||
 |569854|美食末日大作战/单机.同屏多人|链接https://pan.baidu.com/s/1Po59nRBoKe8Ewwqv50GNYg||
 |587445|母性女友呵护有加/你懂的|链接https://pan.baidu.com/s/1yRxk70-gXq0B_lVXV4hpdQ||
@@ -602,18 +602,18 @@ tags:                               #标签
 |124961|内心朋友|链接https://pan.baidu.com/s/1wiCMj1ZtRJWeGoR4X8TcnQ||
 |321444|女神异闻录5/p5/魔改版|链接https://pan.baidu.com/s/1r9sxeOR3IXudJbpvVkWjNw|赠品https://pan.baidu.com/s/1ymaLv_j5GothrAIKkXOeWQ|
 |254447|Neoverse|链接https://pan.baidu.com/s/1O5GryEuSib9ySLmCYmbk7g||
-|652554|拿破仑：全面战争|链接https://pan.baidu.com/s/15ZQMlDH87T-AmfDW6bE8wg|赠品https://pan.baidu.com/s/1-estiE64uStWFRy_7Exbcw|
+|652554|拿破仑:全面战争|链接https://pan.baidu.com/s/15ZQMlDH87T-AmfDW6bE8wg|赠品https://pan.baidu.com/s/1-estiE64uStWFRy_7Exbcw|
 |548777|你好邻居|链接https://pan.baidu.com/s/1cophlm7hUkdlcD0zY4bjKA||
-|548777|你好邻居：捉迷藏/躲猫猫|链接https://pan.baidu.com/s/1tTWXfef6R8guElopin401g||
+|548777|你好邻居:捉迷藏/躲猫猫|链接https://pan.baidu.com/s/1tTWXfef6R8guElopin401g||
 |999888|那些年~WoWanGuoDe校花英语老师/你懂的|链接https://pan.baidu.com/s/17ZsXhCGvfJH8Z7cn_mwpxw||
 |541221|女主播JingJi公司/国产|链接https://pan.baidu.com/s/1m1kwts9ZCKa8tdtx65cpUA||
 |658444||||
 |365215|女神驾到/你懂的|链接https://pan.baidu.com/s/1pNR0VHgdiqIIbdYNTsHQsA||
 |874569|脑叶公司怪物管理模拟|链接https://pan.baidu.com/s/1vDfXACa1oqgZxnVlaegBQA||
-|963223|女忍反射：闪乱神乐/忍纾压|链接https://pan.baidu.com/s/1qmF94mePjVtwItNS4n039Q||
+|963223|女忍反射:闪乱神乐/忍纾压|链接https://pan.baidu.com/s/1qmF94mePjVtwItNS4n039Q||
 |748775|妮卡的冒险/你懂的|链接https://pan.baidu.com/s/1g3YtySdNhXJeTmq-lbJCVw||
 |874445|NinNinDays/你懂的|链接https://pan.baidu.com/s/1AZRMhfooNcfFOHgOOcndqA||
-|874478|逆转裁判123：成步堂选集/逆转裁判三部曲|链接https://pan.baidu.com/s/1l0TUdtvCwCdeUGXSGugjjQ|赠品https://pan.baidu.com/s/1SxUsMHVrkVre1zcn6PxCCQ|
+|874478|逆转裁判123:成步堂选集/逆转裁判三部曲|链接https://pan.baidu.com/s/1l0TUdtvCwCdeUGXSGugjjQ|赠品https://pan.baidu.com/s/1SxUsMHVrkVre1zcn6PxCCQ|
 |632333|女巫/巫婆|链接https://pan.baidu.com/s/1Mui6GOVWSOS9Yq_gj6fNpg&shfl=sharepset|赠品https://pan.baidu.com/s/1pwRTUemmCPRBW3CorKGHUw&shfl=sharepset|
 |874778|牛顿与苹果树/你懂的|赠品https://pan.baidu.com/s/1IC_TwN5m0VFeP42HboZQYQ||
 |963336|脑袋捕手/同屏多人|链接https://pan.baidu.com/s/1Rfvj7x83pqWJPcI2U0Q1eQ||
@@ -621,45 +621,45 @@ tags:                               #标签
 |632228|牛奶触觉/你懂的|链接https://pan.baidu.com/s/1hQ-kv_aV0I5PHnCOFeRIvA||
 |458777|农民的追求/你懂的|链接https://pan.baidu.com/s/1RFgJp1LLno2Oktb35iiYyQ||
 |365998|纳迪亚之宝/你懂的|链接https://pan.baidu.com/s/1aHqdHmxd2Jug5yf3cWGq7A||
-|587778|匿名信：失心者/电脑小游戏|链接https://pan.baidu.com/s/1afZy-FTgNCSASGKv-WOwug||
+|587778|匿名信:失心者/电脑小游戏|链接https://pan.baidu.com/s/1afZy-FTgNCSASGKv-WOwug||
 |658774|奈的调教日记/你懂的|链接https://pan.baidu.com/s/1q87SF8SdK-E0-M9jsnWb8A||
 |569874|拟像2/SIMULACRA 2|链接https://pan.baidu.com/s/1Eq7X-z5jCFuqYAMJer5Qdg||
 |748477|暖暖村物语 网络联机版/电脑小游戏|链接https://pan.baidu.com/s/1NTD0jOU85mjhPQwglXnZSw||
 |748477|暖暖村物语/电脑小游戏|链接https://pan.baidu.com/s/1HmWdAzrKoyIpLTV3jz3K6A||
 |652335|女巫来了 网络联机版|链接https://pan.baidu.com/s/1CeXAFBTonrMK2JSY13BrdA||
-|154477|欧陆风云4：黄金世纪|链接https://pan.baidu.com/s/16I-Y1RILAL5IJAbqt0D6Yw|赠品https://pan.baidu.com/s/1MWNMefo7Uvw-bDOO9WWDXg|
+|154477|欧陆风云4:黄金世纪|链接https://pan.baidu.com/s/16I-Y1RILAL5IJAbqt0D6Yw|赠品https://pan.baidu.com/s/1MWNMefo7Uvw-bDOO9WWDXg|
 |154697|Okaeri|链接https://pan.baidu.com/s/1NI1oXl5Q_RqHjqlTk2f7PQ||
 |326325|欧洲卡车模拟2/欧卡2|链接https://pan.baidu.com/s/1hzd8IDTnPyFUZZhLTnkzkQ|赠品https://pan.baidu.com/s/1L9vJ_QQkp-z-qIOnmp-zIQ|
-|745887|欧米茄迷宫：人生|链接https://pan.baidu.com/s/1Q6lRAvXZKoX3cxGuUzI_Kg||
+|745887|欧米茄迷宫:人生|链接https://pan.baidu.com/s/1Q6lRAvXZKoX3cxGuUzI_Kg||
 |254154|旁观者2/监察者2/监视者2/旁观者1|链接https://pan.baidu.com/s/1UMi2Yry3Zb0mCwAuYjt8IQ|赠品https://pan.baidu.com/s/1JsKSIKUKHPnghE5INkroSA|
 ||PC微软模拟飞行10|链接https://pan.baidu.com/s/15I-9jj26gTlt30EbaeeU7Q|赠品https://pan.baidu.com/s/1k26oqBpW13PR16YqyKygIw|
-|521111|叛乱：沙漠风暴/单机.网络联机|链接https://pan.baidu.com/s/1UBuk7z0Vc1BvE5RgPZc5tw||
+|521111|叛乱:沙漠风暴/单机.网络联机|链接https://pan.baidu.com/s/1UBuk7z0Vc1BvE5RgPZc5tw||
 |363222|破坏领主|链接https://pan.baidu.com/s/1jp6rhmcK6AwsgEetX5gGlA|赠品https://pan.baidu.com/s/1lrhClw7I4zUmZ4wcphV0zw|
 |632547|帕尔米拉孤儿院|链接https://pan.baidu.com/s/13_5mG5t0dML0IixmIFsbAw||
 |745556|Pathway/通路/路径|链接https://pan.baidu.com/s/1IqrDMWECTi4aGg7b3Rso7w||
-|854778|漂移大陆：魔法复兴|链接https://pan.baidu.com/s/1qQ_IArdQFHOqwiEqd9g-JQ|赠品https://pan.baidu.com/s/1qTCihDbe3AgV5kG9QmeSxA|
+|854778|漂移大陆:魔法复兴|链接https://pan.baidu.com/s/1qQ_IArdQFHOqwiEqd9g-JQ|赠品https://pan.baidu.com/s/1qTCihDbe3AgV5kG9QmeSxA|
 |632265|泡沫冬景/电脑小游戏|链接https://pan.baidu.com/s/1JYmXpYTnpGI9qfZuW4euUg||
 |254144|拳皇13/KOF13|链接https://pan.baidu.com/s/1l9cLHsXhJHZenVA3d1wKQA|赠品https://pan.baidu.com/s/1BSo4xcQrkJZoa6gD5V_KEQ|
 |254144|拳皇14/KOF14|链接https://pan.baidu.com/s/1FAlPAv2xw0EWDPRP8dqzrg|赠品https://pan.baidu.com/s/142JvFRyEyXfSvyeNIbxFsw|
 |362365|缺氧/氧气不足|链接https://pan.baidu.com/s/1WFjgmaEsDuPhsJqzdMIuxQ|赠品https://pan.baidu.com/s/1uW3ChYr3X2i4h5mHpFhUjQ|
-|259631|全面战争：战锤2+1|链接https://pan.baidu.com/s/1VRHHHuNUcxj0-jdrVzZaqw|赠品https://pan.baidu.com/s/1l4daN35gEV0E1IhG-vGIjA|
+|259631|全面战争:战锤2+1|链接https://pan.baidu.com/s/1VRHHHuNUcxj0-jdrVzZaqw|赠品https://pan.baidu.com/s/1l4daN35gEV0E1IhG-vGIjA|
 |558874|奇异人生2/1/暴风前夕|链接https://pan.baidu.com/s/1AK5tKVOvj_JM3GjjyXvIsg|赠品https://pan.baidu.com/s/16GA-0aCaowwIoX9zIspwvg|
 |658748|全明星水果赛车|链接https://pan.baidu.com/s/1dqjjHzeZKVMA0rYUXvoXiw||
 |398574|旗帜的传说321|链接https://pan.baidu.com/s/1i6uJcq8sjUn07t9QOV4yLg|赠品https://pan.baidu.com/s/1zWPhQbJr4wVxYtv8NNhTXg|
-|365987|全面战争传奇：大不列颠王座|链接https://pan.baidu.com/s/1n2q7GBLlP0xNb8Sb7cUvog|赠品https://pan.baidu.com/s/1_w_npP7D50Os7ZEXkQCUqg|
-|254123|骑马与砍杀：战团联机联网版|链接https://pan.baidu.com/s/1QjHiP3SMscXPveh-KQtHFg|赠品https://pan.baidu.com/s/1qeYzYP8i0wqjC5ucArIZJQ|
-|254121|乞丐模拟器 流浪汉：艰难的生活|链接https://pan.baidu.com/s/15o5GT5MoEU7hzfYYGKiwhQ|赠品https://pan.baidu.com/s/1ODVf8a-fuhhJjRNmXAteqw|
-|548759|群星：多彩银河绅士魔改/你懂的|链接https://pan.baidu.com/s/1jGMAH7YvLIjYbG0uCy_i9Q|赠品https://pan.baidu.com/s/1WnjjR25IOgVtza7lsUzSJQ|
+|365987|全面战争传奇:大不列颠王座|链接https://pan.baidu.com/s/1n2q7GBLlP0xNb8Sb7cUvog|赠品https://pan.baidu.com/s/1_w_npP7D50Os7ZEXkQCUqg|
+|254123|骑马与砍杀:战团联机联网版|链接https://pan.baidu.com/s/1QjHiP3SMscXPveh-KQtHFg|赠品https://pan.baidu.com/s/1qeYzYP8i0wqjC5ucArIZJQ|
+|254121|乞丐模拟器 流浪汉:艰难的生活|链接https://pan.baidu.com/s/15o5GT5MoEU7hzfYYGKiwhQ|赠品https://pan.baidu.com/s/1ODVf8a-fuhhJjRNmXAteqw|
+|548759|群星:多彩银河绅士魔改/你懂的|链接https://pan.baidu.com/s/1jGMAH7YvLIjYbG0uCy_i9Q|赠品https://pan.baidu.com/s/1WnjjR25IOgVtza7lsUzSJQ|
 |548759|群星|链接https://pan.baidu.com/s/1bI1kxXQxV48eDokMELzqeQ|赠品https://pan.baidu.com/s/1rd-dv_ywLpAWOjo-EYS3mw|
 |663252|七日杀/联机版|链接https://pan.baidu.com/s/1VpCdAwXYIkLXzJYqqaanbg|赠品https://pan.baidu.com/s/1x07v5te_z8ChPnFaY-hw9w|
 |632547|奇异小队/奇兵旅/异域骑兵/异域奇兵|链接https://pan.baidu.com/s/1CbZhAaiCTYxKmABZj6zJYQ|赠品https://pan.baidu.com/s/1HbXAbpZ81Gt90pVDuXLBAw|
-|326521|全面战争：幕府将军2|链接https://pan.baidu.com/s/1mVKiErsAreZPIWe2Y7UVrA|赠品https://pan.baidu.com/s/1H-YJ2166WlDy5mQGYhNQnA|
+|326521|全面战争:幕府将军2|链接https://pan.baidu.com/s/1mVKiErsAreZPIWe2Y7UVrA|赠品https://pan.baidu.com/s/1H-YJ2166WlDy5mQGYhNQnA|
 |548885|全面战争模拟器|链接https://pan.baidu.com/s/1R6-p1pHFCPhe8h-LqkAzjA|赠品https://pan.baidu.com/s/1O-WiWNAv7zXJkBoupXOJDg|
 |874888|汽车修理工模拟2018|链接https://pan.baidu.com/s/18gZZp4ocAoaCHOtXKEDmOw||
 |963336|亲密关系/你懂的|链接https://pan.baidu.com/s/1OscI5J4dK3V-neGflrppCA||
-|632225|全面战争：三国|链接https://pan.baidu.com/s/1ItuL2pW93_41UAN_L8uBoA|赠品https://pan.baidu.com/s/1sZC1k5enPMDcXeFEBzmnOA|
+|632225|全面战争:三国|链接https://pan.baidu.com/s/1ItuL2pW93_41UAN_L8uBoA|赠品https://pan.baidu.com/s/1sZC1k5enPMDcXeFEBzmnOA|
 |741563|情爱立方/LOVE CUBE/你懂的|链接https://pan.baidu.com/s/1tcGP8oVq78O1cRftCGutBQ||
-|789665|奇迹时代：星陨|链接https://pan.baidu.com/s/1IoH5JbvgY8YmidPw6DfYFA|赠品https://pan.baidu.com/s/1xCs4sOo_n3YjP1LZcITKag|
+|789665|奇迹时代:星陨|链接https://pan.baidu.com/s/1IoH5JbvgY8YmidPw6DfYFA|赠品https://pan.baidu.com/s/1xCs4sOo_n3YjP1LZcITKag|
 |632547|骑士与魔法战争|链接https://pan.baidu.com/s/1D2Vnh4uOinLSTTu7l64gdg||
 |632236|求生之路2/生存之旅2/单机.网络联机/两部合集|链接https://pan.baidu.com/s/13_cx0lT06qor1f6TOpjY3w|赠品https://pan.baidu.com/s/14SVOW28WOrHwZ9EF9ePKqA|
 |632221|骑士之旅|链接https://pan.baidu.com/s/1lN3P03fB-iaCN8HVZMSUUQ||
@@ -669,10 +669,10 @@ tags:                               #标签
 |632546|奇迹一刻/电脑小游戏|链接https://pan.baidu.com/s/1StRamMyjfNKWA9rLdUcsYA||
 |632336|切尔诺贝利人|链接https://pan.baidu.com/s/1m-SMz9J7m-4I1wr2v69FgA|赠品https://pan.baidu.com/s/124nsETQNvQWfn-L6ZaMt7w|
 |741112|奇妙探险队|链接https://pan.baidu.com/s/1Yl_WQe0B3zboEQ-3bWX82w||
-|632225|请给我你的胖次，让我拯救世界/电脑小游戏|链接https://pan.baidu.com/s/1x00FFrl3OgyxQOnUBYBlxg||
+|632225|请给我你的胖次,让我拯救世界/电脑小游戏|链接https://pan.baidu.com/s/1x00FFrl3OgyxQOnUBYBlxg||
 |541112|请停手吧姐姐大人!要断了!/你懂的|链接https://pan.baidu.com/s/1ivZcyTMfExgoi47ewc74Kw||
 |658774|青春×好奇相伴的三角恋爱/你懂的|链接https://pan.baidu.com/s/1IMUAp5pA1hROTfx4ZctoHQ||
-|448775|7女孩之战：高贵之女堕落成RBQ战记/你懂的|链接https://pan.baidu.com/s/15vBnXC4fe3KvBPtvuTuSbQ||
+|448775|7女孩之战:高贵之女堕落成RBQ战记/你懂的|链接https://pan.baidu.com/s/15vBnXC4fe3KvBPtvuTuSbQ||
 |987589|妻中蜜3/你懂的|链接https://pan.baidu.com/s/1OK1B09uQDZV3yqirgEU-kg||
 |587449|70亿人类|链接https://pan.baidu.com/s/1gFQd8uuHuP6CH9byn2TQlg||
 |658774|7天的临时女友/你懂的|链接https://pan.baidu.com/s/13UdqOsJpT-7_ciITifYzag||
@@ -682,48 +682,48 @@ tags:                               #标签
 |363354|RiME/霜华/霜雪|链接https://pan.baidu.com/s/1etLblyGsWexUlbJ3H2DCzQ|赠品https://pan.baidu.com/s/1Gig4u3fkwGjZXH9HZaEstg|
 |658487|仁王完整版|链接https://pan.baidu.com/s/17Llr-nhUh2VqV6da6uNLwg|赠品https://pan.baidu.com/s/1CKzZzG2N43FtK-1WWI_PEA|
 |588796|人类一败涂地|链接https://pan.baidu.com/s/18Y7RZl-5fUjJfoph0KZthg|赠品https://pan.baidu.com/s/1KNdpp5dFXSvUAhBUDka7gA|
-|588796|人类一败涂地：网络联机|链接https://pan.baidu.com/s/1Hv7d-Io85ruSHQrBhdApxQ|赠品https://pan.baidu.com/s/1iJSANwQoixk9Wk-pfcaPwg|
-|658255|人猿星球：最后的边疆|链接https://pan.baidu.com/s/1MCfkw6lXQVn_gaqm2Q1opg||
-|896698|RWBY：戮兽之蚀|链接https://pan.baidu.com/s/10adC0fEXxT05aL20BwoQCg||
+|588796|人类一败涂地:网络联机|链接https://pan.baidu.com/s/1Hv7d-Io85ruSHQrBhdApxQ|赠品https://pan.baidu.com/s/1iJSANwQoixk9Wk-pfcaPwg|
+|658255|人猿星球:最后的边疆|链接https://pan.baidu.com/s/1MCfkw6lXQVn_gaqm2Q1opg||
+|896698|RWBY:戮兽之蚀|链接https://pan.baidu.com/s/10adC0fEXxT05aL20BwoQCg||
 |332587|刃之异邦人 剑骑烈传|链接https://pan.baidu.com/s/1VPfyChmdjjTZZQ-Pydr1KA|赠品https://pan.baidu.com/s/1WnMxETHSjuzykmesx5S5gw|
 |326597|日落过载/落日超驰/开放世界|链接https://pan.baidu.com/s/1lchwco5tWmt0ioLtNDvuHQ|赠品https://pan.baidu.com/s/12ocLeUIxTwfwwMJuJmBtog|
-|323365|忍者之印：重制版|链接https://pan.baidu.com/s/1CEwI30G5cvsJkULrD2EDMA|赠品https://pan.baidu.com/s/18n077g4EUmN9ghSbTNp4gw|
+|323365|忍者之印:重制版|链接https://pan.baidu.com/s/1CEwI30G5cvsJkULrD2EDMA|赠品https://pan.baidu.com/s/18n077g4EUmN9ghSbTNp4gw|
 |554787|如龙0|链接https://pan.baidu.com/s/1KSIEGaAXTWHWLSLf24TXcw|赠品https://pan.baidu.com/s/1JJT8V5zqppcWhKlG7kbotQ|
 |632569|人渣|链接https://pan.baidu.com/s/1FTqp2wAHXQbsmk30Y5inHw|赠品https://pan.baidu.com/s/1q5yN-9aMbK1C0bT8lJmeOQ|
 |362333|荣誉勋章2010/荣誉勋章战士/血战太平洋/空降神兵/三部曲合集|链接https://pan.baidu.com/s/1GMJBS3TRkDEIB0tW-Rxm4g|赠品https://pan.baidu.com/s/1fM1e82XZHoJo6WC3OyJKig|
-|587456|热血无赖：终极版|链接https://pan.baidu.com/s/1D9KFKVp1v5clASq7YSr6EA|赠品https://pan.baidu.com/s/12Wpb41aIoMlm137CsEwWgg|
+|587456|热血无赖:终极版|链接https://pan.baidu.com/s/1D9KFKVp1v5clASq7YSr6EA|赠品https://pan.baidu.com/s/12Wpb41aIoMlm137CsEwWgg|
 |548745|人类黎明|链接https://pan.baidu.com/s/1SBSbEAuiRyN124UrwQuewg||
 |548996|如龙极|链接https://pan.baidu.com/s/1NUlwIecrNb1dYhsJgfMagw|赠品https://pan.baidu.com/s/1pIh6Wl9mHVP31LqKY8FGHw|
-|658774|如龙：极2/.同屏联机|链接https://pan.baidu.com/s/1j8PNLT7BtQp9k1i0quGjXA|赠品https://pan.baidu.com/s/10UH75wtPJWm_JSOTITVn2A|
+|658774|如龙:极2/.同屏联机|链接https://pan.baidu.com/s/1j8PNLT7BtQp9k1i0quGjXA|赠品https://pan.baidu.com/s/10UH75wtPJWm_JSOTITVn2A|
 |852632|人间|链接https://pan.baidu.com/s/1L7hZ8F-oCUeCF1-LCC0y7g||
 |748596|如月真绫的诱惑/你懂的|链接https://pan.baidu.com/s/1ZZFg6WEwHY0RERK8VDxxPQ||
-|852669|RemiLore：少女与异世界与魔导书/单机.同屏联机|链接https://pan.baidu.com/s/1qqzH2aVFjoE4SK7Ciwjunw||
+|852669|RemiLore:少女与异世界与魔导书/单机.同屏联机|链接https://pan.baidu.com/s/1qqzH2aVFjoE4SK7Ciwjunw||
 |632546|热血少女物语/热血硬派国夫君外传/单机.同屏多人|链接https://pan.baidu.com/s/1IaC7vzgI-i-WLNEZCnRnVA||
 |745215|软绵绵.我和叔母与堂姐的H暑假/你懂的|链接https://pan.baidu.com/s/1f7UyQeduwMgikbkEcr950Q||
 |748554|热血街头大乱斗进行曲 Mach/单人.同屏多人|链接https://pan.baidu.com/s/151jJzsQXvpA65Yr9A87k4g||
-|748554|热血外传：好酷啊！小林/热血外传|||
-|632554|荣耀战场：帝国/荣耀之地帝国|链接https://pan.baidu.com/s/1Tlc3QJ2m4XtCQ5UvTdaAjQ|赠品https://pan.baidu.com/s/1EkH1EsJFA7yzprRMGlB8Gg|
+|748554|热血外传:好酷啊!小林/热血外传|||
+|632554|荣耀战场:帝国/荣耀之地帝国|链接https://pan.baidu.com/s/1Tlc3QJ2m4XtCQ5UvTdaAjQ|赠品https://pan.baidu.com/s/1EkH1EsJFA7yzprRMGlB8Gg|
 |658974|热射烧伤/过热燃烧/单机.网络联机|链接https://pan.baidu.com/s/18QFzQNaqNCJYcByKu_9YlQ||
-|569874|人间残渣：禽兽和愉快的小伙伴们/你懂的|链接https://pan.baidu.com/s/1N3BCFdz4AZdfIdoudM1oDg||
+|569874|人间残渣:禽兽和愉快的小伙伴们/你懂的|链接https://pan.baidu.com/s/1N3BCFdz4AZdfIdoudM1oDg||
 ||赛车计划2|链接https://pan.baidu.com/s/1a9jh6d6CpJNT3TrOBQhuwA|赠品https://pan.baidu.com/s/1iGonGHIiOBpBTqlbqMjNdQ|
 |563326|生化危机0高清版/HD重置版|链接https://pan.baidu.com/s/1Us8KAxGHfoV1foV4YkczSA|赠品https://pan.baidu.com/s/1ONm5fBfg7PsnsinMfMCR1g|
-|563326|生化危机5：黄金版|||
+|563326|生化危机5:黄金版|||
 |563326|生化危机6特别版|链接https://pan.baidu.com/s/1CrcNITm8wl1GgN74kiWzgg|赠品https://pan.baidu.com/s/1m2OgSwGYavdCuPG2BbtTAw|
-|563326|生化危机7：黄金版/终极版|链接https://pan.baidu.com/s/1GYRmbUp6lLgjgwQEuyhpdg&shfl=sharepset|赠品https://pan.baidu.com/s/11E9YZbJ8L4bacP9JbvGxaQ|
+|563326|生化危机7:黄金版/终极版|链接https://pan.baidu.com/s/1GYRmbUp6lLgjgwQEuyhpdg&shfl=sharepset|赠品https://pan.baidu.com/s/11E9YZbJ8L4bacP9JbvGxaQ|
 ||三国志13|链接https://pan.baidu.com/s/1i8m1O8zMefUHF5L7MV7Srg|赠品https://pan.baidu.com/s/1k91swUCLk7VIPTU4fb1yIA|
 |879658|三国志14|链接https://pan.baidu.com/s/1DSOTxu3p-zKxk-Qs4PvLIA|赠品https://pan.baidu.com/s/1r9ALkdA1QaWHT1TiX8ASew|
 |958743|杀手2黄金版/6/5/4/3/2/1/Go|链接https://pan.baidu.com/s/16GU6UUoC3NmalCVO4MzF_g|赠品https://pan.baidu.com/s/1wEwsYJtOr-7PeX9aO3LLiA|
 |587415|使命召唤4现代战争重制版/COD4|链接https://pan.baidu.com/s/1uKWcPHDd4-qNX-3v7cKaZw|赠品https://pan.baidu.com/s/1FP3dFqYTKaBvo0YV4yiWyw|
-|587415|使命召唤13：无限战争/COD13|链接https://pan.baidu.com/s/15snxPTjvmxc7DscTERSMsg|赠品https://pan.baidu.com/s/1fZfBWBhIwSgyEpfEMmNOkQ|
-|587415|使命召唤14：二战/赠1~13合集|链接https://pan.baidu.com/s/1n0UcAFkSrtdk9yvSezMwgQ|赠品https://pan.baidu.com/s/1r6Yvvei1eHAKLAHrQsx04g|
+|587415|使命召唤13:无限战争/COD13|链接https://pan.baidu.com/s/15snxPTjvmxc7DscTERSMsg|赠品https://pan.baidu.com/s/1fZfBWBhIwSgyEpfEMmNOkQ|
+|587415|使命召唤14:二战/赠1~13合集|链接https://pan.baidu.com/s/1n0UcAFkSrtdk9yvSezMwgQ|赠品https://pan.baidu.com/s/1r6Yvvei1eHAKLAHrQsx04g|
 |632336|丧尸围城4|链接https://pan.baidu.com/s/1oSkRLZ6QlQQFLrqrimhPYw|赠品https://pan.baidu.com/s/16PogSLF8OkoAAzJNw304Tw|
-|521447|上古卷轴5：天际/你懂的MOD|链接https://pan.baidu.com/s/1Vy2f3k_GMJ2s7on711388Q|赠品https://pan.baidu.com/s/1qzjs8YEl84yeVMhSgqIsag|
+|521447|上古卷轴5:天际/你懂的MOD|链接https://pan.baidu.com/s/1Vy2f3k_GMJ2s7on711388Q|赠品https://pan.baidu.com/s/1qzjs8YEl84yeVMhSgqIsag|
 |521447|上古卷轴5MOD整合版/淘宝300元版|链接https://pan.baidu.com/s/15xUa5urS4uVry5ABGlyUSw|赠品https://pan.baidu.com/s/1B3OpFige9-a4CsWMq3Sxsw|
 |521447|上古卷轴5少女MOD180G/少女卷轴|链接https://pan.baidu.com/s/1Yt9fscJShgZRtIHcNO4t7A|赠品https://pan.baidu.com/s/1u84k3eRWMzEQqbiRfxwNUw|
-|259637|神界：原罪2终极版/单机.局域网联机|链接https://pan.baidu.com/s/1CJIPHT41RXE8xfWn20W_-w|赠品https://pan.baidu.com/s/1HLQYV1Xdc4c2ImAc4BNGBA|
+|259637|神界:原罪2终极版/单机.局域网联机|链接https://pan.baidu.com/s/1CJIPHT41RXE8xfWn20W_-w|赠品https://pan.baidu.com/s/1HLQYV1Xdc4c2ImAc4BNGBA|
 |254697|失落的斯菲尔|链接https://pan.baidu.com/s/1G_1PGz_sfkN4suk_5CvEBw|赠品https://pan.baidu.com/s/11JWWc4H59wPmxiff0oBm2w|
-|225414|圣剑传说2：重置版|链接https://pan.baidu.com/s/1nOfFidXhJcmUQYWcr4584Q|赠品https://pan.baidu.com/s/1SE0gUdcZjCJxck6c_S7bRQ|
-|258761|塞尔达传说：荒野之息 旷野之息|链接https://pan.baidu.com/s/1Kz99-7jS6Do1CQ6SFQ6REQ|赠品https://pan.baidu.com/s/1DJw9RnAYQ-IkjU3UQ-S5-A|
+|225414|圣剑传说2:重置版|链接https://pan.baidu.com/s/1nOfFidXhJcmUQYWcr4584Q|赠品https://pan.baidu.com/s/1SE0gUdcZjCJxck6c_S7bRQ|
+|258761|塞尔达传说:荒野之息 旷野之息|链接https://pan.baidu.com/s/1Kz99-7jS6Do1CQ6SFQ6REQ|赠品https://pan.baidu.com/s/1DJw9RnAYQ-IkjU3UQ-S5-A|
 |215483|神舞幻想 绅士版|赠品https://pan.baidu.com/s/1e-PXhMzZWhgzy-j_NPbMDQ|赠品https://pan.baidu.com/s/1I0kcVUC3Tl4PvCKz5zv2sQ|
 |336528|少林vs武当|链接https://pan.baidu.com/s/10AgYYKWzU-BE3sAJXZ2h9Q||
 |259649|四合一｜挺进地牢｜龙喉战旗｜传说法师｜Feist|链接https://pan.baidu.com/s/1BvjwhCFXbLnQUDD8p9DiOg||
@@ -733,12 +733,12 @@ tags:                               #标签
 |123698|守墓人/看墓人/墓场物语|链接https://pan.baidu.com/s/1mFTgNl9XV9PTbNEwx8LOsw|赠品https://pan.baidu.com/s/1EGWdbjCSwgZsPVOR38HJrA|
 |528458|莎木1+2|链接https://pan.baidu.com/s/1STaA4WXeD9dadkSdgtnYow|赠品https://pan.baidu.com/s/1BoaFSo0p-E-BiWpOY13gdg|
 |528458|莎木3|链接https://pan.baidu.com/s/1FdmhKf1TJh-i8wImTRC0zA|赠品https://pan.baidu.com/s/1sF6voRhb949ch6pliNTmAA|
-|632223|索尼克：力量|链接https://pan.baidu.com/s/1O1qjRBiIw3nu0rllchf1bA|赠品https://pan.baidu.com/s/1XwObw2PXTU8SSPfQUHEd3A|
+|632223|索尼克:力量|链接https://pan.baidu.com/s/1O1qjRBiIw3nu0rllchf1bA|赠品https://pan.baidu.com/s/1XwObw2PXTU8SSPfQUHEd3A|
 |326333|实况足球PES2019+2018|链接https://pan.baidu.com/s/1oBPVM9jwag2XOtOgkEMDuQ|赠品https://pan.baidu.com/s/1XyrjXc366BAjmaITy8sxXg|
 ||圣殿春秋|链接https://pan.baidu.com/s/13UGIy2uYJIGx7zFjFMwzGA||
 |521487|双点医院|链接https://pan.baidu.com/s/1uot2fCLmFy1pggU3GUFkcA|赠品https://pan.baidu.com/s/16OhOuEufthQn212GCU7r_w|
 |333625|死人之国/冰雾之国|链接https://pan.baidu.com/s/1Ho2aYCaBMBM-wVwWCjX4jg|赠品https://pan.baidu.com/s/1xeJeqIn8ABspUKfbL66ybQ|
-|258749|失踪：J.J.玛柯菲尔德与追忆之岛|链接https://pan.baidu.com/s/11tEK4xUbBA_1Dn7qVPOq9Q||
+|258749|失踪:J.J.玛柯菲尔德与追忆之岛|链接https://pan.baidu.com/s/11tEK4xUbBA_1Dn7qVPOq9Q||
 |326333|杀戮空间2 杀地板2|链接https://pan.baidu.com/s/1e_ZGf-muWAeEu72r0kKS7w|赠品https://pan.baidu.com/s/1Svf6XT5nUxE8Ld9ctsntDA|
 |225412|深海/深海探险/深海狂鲨/深海惊魂|链接https://pan.baidu.com/s/14UAj21oNiIbbA6u7dq_SSg||
 |336323|史莱姆牧场主|链接https://pan.baidu.com/s/1SsWiklSCOraIqlMLZR_6LA|赠品https://pan.baidu.com/s/16ZdeHkvxqEN6_hLnSO7RgA|
@@ -749,14 +749,14 @@ tags:                               #标签
 |633366|嗜血印/电脑小游戏|链接https://pan.baidu.com/s/15zz5tAlAjYJTqG3YPQcWpw|赠品https://pan.baidu.com/s/1-GuVFmmCuCtd4oQZOerLqA|
 |326654|杀戮尖塔|链接https://pan.baidu.com/s/1GwmYp6x-4vQ8aXda1rVRew||
 |633369|神明ZaiShang/联机版/国产|链接https://pan.baidu.com/s/1IfTF0mhCCYiiRVIiM4Zs_g||
-|477785|闪乱神乐爆裂Burst Re：Newal|链接https://pan.baidu.com/s/1DcSApK6YXI2AZco2Siv1zw|赠品https://pan.baidu.com/s/1Nh57HhhtXwLWlyOaiI7o_w|
+|477785|闪乱神乐爆裂Burst Re:Newal|链接https://pan.baidu.com/s/1DcSApK6YXI2AZco2Siv1zw|赠品https://pan.baidu.com/s/1Nh57HhhtXwLWlyOaiI7o_w|
 |548777|杀戮XiangGang/喋血XiangGang/XiangGang大屠杀/国产|链接https://pan.baidu.com/s/1TkR9zE0p8tY-ly--e1Yybg|赠品https://pan.baidu.com/s/17foK2C9nVE6zmhmXRLCvqA|
-|544487|生化危机2：重制版|链接https://pan.baidu.com/s/1obs9HwAzaDsveDQ3QZWW8Q|赠品https://pan.baidu.com/s/1tToJaMt-ZXwxow10aCydfg|
+|544487|生化危机2:重制版|链接https://pan.baidu.com/s/1obs9HwAzaDsveDQ3QZWW8Q|赠品https://pan.baidu.com/s/1tToJaMt-ZXwxow10aCydfg|
 |665874|噬神者3/弑神者3/2/1|链接https://pan.baidu.com/s/1SwV8Te0Yba1ISNH7WTlRIg|赠品https://pan.baidu.com/s/1YH_oPI6kQQAo6oRDPuplhA|
-|548744|生化奇兵3：无限/2/1|链接https://pan.baidu.com/s/1cQPwya8w0J7gUmpgnV1HnA|赠品https://pan.baidu.com/s/1hIAPZvi_dPSx9OjgZAgVCA|
-|652154|骚年补完计划！/你懂的|链接https://pan.baidu.com/s/1tOgmrpwTqg-IAbHG_42bxw|赠品https://pan.baidu.com/s/1qhZpayevJmQP-53mMFeg2A|
-|541236|深岩银河：下潜/联机版|链接https://pan.baidu.com/s/1a85cfjWg53A_tmBdx01QxQ||
-|256663|生化危机：启示录2|链接https://pan.baidu.com/s/1gwDcK_Q77XRYlGU3Ev4DOw|赠品https://pan.baidu.com/s/1diszpe-oP11-iiDjFj3G1g|
+|548744|生化奇兵3:无限/2/1|链接https://pan.baidu.com/s/1cQPwya8w0J7gUmpgnV1HnA|赠品https://pan.baidu.com/s/1hIAPZvi_dPSx9OjgZAgVCA|
+|652154|骚年补完计划!/你懂的|链接https://pan.baidu.com/s/1tOgmrpwTqg-IAbHG_42bxw|赠品https://pan.baidu.com/s/1qhZpayevJmQP-53mMFeg2A|
+|541236|深岩银河:下潜/联机版|链接https://pan.baidu.com/s/1a85cfjWg53A_tmBdx01QxQ||
+|256663|生化危机:启示录2|链接https://pan.baidu.com/s/1gwDcK_Q77XRYlGU3Ev4DOw|赠品https://pan.baidu.com/s/1diszpe-oP11-iiDjFj3G1g|
 |589666|神之扳机/同屏联机|链接https://pan.baidu.com/s/1-3hxdM8fQAASh1XhKw8PdQ|赠品https://pan.baidu.com/s/1jpkoLiWJpAlCzLKgyVE08g|
 |965874|绅士武侠金庸群侠传5爱与死/你懂的|链接https://pan.baidu.com/s/1R_xMY0zJKE0hdlsRE3ae_A|赠品https://pan.baidu.com/s/1R8bdDnBb4TjD5HspOaCLkw|
 |874555|赛琳的被啪卖椿白书/你懂的|链接https://pan.baidu.com/s/1rMBz39Mc0iyx9jOJq9-f6w|赠品https://pan.baidu.com/s/17WFMaJgTzQYflAitQLQRqg|
@@ -765,7 +765,7 @@ tags:                               #标签
 |963254|时光之帽/网络联机|链接https://pan.baidu.com/s/10eilBEnpHrPydYIAT1Sbew||
 |632541|深海潜水模拟器|链接https://pan.baidu.com/s/1BUvQYzW2cvbVwS5WNOhi1A||
 |625412|圣女战旗|链接https://pan.baidu.com/s/1cjYasCmxiJ-XNzo8cipkWQ|赠品https://pan.baidu.com/s/1Xi3VIH0Ak4uY1Sp83AZA4A|
-|326333|圣铠：冰魂/护甲冷冽之魂/冷酷的灵魂|链接https://pan.baidu.com/s/1pKWfrDt7dkVaHjDxcPcnsg||
+|326333|圣铠:冰魂/护甲冷冽之魂/冷酷的灵魂|链接https://pan.baidu.com/s/1pKWfrDt7dkVaHjDxcPcnsg||
 |471552|神医魔导/你懂的|链接https://pan.baidu.com/s/1Chu-kD6ofKiEv_qdDzr72A||
 |320154|圣女之歌零2/1|链接https://pan.baidu.com/s/1Vw9dWta0qVuj_eGVaynmVQ|赠品https://pan.baidu.com/s/1lajx0rWwd2g8UNB6CHe98w|
 |321444|失落的城堡/单机/同屏联机/网络联机|链接https://pan.baidu.com/s/1O7pTOv_lUWKrlMPPpuOGVQ||
@@ -774,17 +774,17 @@ tags:                               #标签
 |215441|Shuttlecock-H/你懂的|链接https://pan.baidu.com/s/1_mXGH3FiEJf74DQtR_qFNw||
 |852112|少女之路.大主教的神之领/你懂的|链接https://pan.baidu.com/s/10xDNjLDltg2ro9xPLyrSRQ||
 |633654|神格/上帝模拟器|链接https://pan.baidu.com/s/1LOtdgruBT204GFoCaG1YMA||
-|321114|审判：末世生存模拟/判断启示生存模拟|链接https://pan.baidu.com/s/1oSwLd_ZyoFN3HPanf0K0yg|赠品https://pan.baidu.com/s/13J1-Lo2BhZf4NxQCpOu3oA|
+|321114|审判:末世生存模拟/判断启示生存模拟|链接https://pan.baidu.com/s/1oSwLd_ZyoFN3HPanf0K0yg|赠品https://pan.baidu.com/s/13J1-Lo2BhZf4NxQCpOu3oA|
 |852146|杀戮小队/单机.网络联机|链接https://pan.baidu.com/s/1G-9BcljYgzTepdJgJdXZbQ||
 |744587|松瀑镇/Pine Falls/你懂的|链接https://pan.baidu.com/s/19uJVi7m7wQW5cWZAFF6nfQ||
 |896554|深红之狱的女剑士蒂娜/你懂的|链接https://pan.baidu.com/s/1VgnFyGwg6CGdEba_-ewrKA||
 |636999|圣歌利亚|链接https://pan.baidu.com/s/1RTqSQyfvTAZGkj2sTOzs3A||
 |963225|世界末日陨落之星/你懂的|链接https://pan.baidu.com/s/1wOF_XQfKLaewJdBjWG0fzw||
-|963222|神之战：日本神话大战|链接https://pan.baidu.com/s/1bwdKXWY2l3jpknDOk2Yf8Q||
+|963222|神之战:日本神话大战|链接https://pan.baidu.com/s/1bwdKXWY2l3jpknDOk2Yf8Q||
 |963254|沙耶之歌/萨亚之歌|链接https://pan.baidu.com/s/1lJbiB3Tgy_WvvmFes9YnlA||
-|963223|神力科莎：竞技版/争锋|链接https://pan.baidu.com/s/1Y1t1GXVjGMBAVjkjLpDaZw||
-|852169|闪乱神乐：桃色弹珠|链接https://pan.baidu.com/s/1cDVqq_1Ar_8GrdsSgfhrqQ||
-|852169|闪乱神乐：少女们的选择|链接https://pan.baidu.com/s/14walSp1toOPFVPFkxzRpHQ|赠品https://pan.baidu.com/s/1INob2oe4JgWBITa7b4VMIQ|
+|963223|神力科莎:竞技版/争锋|链接https://pan.baidu.com/s/1Y1t1GXVjGMBAVjkjLpDaZw||
+|852169|闪乱神乐:桃色弹珠|链接https://pan.baidu.com/s/1cDVqq_1Ar_8GrdsSgfhrqQ||
+|852169|闪乱神乐:少女们的选择|链接https://pan.baidu.com/s/14walSp1toOPFVPFkxzRpHQ|赠品https://pan.baidu.com/s/1INob2oe4JgWBITa7b4VMIQ|
 |748547|说谎|链接https://pan.baidu.com/s/1yPvVuBl4Fk4SYqsb26TXGg||
 |963236|绅士少女指挥官/你懂的|链接https://pan.baidu.com/s/18tz4F4Gznp5IkDDqBZS1Ig||
 |154875|逝去的金色天空/你懂的|链接https://pan.baidu.com/s/1C-7CgYDIA6EO-eOcYQbw3w||
@@ -792,7 +792,7 @@ tags:                               #标签
 |632563|双子星座3|链接https://pan.baidu.com/s/1WE6zqOb2n8TFrGAgS0Pb_w||
 |632548|神待少女纱波/你懂的|链接https://pan.baidu.com/s/1x3mX-sAJ5PVUVyglUqAcRA||
 |548745|赛道大师/边境制造者|链接https://pan.baidu.com/s/1w105Y0Rc3BKPv91NmnVR-A||
-|632336|SISTERS：夏日最后一天/你懂的|链接https://pan.baidu.com/s/14_A8ESmmlPAddWVx-Lt4Kw||
+|632336|SISTERS:夏日最后一天/你懂的|链接https://pan.baidu.com/s/14_A8ESmmlPAddWVx-Lt4Kw||
 |632323|思影/你懂的|链接https://pan.baidu.com/s/1jpTCZCIPS5pmQdgKp_f_Ew||
 |874445|死亡日|链接https://pan.baidu.com/s/1r4jBeHhOKByAqfXIOd4hZg||
 |632547|噬血代码|链接https://pan.baidu.com/s/1sCqx7fyeym3Eppg0qnLZQA|赠品https://pan.baidu.com/s/1rSlD0WpLiPgL9crii0gyoQ|
@@ -800,25 +800,25 @@ tags:                               #标签
 |854777|丧尸前线|链接https://pan.baidu.com/s/1bHKQN0RqfZYJtKTjVyKIrw||
 |365221|私人护士/你懂的|链接https://pan.baidu.com/s/19H-j2mSqL3sDtDcsSUbG6w||
 |633365|兽娘的育成方法/你懂的|链接https://pan.baidu.com/s/1GkQmfYnxg-3RqfhcbQu48A||
-|632333|三位一体3：权力的神器/单机.同屏多人|链接https://pan.baidu.com/s/1vSCZ-Cqb0hP0rJBczIGBgA|赠品https://pan.baidu.com/s/1O6z_NEc5iKrymJq87DeAnQ|
-|632333|三位一体4：梦魇王子/单机.网络联机|链接https://pan.baidu.com/s/1CtkhTDe2XoOUBgGZxjvZNw|赠品https://pan.baidu.com/s/1Vp5UOIY3GtuW8vWRZ8NEMA|
-|625554|数码宝贝物语：网路侦探骇客追忆/数码暴龙|链接https://pan.baidu.com/s/1G93ZaioyI5ZfO35C6RD9Xw&shfl=sharepset||
+|632333|三位一体3:权力的神器/单机.同屏多人|链接https://pan.baidu.com/s/1vSCZ-Cqb0hP0rJBczIGBgA|赠品https://pan.baidu.com/s/1O6z_NEc5iKrymJq87DeAnQ|
+|632333|三位一体4:梦魇王子/单机.网络联机|链接https://pan.baidu.com/s/1CtkhTDe2XoOUBgGZxjvZNw|赠品https://pan.baidu.com/s/1Vp5UOIY3GtuW8vWRZ8NEMA|
+|625554|数码宝贝物语:网路侦探骇客追忆/数码暴龙|链接https://pan.baidu.com/s/1G93ZaioyI5ZfO35C6RD9Xw&shfl=sharepset||
 |632599|杀神|链接https://pan.baidu.com/s/16j7n8ZS2d7AVy-e4IeBpNg||
 |854117|绅士大魔王/你懂的|链接https://pan.baidu.com/s/1lOwu0mFx41I9dD7KFgXaDg||
 |632563|事故物件|链接https://pan.baidu.com/s/1k1KXftbbLnMj7Z2QBibbfg||
-|698779|受孕Plus：产子救世录|链接https://pan.baidu.com/s/1PJqXZLMoteT2MIctlgCjKg||
+|698779|受孕Plus:产子救世录|链接https://pan.baidu.com/s/1PJqXZLMoteT2MIctlgCjKg||
 |548778|圣骑士露比莉亚丝/你懂的|链接https://pan.baidu.com/s/1ZSUeLrq2AIVWkHFKeRwUWg||
 |854779|私人助理/你懂的|链接https://pan.baidu.com/s/1YytauCaDCElh9um9q6TzvA||
-|363333|失眠：方舟|链接https://pan.baidu.com/s/1W7OBfwQNvtW3vBfagSjT6A|赠品https://pan.baidu.com/s/1FeUaINK3IZLd-zqxEa2s8w|
+|363333|失眠:方舟|链接https://pan.baidu.com/s/1W7OBfwQNvtW3vBfagSjT6A|赠品https://pan.baidu.com/s/1FeUaINK3IZLd-zqxEa2s8w|
 |854775|失落余烬|链接https://pan.baidu.com/s/1HtRhjN9z1oL12dQAAI3ZsA||
-|362225|SD高达G世纪：火线纵横|链接https://pan.baidu.com/s/1eFoAM-QUP5eIL_bshSlj3g|赠品https://pan.baidu.com/s/1U9adG3Dz-Lm7EpDTIMPn2A|
-|154447|绅士粉碎者：情爱节奏/你懂的|链接https://pan.baidu.com/s/1ytv8woEKiIN3C4UyHH8ISw||
+|362225|SD高达G世纪:火线纵横|链接https://pan.baidu.com/s/1eFoAM-QUP5eIL_bshSlj3g|赠品https://pan.baidu.com/s/1U9adG3Dz-Lm7EpDTIMPn2A|
+|154447|绅士粉碎者:情爱节奏/你懂的|链接https://pan.baidu.com/s/1ytv8woEKiIN3C4UyHH8ISw||
 |247889|深空遗物|链接https://pan.baidu.com/s/1AGDt6NtywlyiKxQFfPC0ug|赠品https://pan.baidu.com/s/1RtZy_wLEmd0CDqkypf7wmA|
 |365225|十字路酒店/交叉口旅馆|链接https://pan.baidu.com/s/18RI2It493a3zr5jVfvJtPg|赠品https://pan.baidu.com/s/1odFDn5zSkEDjmbpQCMphzw|
 |896669|收获日2|链接https://pan.baidu.com/s/1Iqb_YIyaiVIQjuBJ9rDi9A||
 |698997|生活如此多娇/你懂的|链接https://pan.baidu.com/s/1izKzN8mwa4X0JPntAD0jeQ||
 |487779|手机疑云之劳拉物语|链接https://pan.baidu.com/s/16LytObV3bI6jCfm-rz6dxA||
-|658877|手掌模拟器：生存/网络联机|链接https://pan.baidu.com/s/1y7tp3_XxEobJsTkhgGjriw||
+|658877|手掌模拟器:生存/网络联机|链接https://pan.baidu.com/s/1y7tp3_XxEobJsTkhgGjriw||
 |632558|Seek Girl 2/你懂的|链接https://pan.baidu.com/s/1rR_mNMG5Qu5s8CWi5F_t-w||
 |632558|Seek Girl 3/你懂的|链接https://pan.baidu.com/s/1Y3bTMMqQlzMF8uQhcBlENg||
 |632558|Seek Girl 4/你懂的|链接https://pan.baidu.com/s/15eRSwfd2_5_avqaWXQmqBw||
@@ -826,45 +826,45 @@ tags:                               #标签
 |854775|沙漠之子|链接https://pan.baidu.com/s/1XY7HWvOaobPJHDkedK_Img||
 |365214|生存营地/电脑小游戏|链接https://pan.baidu.com/s/1MFQfLERSnA07i86ghtSsvA||
 |787445|死亡之种2/你懂的|链接https://pan.baidu.com/s/1NC09P0yk6uOknIP-afAdDQ||
-|587445|生存联盟：HD重制版|链接https://pan.baidu.com/s/1HSR5v0fhbKYp-fk9xyG2Wg||
+|587445|生存联盟:HD重制版|链接https://pan.baidu.com/s/1HSR5v0fhbKYp-fk9xyG2Wg||
 |784996|受验地狱|链接https://pan.baidu.com/s/1dez-QOcrTOrZy2HXkR1fiw||
 |587566|三千心世界.梦想将成真/你懂的|链接https://pan.baidu.com/s/1Ziq0Q9Q-JmHKpvIju_pxNQ||
 |652221|莎莉的脸/俏皮脸/萨利之面/Sally Face|链接https://pan.baidu.com/s/1q5l_890Z9cIc7t0lgyPOcw||
 |659887|时光之塔/时间之塔|链接https://pan.baidu.com/s/1kJTrVR12bY3qnyJViAvbEg|赠品https://pan.baidu.com/s/1Ak52uwgTDBhiH_D0whnoFg|
 |587445|书卷旅队/Bookbound Brigade|链接https://pan.baidu.com/s/1BIBzTbX3NgPuWF35tnCsIA||
-|365221|睡梦之中：加强版/梦意杀机：增强版|链接https://pan.baidu.com/s/1TyK4nBCIKZkhyWjf6dex6Q||
+|365221|睡梦之中:加强版/梦意杀机:增强版|链接https://pan.baidu.com/s/1TyK4nBCIKZkhyWjf6dex6Q||
 |365997|死神薇儿/你懂的|链接https://pan.baidu.com/s/1LZaQaHd35DnM6-ANYElZow||
 |987445|三色绘恋S|链接https://pan.baidu.com/s/1vGXrXAwFcLyg7rbVAMP9ZA||
 |352116|石质碎片/Stoneshard|链接https://pan.baidu.com/s/1_l35nRKJtTriwUlPSVx19Q||
 |874589|圣女之血F 国际版/你懂的|链接https://pan.baidu.com/s/1loJzh7oS8lSDvQbgk714fQ||
 |632547|少女们的花蕾Toy's Lover/你懂的|链接https://pan.baidu.com/s/1TMU_N9s1KVQ3jB-IneCaEw||
 |748577|史诗战斗幻想5|链接https://pan.baidu.com/s/1H32-JjL6g45k-9pNKoXXyg||
-|365233|Skul：英雄杀手|链接https://pan.baidu.com/s/14bAVeM87fcfHRcaN99MQ6Q||
-|635287|侍道外传：刀神|链接https://pan.baidu.com/s/1t_fpjIltWFc_oeTLa-1j5Q||
+|365233|Skul:英雄杀手|链接https://pan.baidu.com/s/14bAVeM87fcfHRcaN99MQ6Q||
+|635287|侍道外传:刀神|链接https://pan.baidu.com/s/1t_fpjIltWFc_oeTLa-1j5Q||
 |256973|铁拳7|链接https://pan.baidu.com/s/1qxvy3TCqD5QmC-gHxeed6g|赠品https://pan.baidu.com/s/1lSRglSosWeAmGRFyscM_Zg|
 |326655|突袭4/3/2/1|链接https://pan.baidu.com/s/1IDfqxFlcYB5jBv6RhVq-8A|赠品https://pan.baidu.com/s/1BUyOZ20uIG46BrI2EyNtoA|
-||突袭：第二次世界大战|链接https://pan.baidu.com/s/1YnvdxBjHr86umt5Q2sMTrA||
+||突袭:第二次世界大战|链接https://pan.baidu.com/s/1YnvdxBjHr86umt5Q2sMTrA||
 |221541|逃生2/1|链接https://pan.baidu.com/s/1A_7H9X-fxHvHtF7pLPubrA|赠品https://pan.baidu.com/s/10STVFOvxOFjvVqVSUbD_nw|
 ||泰坦陨落2|链接https://pan.baidu.com/s/1SKKxFMy-x9r5Fe2WGD85xA|赠品https://pan.baidu.com/s/1nxbsTMaSTgsvZ9mTr8f0IQ|
-|669857|天国：拯救|链接https://pan.baidu.com/s/1lcBkZosHi8SpgxiHEyC7yQ|赠品https://pan.baidu.com/s/1FfA0kGg56OtwXrRJE4FBqg|
+|669857|天国:拯救|链接https://pan.baidu.com/s/1lcBkZosHi8SpgxiHEyC7yQ|赠品https://pan.baidu.com/s/1FfA0kGg56OtwXrRJE4FBqg|
 |625879|天命奇御/电脑小游戏|链接https://pan.baidu.com/s/1CAj1t4ssALS1LMOVRagg2g|赠品https://pan.baidu.com/s/1zCYlncEqnbkUdrwKETDdvQ|
-|254125|太空战舰：死亡之翼|链接https://pan.baidu.com/s/1PplC6dar0zidBGecL81xwQ||
+|254125|太空战舰:死亡之翼|链接https://pan.baidu.com/s/1PplC6dar0zidBGecL81xwQ||
 |214121|太吾绘卷/电脑小游戏|链接https://pan.baidu.com/s/1_NQIFc9sFdwRhMInfBXn-Q|赠品https://pan.baidu.com/s/1Zz89v2Dt5HqpIrvHzyA0Wg|
-|102549|太空战舰：战术|链接https://pan.baidu.com/s/1kbOgT65Jc01uwjM6MqNZqQ||
+|102549|太空战舰:战术|链接https://pan.baidu.com/s/1kbOgT65Jc01uwjM6MqNZqQ||
 |363323|痛苦地狱|链接https://pan.baidu.com/s/13HXrxX1WUE3K8qSKifcD6A||
 |587459|逃出生天 兄弟:双子传说创作者新作|链接https://pan.baidu.com/s/1lG_aBTrKKN6jwpJ6SRYGEQ||
 |985695|泰拉瑞亚|链接https://pan.baidu.com/s/13HRzBAexohOpvuWmZe4COg|赠品https://pan.baidu.com/s/15rDMgzdjByLnZIhOc6bJYg|
-|521458|铁血联盟：狂怒/愤怒|链接https://pan.baidu.com/s/1FbEDJZqrS3G5K7q0ZkM7Xg||
-|632547|太阳帝国的原罪：反叛|链接https://pan.baidu.com/s/1WZgY0L0YmaQhrzdAAXgARA|赠品https://pan.baidu.com/s/142lkg_Jev2gYMhDIWSCaBA|
+|521458|铁血联盟:狂怒/愤怒|链接https://pan.baidu.com/s/1FbEDJZqrS3G5K7q0ZkM7Xg||
+|632547|太阳帝国的原罪:反叛|链接https://pan.baidu.com/s/1WZgY0L0YmaQhrzdAAXgARA|赠品https://pan.baidu.com/s/142lkg_Jev2gYMhDIWSCaBA|
 |254487|讨鬼传2|链接https://pan.baidu.com/s/1disKD5QekRNfT-gSWxQ9iQ|赠品https://pan.baidu.com/s/1WFCBcZzR8UHB-oumTfMYwg|
-|566699|突变元年：伊甸园之路/伊甸之路|链接https://pan.baidu.com/s/1CAChlN5Ndt17UNCvoE87Vw|赠品https://pan.baidu.com/s/19UtfRDUHmYwGVgtQJmnlnw|
-|698899|泰坦之旅：不朽王座/十周年纪念版/单机.局域网联机|链接https://pan.baidu.com/s/1OXHNAnT_uNilvy_nu2Mm2A|赠品https://pan.baidu.com/s/154LxlXP7T_yS99vKReG9uQ|
+|566699|突变元年:伊甸园之路/伊甸之路|链接https://pan.baidu.com/s/1CAChlN5Ndt17UNCvoE87Vw|赠品https://pan.baidu.com/s/19UtfRDUHmYwGVgtQJmnlnw|
+|698899|泰坦之旅:不朽王座/十周年纪念版/单机.局域网联机|链接https://pan.baidu.com/s/1OXHNAnT_uNilvy_nu2Mm2A|赠品https://pan.baidu.com/s/154LxlXP7T_yS99vKReG9uQ|
 |547745|太空工程师|链接https://pan.baidu.com/s/11fl7pj63feV2LKIniChcQg|赠品https://pan.baidu.com/s/1vYdYVvX9W1nZ2e78yqxcQw|
 |632666|吞食孔MingZhuan/国产|链接https://pan.baidu.com/s/1ZWN_0jE6PSl3xkheVzZpOw||
 |548896|挺进地牢|链接https://pan.baidu.com/s/1bmQ2fFNE6MFpqgaPfN39EQ|赠品https://pan.baidu.com/s/1RKI4hAAuPfPnyrJSd1bIEg|
 |548996|同步音律喵赛克/国产|链接https://pan.baidu.com/s/158w_zqgGYCh30YC2Mk9zgg||
 |859666|铁锤守卫英雄传|链接https://pan.baidu.com/s/1ms7BPairhCW6ssUjVBwflg|赠品https://pan.baidu.com/s/1Nyx5YkycFqGtVkBik8BjjQ|
-|548745|铁道物语：陆王|链接https://pan.baidu.com/s/1vHpG07tr55OhyPmC740xsw||
+|548745|铁道物语:陆王|链接https://pan.baidu.com/s/1vHpG07tr55OhyPmC740xsw||
 |633339|她看见红色/She Sees Red|链接https://pan.baidu.com/s/11lo3dyqLrX9tpW-ClrkC3Q||
 |747885|淘金热|链接https://pan.baidu.com/s/1Q9MiFm4yNa9wp4gVeFjsyg|赠品https://pan.baidu.com/s/1CiXcT2dxZLBwurcGe3ok_g|
 |859996|泰拉科技/单机.网络联机|链接https://pan.baidu.com/s/1vQavWirPlYzZssJILzN72g|赠品https://pan.baidu.com/s/1wPduEFethX6atbrGrpk48g|
@@ -876,7 +876,7 @@ tags:                               #标签
 |854445|天外世界/外部世界|链接https://pan.baidu.com/s/1RJNr2s7D66O1YlwrkXR4Hw||
 |366332|甜蜜之家/恐怖之家|链接https://pan.baidu.com/s/1vghXtzFugsQ9wKSQuVnjZw||
 |366332|甜蜜之家2/恐怖之家2|链接https://pan.baidu.com/s/1LwRWVdZRA3s8ixRSpfj_Jw||
-|632525|童话森林：药师梅露与森林的礼物|链接https://pan.baidu.com/s/1R6uWDAJ0DyZ58sj-q97X_w||
+|632525|童话森林:药师梅露与森林的礼物|链接https://pan.baidu.com/s/1R6uWDAJ0DyZ58sj-q97X_w||
 |854744|太空大陆|链接https://pan.baidu.com/s/1-SDycRF14uH4vV8svDtc9Q||
 |654887|甜心恶魔猎手/你懂的|链接https://pan.baidu.com/s/1e5YMwTScsBMKsu9Vpr_9Fw||
 |748556|甜蜜托马斯/单机.同屏多人|链接https://pan.baidu.com/s/1ponSuGIDr3-ymQcEKl9Vrw||
@@ -885,45 +885,45 @@ tags:                               #标签
 |698554|Ultra Savage/街机格斗|链接https://pan.baidu.com/s/18sfAfId-30tZqqBT_tfNrA||
 |748774|UIFO防御HD|链接https://pan.baidu.com/s/1E-DKXKM4JJo52MQrXugYvA||
 |845115|VR女友/你懂的|链接https://pan.baidu.com/s/15Q5sRfKvlOyiIbEOM8cp8w|赠品https://pan.baidu.com/s/1f-AYKY69Dd7d5W2MmZTKKg|
-|854758|巫师3：狂猎年度版/3+2+1|链接https://pan.baidu.com/s/1d5dnS3yJ6GyZRBgPip-mqQ|赠品https://pan.baidu.com/s/1WtBd3gtmYqDiQdo92a7S6Q|
+|854758|巫师3:狂猎年度版/3+2+1|链接https://pan.baidu.com/s/1d5dnS3yJ6GyZRBgPip-mqQ|赠品https://pan.baidu.com/s/1WtBd3gtmYqDiQdo92a7S6Q|
 |587961|文明6/单机.局域网联机/5/4/3|链接https://pan.baidu.com/s/1SXn_yF6qFTJDKMx50MYzWA|赠品https://pan.baidu.com/s/1_gorzLBWRkjN-jqdSTUUKA|
-|365221|无夜之国2：新月的花嫁/无夜国度2|链接https://pan.baidu.com/s/1tgUXl1fioFAvBM4s-auD7Q|赠品https://pan.baidu.com/s/1OE31jL3qDrmGRkkSAAHfcw|
+|365221|无夜之国2:新月的花嫁/无夜国度2|链接https://pan.baidu.com/s/1tgUXl1fioFAvBM4s-auD7Q|赠品https://pan.baidu.com/s/1OE31jL3qDrmGRkkSAAHfcw|
 |225879|无人深空|链接https://pan.baidu.com/s/1dqO230KrVUS4tylh5NW6Jw|赠品https://pan.baidu.com/s/1Hkktlv_PaxL3lQvnOInUDA|
-|632547|无人深空：网络联机版|链接https://pan.baidu.com/s/1vCPJHb00YHV0QMCAgjiDOw|赠品https://pan.baidu.com/s/1MxS2epw7I4r7fwTvQ6Cu0A|
+|632547|无人深空:网络联机版|链接https://pan.baidu.com/s/1vCPJHb00YHV0QMCAgjiDOw|赠品https://pan.baidu.com/s/1MxS2epw7I4r7fwTvQ6Cu0A|
 |289146|无尽太空2|链接https://pan.baidu.com/s/1DWoRB_eA3yp_6gbuZMFqsA|赠品https://pan.baidu.com/s/1k-pZuiSqL9URn99wgy9qGg|
 |251463|亡灵诡计|链接https://pan.baidu.com/s/1AlQe6AXsNGqoZVw09897Lg||
 |256654|为了吾王|链接https://pan.baidu.com/s/13eMjjJhqTN_qMuZQ7gICxg|赠品https://pan.baidu.com/s/1Oj7DdE0JeZk4XTV7w530HA|
 |256313|我的二人记忆|链接https://pan.baidu.com/s/10K-kIRVbfnBW4m69mKF5Sg||
-|114544|维克多弗兰、猎魔奇侠|链接https://pan.baidu.com/s/1R-JydsejzkJ-rhvSNFwvLA|赠品https://pan.baidu.com/s/1DYam4FMwuxkJL3lHDAuyrQ|
-|969859|武器收集：一切皆可当武器RPG/万物皆武器/搜集武器|链接https://pan.baidu.com/s/1HaVgDV4_bjFA3-T0j8oPkQ||
+|114544|维克多弗兰\猎魔奇侠|链接https://pan.baidu.com/s/1R-JydsejzkJ-rhvSNFwvLA|赠品https://pan.baidu.com/s/1DYam4FMwuxkJL3lHDAuyrQ|
+|969859|武器收集:一切皆可当武器RPG/万物皆武器/搜集武器|链接https://pan.baidu.com/s/1HaVgDV4_bjFA3-T0j8oPkQ||
 |665987|无双大蛇3终极版/无双蛇魔3终极版/电脑小游戏|链接https://pan.baidu.com/s/1MFgO27X8I4ncnGYwA14BFA|赠品https://pan.baidu.com/s/1U4MmA9VLYxhLdTJgDPbQyg|
-|854769|王权的陨落：巫师传说/巫师之昆特牌|链接https://pan.baidu.com/s/1dR3bvBFfIXFUDg2QW_eu-Q|赠品https://pan.baidu.com/s/10Ph56BKeGYjf9VbtU8uq7g|
-|212156|我的英雄学院：一人的正义|链接https://pan.baidu.com/s/1W-7kf8K7UjCNDrn96nQ7Og|赠品https://pan.baidu.com/s/1mofg2c5a-pE0HBvZW8LI2g|
+|854769|王权的陨落:巫师传说/巫师之昆特牌|链接https://pan.baidu.com/s/1dR3bvBFfIXFUDg2QW_eu-Q|赠品https://pan.baidu.com/s/10Ph56BKeGYjf9VbtU8uq7g|
+|212156|我的英雄学院:一人的正义|链接https://pan.baidu.com/s/1W-7kf8K7UjCNDrn96nQ7Og|赠品https://pan.baidu.com/s/1mofg2c5a-pE0HBvZW8LI2g|
 |223166|挖或死|链接https://pan.baidu.com/s/1c4_QqyxDXGfjF3MlZXI7Xg||
-|326323|瘟疫公司：进化|链接https://pan.baidu.com/s/1OHOlDcOeHCb5pubfQoamAw|赠品https://pan.baidu.com/s/1CULwjg_DOZwRKaPV4LgAWQ|
+|326323|瘟疫公司:进化|链接https://pan.baidu.com/s/1OHOlDcOeHCb5pubfQoamAw|赠品https://pan.baidu.com/s/1CULwjg_DOZwRKaPV4LgAWQ|
 |541214|蔚蓝|链接https://pan.baidu.com/s/1m2H2fxQnUblwveG96sOWlQ|赠品https://pan.baidu.com/s/1q3CwpTe7NEk3CnTqCc8fYA|
 |554877|武装突袭3|链接https://pan.baidu.com/s/10HrpYB_EH8MZgqhmngRBmw|赠品https://pan.baidu.com/s/1Eh44XmzIk289z1xqveiTgA|
-|663254|武林志：风云再起|链接https://pan.baidu.com/s/1cSS8gq5VrJ07D8UYKLyl5A|赠品https://pan.baidu.com/s/1nyBOXsItsyFK24nhpCQXZQ|
+|663254|武林志:风云再起|链接https://pan.baidu.com/s/1cSS8gq5VrJ07D8UYKLyl5A|赠品https://pan.baidu.com/s/1nyBOXsItsyFK24nhpCQXZQ|
 |587444|WWE 2K19/单机.同屏多人|链接https://pan.baidu.com/s/19Kl2xpN03ozafz9oneby2w|赠品https://pan.baidu.com/s/1JSC-HRF34OX0fTMx2JWJtg|
 |587444|WWE 2K20/单人.同屏多人|链接https://pan.baidu.com/s/1KWq5iV8pAIJrqe2z4taOfA|赠品https://pan.baidu.com/s/1eFjFutXtwPrOnwLaZAB8VA|
 |587458|王国风云2/十字军之王2|链接https://pan.baidu.com/s/1kEqDk8VY52zllgxQtM0WOw|赠品https://pan.baidu.com/s/1ssarV6sbr1Pm22TKVl_mLw|
-|548745|无主之地：前传/前奏/2/1/传说|链接https://pan.baidu.com/s/1rAymbnH8-eVB6BArtAG2_A|赠品https://pan.baidu.com/s/1wyAQIjLRhUN0ggo-f46Vkw|
+|548745|无主之地:前传/前奏/2/1/传说|链接https://pan.baidu.com/s/1rAymbnH8-eVB6BArtAG2_A|赠品https://pan.baidu.com/s/1wyAQIjLRhUN0ggo-f46Vkw|
 |548745|无主之地3|链接https://pan.baidu.com/s/1hklNNlIImhxljJuU5-aT1A|赠品https://pan.baidu.com/s/10Wl4FpLKUUeMVYpsaKh0yg|
 |659874|晚班/夜班|链接https://pan.baidu.com/s/1UVJIdUY3ypeVTk-P5JG4BQ||
 |121485|物质世界|链接https://pan.baidu.com/s/1WZW2G4mnXihxZvcXLwInPg|赠品https://pan.baidu.com/s/1Q3x7r9i99JiN9sfaF4YG1Q|
 |653269|武士零|链接https://pan.baidu.com/s/1hITRPnlQkhwRqC2v1VweJQ|赠品https://pan.baidu.com/s/13vMPbUxzcJAm4Vwp6rM6Tg|
-|854775|瘟疫传说：无罪|链接https://pan.baidu.com/s/1QAt-yMLKJFQuZanFz5walg|赠品https://pan.baidu.com/s/1zUl0jl96ctlopFitXQuoWg|
+|854775|瘟疫传说:无罪|链接https://pan.baidu.com/s/1QAt-yMLKJFQuZanFz5walg|赠品https://pan.baidu.com/s/1zUl0jl96ctlopFitXQuoWg|
 |745852|我和她的世界末日/你懂的|链接https://pan.baidu.com/s/1d97KoCvgwwEyfNW5yHf40Q||
-|852145|王国：两位君主/两个王冠|链接https://pan.baidu.com/s/1DcPeA-5O1jp0UA_8fs5SOw|赠品https://pan.baidu.com/s/1qcd9F5jErSf5JkSKy4p4Uw|
+|852145|王国:两位君主/两个王冠|链接https://pan.baidu.com/s/1DcPeA-5O1jp0UA_8fs5SOw|赠品https://pan.baidu.com/s/1qcd9F5jErSf5JkSKy4p4Uw|
 |745874|我的朋友佩德罗|链接https://pan.baidu.com/s/1qg16WptZho9r7LO8FnVb_g||
 |632333|我的大学|链接https://pan.baidu.com/s/1rS9C-xcVS0sPiokrzBIs_w||
 |889663|我的都市生活/你懂的|链接https://pan.baidu.com/s/1u_8UbtKLiZOxXKlLcL8-8Q||
 |855569|围攻/围剿/单机.局域网联机|链接https://pan.baidu.com/s/1vXyfEiL85HFQ99juihNUJQ||
-|855556|王国战争2：终极版|链接https://pan.baidu.com/s/1ydyDYnUyrZHlsTFIAZPT2g||
-|632145|王国保卫战：起源/前线/皇家守卫军/3部合集|链接https://pan.baidu.com/s/1LRanHI55KMDTFkP8hwN0Fw|赠品https://pan.baidu.com/s/1_qFYeu_gT-qE4aEKqOHK-A|
+|855556|王国战争2:终极版|链接https://pan.baidu.com/s/1ydyDYnUyrZHlsTFIAZPT2g||
+|632145|王国保卫战:起源/前线/皇家守卫军/3部合集|链接https://pan.baidu.com/s/1LRanHI55KMDTFkP8hwN0Fw|赠品https://pan.baidu.com/s/1_qFYeu_gT-qE4aEKqOHK-A|
 |521458|我的海岛|链接https://pan.baidu.com/s/1OwQIpywebFSfPJ6M2k1oCg||
 |852152|舞华苍魔镜/舞華蒼魔鏡|链接https://pan.baidu.com/s/1SWhSwqsZE_ZyOnJ6Mvr4NA||
-|748555|我的妹妹是天使：伊人天使妹侧畔/你懂的|链接https://pan.baidu.com/s/1_oi8DLnPLNyyWfC-nT1KhQ||
+|748555|我的妹妹是天使:伊人天使妹侧畔/你懂的|链接https://pan.baidu.com/s/1_oi8DLnPLNyyWfC-nT1KhQ||
 |745554|我们可爱的逃亡/你懂的|链接https://pan.baidu.com/s/1pHaSBDBUivdV1ks1uaHpAA||
 |632555|我们一起在这里/网络联机|链接https://pan.baidu.com/s/16t4wzZ9DGMRH2dNTOLxziw&shfl=sharepset||
 |874996|网吧模拟器|链接https://pan.baidu.com/s/14Z3L2XqB-HoKv2JT4-lo5w||
@@ -934,7 +934,7 @@ tags:                               #标签
 |748558|瓦尔法瑞斯|链接https://pan.baidu.com/s/1eW-uTd50FMCyUqRi23GS9Q||
 |253336|瓦拉卡斯故事|链接https://pan.baidu.com/s/17FI8MBNJ90YuUcPlvdX5mw||
 |365221|无终之旅/电脑小游戏|链接https://pan.baidu.com/s/1d0Nr3314CZa7fxlDqnRPiw||
-|748558|玩具熊的五夜后宫：需要帮助|链接https://pan.baidu.com/s/1QEQiDhmP4bzqJwV3MUljAw||
+|748558|玩具熊的五夜后宫:需要帮助|链接https://pan.baidu.com/s/1QEQiDhmP4bzqJwV3MUljAw||
 |652147|WABISABI/与兽耳娘共度乡间生活/你懂的|链接https://pan.baidu.com/s/10KCa7sp7oCDnXAtU1ewvMA||
 |632225|我是猫女仆喵/你懂的|链接https://pan.baidu.com/s/1zr-RWDGByTK1ggPxJkwCuw||
 |632178|瓦塔姆/圆满/瓦坦|链接https://pan.baidu.com/s/1bUw1pGwmwXmDKYC2pxlY7Q||
@@ -943,20 +943,20 @@ tags:                               #标签
 |659887|无尽宇宙/Neoverse|链接https://pan.baidu.com/s/1qhPpx-AbW1aLVmbhw_w2qQ||
 |879665|围城里的演出|链接https://pan.baidu.com/s/1iA_8LfX9ENCOD7620-vrNQ||
 |258796|侠客FYZ|||
-|258796|侠客风云传前传：绅士版/你懂的|链接https://pan.baidu.com/s/1UeFyJE8JsM6kX7JV1FQAWg&shfl=sharepset|赠品https://pan.baidu.com/s/109lqtCZ3yI11tT9LFcusRw&shfl=sharepset|
-|665474|旋转轮胎：泥泞奔驰|链接https://pan.baidu.com/s/1cu1LW2uxfQbQnesR9Y-LSg|赠品https://pan.baidu.com/s/1aw-9Dvqvt8btZXTa15OItw|
+|258796|侠客风云传前传:绅士版/你懂的|链接https://pan.baidu.com/s/1UeFyJE8JsM6kX7JV1FQAWg&shfl=sharepset|赠品https://pan.baidu.com/s/109lqtCZ3yI11tT9LFcusRw&shfl=sharepset|
+|665474|旋转轮胎:泥泞奔驰|链接https://pan.baidu.com/s/1cu1LW2uxfQbQnesR9Y-LSg|赠品https://pan.baidu.com/s/1aw-9Dvqvt8btZXTa15OItw|
 |698599|小小噩梦/小小梦魇|链接https://pan.baidu.com/s/1zBgnfBy7zdISnKknz-oizQ|赠品https://pan.baidu.com/s/1D-b5eA1IZP-GRJe7L8gcHg|
 |548777|信长之野望15大志/16部合集|链接https://pan.baidu.com/s/1CRqUYeHlX8Zydp2Guib2tQ|赠品https://pan.baidu.com/s/1g14rxvLIUYbwgvsGaiRQKQ|
-|478554|星之海洋4：最后的希望|链接https://pan.baidu.com/s/1JWHfQTC6QWLMo8FhKXEFFQ|赠品https://pan.baidu.com/s/1BhK1P_i_aR50Sa0k_eOd_Q|
-|854556|消逝的光芒：信徒增强版/加强版/单机.局域网.网络联机|链接https://pan.baidu.com/s/1OZm1S2voAJWl9rXaxmLbNw&shfl=sharepset|赠品https://pan.baidu.com/s/1-HTNX8yiCn7UVK5oWk2aFg&shfl=sharepset|
-|854556|消逝的光芒：信徒增强版/单机版|链接https://pan.baidu.com/s/1R9vOpw0ZB2RGgqt5TbtMfQ|赠品https://pan.baidu.com/s/1XaWoPLiSGbDlRbw7r7Yffg|
+|478554|星之海洋4:最后的希望|链接https://pan.baidu.com/s/1JWHfQTC6QWLMo8FhKXEFFQ|赠品https://pan.baidu.com/s/1BhK1P_i_aR50Sa0k_eOd_Q|
+|854556|消逝的光芒:信徒增强版/加强版/单机.局域网.网络联机|链接https://pan.baidu.com/s/1OZm1S2voAJWl9rXaxmLbNw&shfl=sharepset|赠品https://pan.baidu.com/s/1-HTNX8yiCn7UVK5oWk2aFg&shfl=sharepset|
+|854556|消逝的光芒:信徒增强版/单机版|链接https://pan.baidu.com/s/1R9vOpw0ZB2RGgqt5TbtMfQ|赠品https://pan.baidu.com/s/1XaWoPLiSGbDlRbw7r7Yffg|
 |674958|吸血鬼 |链接https://pan.baidu.com/s/1_ooxQL6OVqfXvbBRqdr-cg|赠品https://pan.baidu.com/s/10BflVzfusl9-3dMdoSXZ9A|
 |698547|小魔女学园时空魔法与七大不可思议|链接https://pan.baidu.com/s/1gPV_Wschod09KWeURrqznw|赠品https://pan.baidu.com/s/1aegedOQKT1WKovusJtP5bg|
-|236985|血污：夜之仪式/赤痕夜之仪式|链接https://pan.baidu.com/s/1S5YrfmDdTndAY5yeNcRJJg|赠品https://pan.baidu.com/s/1R3iPG6tMTHuexK3avX-IPQ|
-|124154|行尸走肉：终极系列合集/7部合集|链接https://pan.baidu.com/s/1hiITpzGZTRfFZQcLXpO2xg|赠品https://pan.baidu.com/s/11EMB2hj4_NqWllGhz92poQ|
+|236985|血污:夜之仪式/赤痕夜之仪式|链接https://pan.baidu.com/s/1S5YrfmDdTndAY5yeNcRJJg|赠品https://pan.baidu.com/s/1R3iPG6tMTHuexK3avX-IPQ|
+|124154|行尸走肉:终极系列合集/7部合集|链接https://pan.baidu.com/s/1hiITpzGZTRfFZQcLXpO2xg|赠品https://pan.baidu.com/s/11EMB2hj4_NqWllGhz92poQ|
 |329635|心境|链接https://pan.baidu.com/s/1KT2IJ-eEqTUxoqeRx8DV-Q||
 |225412|校园惊魂|链接https://pan.baidu.com/s/1C-xfJqXw126LWdfxZItJ4Q||
-|632653|新次元游戏：海王星VIIR|链接https://pan.baidu.com/s/1xSsTOU0Qo0Ei0McT0MYkeg||
+|632653|新次元游戏:海王星VIIR|链接https://pan.baidu.com/s/1xSsTOU0Qo0Ei0McT0MYkeg||
 |225415|星露谷物语|链接https://pan.baidu.com/s/1TGNU2G4WywgrpAQ9wGu74A|赠品https://pan.baidu.com/s/1g7TcroDu1T3CYioVBpZRkg|
 |447854|小偷模拟器/窃贼模拟器|链接https://pan.baidu.com/s/1CYA5B5V3OibbiohujjlErQ|赠品https://pan.baidu.com/s/1iYUCZ2wxATt0jaRWcAIGiQ|
 |652566|小龙咖啡馆 宝贝龙咖啡厅 牧场物语之父|链接https://pan.baidu.com/s/1MEImnY9alIh8y7ckT8kyXg||
@@ -969,18 +969,18 @@ tags:                               #标签
 |521447|箱庭推理/箱庭侦探队/箱庭逻辑/你懂的|链接https://pan.baidu.com/s/1vqq34FyqIQMn4_t7DYdeiA||
 |633226|新高达破坏者|链接https://pan.baidu.com/s/1nXVq5UpXVHYMpxG1f9eXQQ|赠品https://pan.baidu.com/s/1Vf6b29jsevVVq1P631MahQ|
 |874115|星界边境/星界边缘/屎大棒/单机.同屏联机|链接https://pan.baidu.com/s/1-GkYm4sQRMAsrk_SuSkEOw|赠品https://pan.baidu.com/s/1_Q6rOV0jQvWdSBpJdB-xpQ|
-|963336|星球大战：战争前线2/星际大战 战场前线2|链接https://pan.baidu.com/s/1F5GrqWyjS7DZx-7gw-CJgw|赠品https://pan.baidu.com/s/1FfKbhNQG2_VL7BYxu20nVg|
-|963336|星球大战绝地：陨落的武士团/组织殒落|链接https://pan.baidu.com/s/1qTTYJezUZdYF7mtQEPG8IQ|赠品https://pan.baidu.com/s/1IA9kr8oZQGfi4dZ3vpizCw|
+|963336|星球大战:战争前线2/星际大战 战场前线2|链接https://pan.baidu.com/s/1F5GrqWyjS7DZx-7gw-CJgw|赠品https://pan.baidu.com/s/1FfKbhNQG2_VL7BYxu20nVg|
+|963336|星球大战绝地:陨落的武士团/组织殒落|链接https://pan.baidu.com/s/1qTTYJezUZdYF7mtQEPG8IQ|赠品https://pan.baidu.com/s/1IA9kr8oZQGfi4dZ3vpizCw|
 |633332|小小的生命/你懂的|链接https://pan.baidu.com/s/1bhI4hwMhWHRCS4AIHPgKYQ||
-|852214|乡间的暑假生活～和表姐度过的秘密一周/你懂的|链接https://pan.baidu.com/s/1gh7Vutkyo5kGbeFkIaUGBw||
-|741557|侠隐行录：困境疑云|链接https://pan.baidu.com/s/1Bp4zg2_bLLjFLDRv4wK7xA||
+|852214|乡间的暑假生活~和表姐度过的秘密一周/你懂的|链接https://pan.baidu.com/s/1gh7Vutkyo5kGbeFkIaUGBw||
+|741557|侠隐行录:困境疑云|链接https://pan.baidu.com/s/1Bp4zg2_bLLjFLDRv4wK7xA||
 |879996|悬崖帝国|链接https://pan.baidu.com/s/1My-lKmh0hFKzOnxQ85p4vA|赠品https://pan.baidu.com/s/1D2bSZ3eK4fSVOCDNp9ZXTw|
-|854777|血腥编年史：新的死亡循环|链接https://pan.baidu.com/s/18hNsiNlzmcrKdndjg4wtkg||
+|854777|血腥编年史:新的死亡循环|链接https://pan.baidu.com/s/18hNsiNlzmcrKdndjg4wtkg||
 |874566|星际拓荒|链接https://pan.baidu.com/s/1bx0vsxUVQdqs8XfiTweElA||
-|963565|先祖：人类奥德赛/人类史诗|链接https://pan.baidu.com/s/1zPsqOMdx0EhVav9xAGuTTg|赠品https://pan.baidu.com/s/10TdI53uHxbzLKMLCkdbPgQ|
+|963565|先祖:人类奥德赛/人类史诗|链接https://pan.baidu.com/s/1zPsqOMdx0EhVav9xAGuTTg|赠品https://pan.baidu.com/s/10TdI53uHxbzLKMLCkdbPgQ|
 |754855|夏娃年代记2/你懂的|链接https://pan.baidu.com/s/1ybU3xRYCieI9-zCZxsySzA||
 |744458|小兵求爱记/你懂的|链接https://pan.baidu.com/s/1Bi0koMSFEivXp2v9z5mnEg||
-|587777|想谈个恋爱吗？那就给钱吧！/你懂的|链接https://pan.baidu.com/s/1AI4fBrwtBG8MSOXBRaIueQ||
+|587777|想谈个恋爱吗?那就给钱吧!/你懂的|链接https://pan.baidu.com/s/1AI4fBrwtBG8MSOXBRaIueQ||
 |745558|西游记之大圣归来|链接https://pan.baidu.com/s/1vkrIMY9AlIPhONj9xigZ6Q&shfl=sharepset|赠品https://pan.baidu.com/s/1o8WrFD7JjOR_INodWlItTQ&shfl=sharepset|
 |852114|小小大工坊/小小大工场|链接https://pan.baidu.com/s/1RLDwGiTy6W55TSz0mcVwew&shfl=sharepset||
 |632333|心魔/痛苦地狱|链接https://pan.baidu.com/s/1N7P78Lf8_Mw_jOJvolZFSQ&shfl=sharepset||
@@ -991,7 +991,7 @@ tags:                               #标签
 |258889|西奥小镇/西奥城镇|链接https://pan.baidu.com/s/1lRSHKBHYcGdzoA-YO_qNqA||
 |365557|形骸骑士/电脑小游戏|链接https://pan.baidu.com/s/1svYAnYA1i-L02djVMEOmeA||
 |748556|西部甜心/West Sweety/你懂的|链接https://pan.baidu.com/s/17JR0nC1EDfAi3nUfQkydMw||
-|658745|虚实之间：军团崛起/SYNTHETIK: Legion Rising|链接https://pan.baidu.com/s/1U5lBjGdMOw0DUM32GAjO3g||
+|658745|虚实之间:军团崛起/SYNTHETIK: Legion Rising|链接https://pan.baidu.com/s/1U5lBjGdMOw0DUM32GAjO3g||
 |654874|侠盗骑兵归来/蓝精灵中队|链接https://pan.baidu.com/s/1IailSVSVoqwbam3BjcoGjg|链接https://pan.baidu.com/s/1yeaRdYQpaMnJxHwFaOGC0A|
 |987996|新妻爱弥的逃离贫民窟物语/你懂的|链接https://pan.baidu.com/s/1u3lINiyGMc0uQHvZSsA2VQ||
 |687448|像素支配|链接https://pan.baidu.com/s/1Z4lsDBwBMAwTRlxvHL-r2g||
@@ -999,39 +999,39 @@ tags:                               #标签
 |658771|小镇惊魂|链接https://pan.baidu.com/s/1Mmk7Kxb_BwLQplnltQt9bg||
 |658771|小镇惊魂2|链接https://pan.baidu.com/s/1wrxz_qFk87VG2gtA_Y10ww||
 |547888|幽浮2|链接https://pan.baidu.com/s/1-fPl5xhrg8SOYzW6IYbxkA|赠品https://pan.baidu.com/s/1GFUhWcPszp8LEaVew2HsuA|
-|889659|永恒之柱2：死亡之火|链接https://pan.baidu.com/s/1CVKnHtTHfglLnjFNE5PkNQ|赠品https://pan.baidu.com/s/1m9gJZX4yy72u3TCE7UrAoA|
+|889659|永恒之柱2:死亡之火|链接https://pan.baidu.com/s/1CVKnHtTHfglLnjFNE5PkNQ|赠品https://pan.baidu.com/s/1m9gJZX4yy72u3TCE7UrAoA|
 ||英雄无敌1234567|链接https://pan.baidu.com/s/1tZ2gvg3e5929pqERoQfKwQ|赠品https://pan.baidu.com/s/1nM6KAHelLRQvqKNo_3tYhQ|
 |698599|英雄连2/1/远东战场|链接https://pan.baidu.com/s/1pbGThL0ZkgFWKuvXemIhtQ|赠品https://pan.baidu.com/s/1vwg9Io6TGx508rDnmhUYqQ|
-|569362|伊苏8：达娜的安魂曲|链接https://pan.baidu.com/s/1E3UfL3rlngpALIX8s3wVKA|赠品https://pan.baidu.com/s/1yijCA386CapUGIq23l1ERQ|
+|569362|伊苏8:达娜的安魂曲|链接https://pan.baidu.com/s/1E3UfL3rlngpALIX8s3wVKA|赠品https://pan.baidu.com/s/1yijCA386CapUGIq23l1ERQ|
 |252541|亿万僵尸军团|链接https://pan.baidu.com/s/1xE3tcvq_FPQafeVuby0EYw|赠品https://pan.baidu.com/s/15qIyQY9k3B5YH9zS_u4zrw|
-|854759|幽灵行动：荒野|链接https://pan.baidu.com/s/1zqd4IA_gK07-lhDi0UwPcA|赠品https://pan.baidu.com/s/1iRnN7F1BYkU_yXu4Y418Og|
-|635587|英雄传说：空之轨迹FC|链接https://pan.baidu.com/s/1YgUinhg0psjg-P-qKHsslA||
-|635587|英雄传说：空之轨迹SC|链接https://pan.baidu.com/s/17RBnoZdFt34ZUdnS8mMYjw||
-|635587|英雄传说：空之轨迹3rd|链接https://pan.baidu.com/s/1LFZs1i-_I1xAkczszpGEtg|赠品https://pan.baidu.com/s/1N2T68Z-sxwTUKBRU-I4PIA|
-|635587|英雄传说：零之轨迹|链接https://pan.baidu.com/s/1BlNiiftZ4pXIqSDttDf9Nw|赠品https://pan.baidu.com/s/1p8TJsN3dILE3-khVSkMEKA|
-|635587|英雄传说：碧之轨迹|链接https://pan.baidu.com/s/1QpiU9EB8bJaL4Ws70BS2oQ|赠品https://pan.baidu.com/s/1JZgN56yr1YJO9FpqTUO7Yg|
-|635587|英雄传说：闪之轨迹|链接https://pan.baidu.com/s/1f5H_xQN0fiAdg6K5u_nzCg|赠品https://pan.baidu.com/s/1EGQQq_stivgpGwhJXB0lIw|
-|635587|英雄传说：闪之轨迹2|链接https://pan.baidu.com/s/1QJ_w8TMUnf-ZnNpNnkygbw|赠品https://pan.baidu.com/s/1Es5kT1mqQzhMTSS_AGhizg|
+|854759|幽灵行动:荒野|链接https://pan.baidu.com/s/1zqd4IA_gK07-lhDi0UwPcA|赠品https://pan.baidu.com/s/1iRnN7F1BYkU_yXu4Y418Og|
+|635587|英雄传说:空之轨迹FC|链接https://pan.baidu.com/s/1YgUinhg0psjg-P-qKHsslA||
+|635587|英雄传说:空之轨迹SC|链接https://pan.baidu.com/s/17RBnoZdFt34ZUdnS8mMYjw||
+|635587|英雄传说:空之轨迹3rd|链接https://pan.baidu.com/s/1LFZs1i-_I1xAkczszpGEtg|赠品https://pan.baidu.com/s/1N2T68Z-sxwTUKBRU-I4PIA|
+|635587|英雄传说:零之轨迹|链接https://pan.baidu.com/s/1BlNiiftZ4pXIqSDttDf9Nw|赠品https://pan.baidu.com/s/1p8TJsN3dILE3-khVSkMEKA|
+|635587|英雄传说:碧之轨迹|链接https://pan.baidu.com/s/1QpiU9EB8bJaL4Ws70BS2oQ|赠品https://pan.baidu.com/s/1JZgN56yr1YJO9FpqTUO7Yg|
+|635587|英雄传说:闪之轨迹|链接https://pan.baidu.com/s/1f5H_xQN0fiAdg6K5u_nzCg|赠品https://pan.baidu.com/s/1EGQQq_stivgpGwhJXB0lIw|
+|635587|英雄传说:闪之轨迹2|链接https://pan.baidu.com/s/1QJ_w8TMUnf-ZnNpNnkygbw|赠品https://pan.baidu.com/s/1Es5kT1mqQzhMTSS_AGhizg|
 |658749|Youropa|链接https://pan.baidu.com/s/1OIG_dnrdaTlBG0NO9Ecaeg||
 |587469|英雄攻城|链接https://pan.baidu.com/s/1Qc_w1qe15WXHjrqYgQjKyA||
 |225416|永恒空间|链接https://pan.baidu.com/s/151PzUCAl64QikTTaJhwWkQ|赠品https://pan.baidu.com/s/14Jx0bLka2LQd83IlceKksw|
 |215423|幽灵教义|链接https://pan.baidu.com/s/1WT3chmll6RBocUpcvTo59g|赠品https://pan.baidu.com/s/1od04MfJeIvbqMvhoGvWanw|
 |632563|盐和避难所|链接https://pan.baidu.com/s/1aGXoJyCyWheOG8cOxkRWfw||
-|549862|夜下降生Exe：Late st|链接https://pan.baidu.com/s/1dZ786-5uHqhwkQkMIGqX1A||
-|632632|异星探险家：网络联机版/星球探索者网络联机|链接https://pan.baidu.com/s/1Nl-HRgJDLpQgsYGpMqpxUA||
+|549862|夜下降生Exe:Late st|链接https://pan.baidu.com/s/1dZ786-5uHqhwkQkMIGqX1A||
+|632632|异星探险家:网络联机版/星球探索者网络联机|链接https://pan.baidu.com/s/1Nl-HRgJDLpQgsYGpMqpxUA||
 |632632|异星探险家/星球探索者|链接https://pan.baidu.com/s/1g-q2HJo03l1_ZEMpoexxFg|赠品https://pan.baidu.com/s/1Zmv0YuT13hzGWzvj5nzGlA|
 |326532|勇者斗恶龙11/追寻逝去的时光/英雄1.2|链接https://pan.baidu.com/s/1X18n3p5h8_Gei5IRQ4b_Ow|赠品https://pan.baidu.com/s/1eeJiFlYY8pXpogeJMlkqrQ|
 |326597|夜勤人|赠品https://pan.baidu.com/s/1Y187JVJQO4JD0blEF66zEg|赠品https://pan.baidu.com/s/1_EyRRd0Nc5Lss0GmWNWpYA|
 |669854|预兆景象|链接https://pan.baidu.com/s/1LPuSfESag-Gyjz8jcrAcrQ|赠品https://pan.baidu.com/s/1oiDdMB8b5DtsFK3tW0pAEA|
 |251456|异度之刃X|链接https://pan.baidu.com/s/11VCsfmbT-pLqiLw0AeT1sQ|赠品https://pan.baidu.com/s/1o7LU5NKZPEWuTlDJJ-6rUA|
 |874478|永恒边缘|链接https://pan.baidu.com/s/1ho0BD7o7K4JOBpL8UJ_B8g||
-|632541|永恒终焉：4K/HD/重置版|链接https://pan.baidu.com/s/1UKVqYjy9FVH476c7NQ8mAg|赠品https://pan.baidu.com/s/1k_L80OLKfS48mMqfRfn05g|
+|632541|永恒终焉:4K/HD/重置版|链接https://pan.baidu.com/s/1UKVqYjy9FVH476c7NQ8mAg|赠品https://pan.baidu.com/s/1k_L80OLKfS48mMqfRfn05g|
 |965888|议会|链接https://pan.baidu.com/s/1x4xJLsB42nN1u-cUSUgr3w|赠品https://pan.baidu.com/s/1Hpl3wKLt7eTf_BV5KhmzRg|
-|554777|以撒的结合：重生|链接https://pan.baidu.com/s/1Zwgey3qP0VtNJ38zCstidA|赠品https://pan.baidu.com/s/1sjzijzDDfsIW2W0qj4Ysrw|
+|554777|以撒的结合:重生|链接https://pan.baidu.com/s/1Zwgey3qP0VtNJ38zCstidA|赠品https://pan.baidu.com/s/1sjzijzDDfsIW2W0qj4Ysrw|
 |774877|YLGT|||
 |632254|音灵|链接https://pan.baidu.com/s/12p_H55Q7_HHxgygqFJV4ng||
 |332655|要塞传奇|链接https://pan.baidu.com/s/1EkCoa83T_salVDcp3uxrLg|赠品https://pan.baidu.com/s/1eOUq8eQypSDekpPG5i_Wbg|
-|544487|影子战术：将军之刃|链接https://pan.baidu.com/s/1s--_cp_eqVRxKOBUxzMmnw|赠品https://pan.baidu.com/s/13t0UIBbUeeGM3clYiilDzg|
+|544487|影子战术:将军之刃|链接https://pan.baidu.com/s/1s--_cp_eqVRxKOBUxzMmnw|赠品https://pan.baidu.com/s/13t0UIBbUeeGM3clYiilDzg|
 |无需|亚兰德炼金术士三部曲DX|链接https://pan.baidu.com/s/1zG97yAOmK3sPaLbPq_000Q||
 |336656|医院计划|链接https://pan.baidu.com/s/1pwVzVK_q5vR136Crau3iWA|赠品https://pan.baidu.com/s/1FEW7ldlHRrSKRcfammVAZQ|
 |658744|游乐园建造师|链接https://pan.baidu.com/s/16XNx_Ex1xUpEM2Pp6fAN5A|赠品https://pan.baidu.com/s/19kW3A7lAmcUdtaJTLlQq2Q|
@@ -1051,32 +1051,32 @@ tags:                               #标签
 |854779|1000日以后/你懂的|链接https://pan.baidu.com/s/1cpAJNbdp7fjIACEHoESVPw||
 |663323|酉閃町|链接https://pan.baidu.com/s/17VW6M9zcrj0Q_6hTb9w7vg||
 |632254|英雄群侠传2/英雄群侠传II |链接https://pan.baidu.com/s/1s1OEjd-1BtNaeaagttBwMw||
-|632547|约会大作战：凛绪轮回HD|链接https://pan.baidu.com/s/1iTfNY5BrJGNqUD2jrf-gLQ||
+|632547|约会大作战:凛绪轮回HD|链接https://pan.baidu.com/s/1iTfNY5BrJGNqUD2jrf-gLQ||
 |365558|游物语/你懂的|链接https://pan.baidu.com/s/1auk7L7jvVjGopFh2YABdhA||
-|854778|伊拉图斯：死之主|链接https://pan.baidu.com/s/1wQ1IJC_4FIhXpN3sGT-XkA|赠品https://pan.baidu.com/s/1klmrvvBo4n5KNw_Rv1N6vA|
+|854778|伊拉图斯:死之主|链接https://pan.baidu.com/s/1wQ1IJC_4FIhXpN3sGT-XkA|赠品https://pan.baidu.com/s/1klmrvvBo4n5KNw_Rv1N6vA|
 |963336|银河除虫队/异星特勤队|链接https://pan.baidu.com/s/1DKuae5HQAu5WNZMLHeDKRw||
-|854778|月影魅像：解放之羽/你懂的|链接https://pan.baidu.com/s/1iz5vdwXGYhdoaxvkwYdzug||
+|854778|月影魅像:解放之羽/你懂的|链接https://pan.baidu.com/s/1iz5vdwXGYhdoaxvkwYdzug||
 |748554|银链/纯银项链|链接https://pan.baidu.com/s/16qICy4TLSu5FIYgDk1wtiQ||
-|958889|云聚：失落的魔法|链接https://pan.baidu.com/s/1N64b8wGR6rNG8cb8PFk0JA||
-|874558|遗迹：灰烬重生/废墟灰烬/单机.网络联机|链接https://pan.baidu.com/s/1qKtx-86ajKZ9px5T5AQ5RA|赠品https://pan.baidu.com/s/16zrkPWca0lslpMZZtSRbjg|
+|958889|云聚:失落的魔法|链接https://pan.baidu.com/s/1N64b8wGR6rNG8cb8PFk0JA||
+|874558|遗迹:灰烬重生/废墟灰烬/单机.网络联机|链接https://pan.baidu.com/s/1qKtx-86ajKZ9px5T5AQ5RA|赠品https://pan.baidu.com/s/16zrkPWca0lslpMZZtSRbjg|
 |854756|一夜过后|链接https://pan.baidu.com/s/1-2aY7p04Ftf-I90qBE8zCA||
 |854758|永夜之地/进化启示录/Night Island|链接https://pan.baidu.com/s/1GkCj4a_eim5BhWplJp9Z5w||
-|321452|玉魔王1.5：机械王国的逆袭/你懂的|链接https://pan.baidu.com/s/1v5EfiIsFtOoI0DaX4a_3BQ||
+|321452|玉魔王1.5:机械王国的逆袭/你懂的|链接https://pan.baidu.com/s/1v5EfiIsFtOoI0DaX4a_3BQ||
 |632332|异界异闻录序章/你懂的|链接https://pan.baidu.com/s/1qOSvN99_F5UBPf25-cPUjA||
 |748547|义军|链接https://pan.baidu.com/s/1WMrGQtAYWoQe0sqP8R7U4Q||
-|362112|依靠导航：女孩巷子历险记/你懂的|链接https://pan.baidu.com/s/1DBzzEOVCn94Gx8iPa2IJaA||
+|362112|依靠导航:女孩巷子历险记/你懂的|链接https://pan.baidu.com/s/1DBzzEOVCn94Gx8iPa2IJaA||
 |854447|尤卡莱莉与无妄巢穴|链接https://pan.baidu.com/s/1t5ur_uw7GHMxBL5ra8gqhg||
-|632222|羊肚菌：狩猎游戏|链接https://pan.baidu.com/s/1N3_rIElWj252jM-i8P1IiA||
-|852114|英雄不再：特拉维斯再次出击|链接https://pan.baidu.com/s/1HfAFIqb-aWgKfjV16lYnNw&shfl=sharepset||
+|632222|羊肚菌:狩猎游戏|链接https://pan.baidu.com/s/1N3_rIElWj252jM-i8P1IiA||
+|852114|英雄不再:特拉维斯再次出击|链接https://pan.baidu.com/s/1HfAFIqb-aWgKfjV16lYnNw&shfl=sharepset||
 |544115|仰望青空的龙少女/你懂的|链接https://pan.baidu.com/s/1yB9IwrXYhNAEZm1Uw-vB1Q&shfl=sharepset||
 |663654|永远不再|链接https://pan.baidu.com/s/1Sx2biqOaYLB9An9zlg0j8Q||
-|326669|樱花：狐娘大冒险/你懂的|链接https://pan.baidu.com/s/1kqXR-L7rwBcamDnHW2tXsQ||
+|326669|樱花:狐娘大冒险/你懂的|链接https://pan.baidu.com/s/1kqXR-L7rwBcamDnHW2tXsQ||
 |587774|野性的海洋|链接https://pan.baidu.com/s/17WD5G10VArit2tNAQ1twdw||
 |748559|幽灵游行|链接https://pan.baidu.com/s/1PzwQcgFMmG5PJucfCZIB6A||
 |548774|英雄战姬 天狐/你懂的|链接https://pan.baidu.com/s/1dqjhF6zlMpNWT_CGda4XLg||
 |854778|夜间城邦/拉特罗波利斯/鼠国流浪记|链接https://pan.baidu.com/s/1CkEu_yJNK09cZNaQjRXYNg||
 |748556|幽灵之地/你懂的|链接https://pan.baidu.com/s/1c8BsnyKMBXzcysKehH7gMg||
-|854999|勇敢者的游戏：游戏版|链接https://pan.baidu.com/s/1cQBxwR0EMKFkAYbsTaMjag||
+|854999|勇敢者的游戏:游戏版|链接https://pan.baidu.com/s/1cQBxwR0EMKFkAYbsTaMjag||
 |632223|Yaga/Yaga|链接https://pan.baidu.com/s/19V3plTtXOe9itF5sVuBv-Q||
 |785448|异星工厂|链接https://pan.baidu.com/s/1RV5KspRLh7aTfBvZ9vRWNg|赠品https://pan.baidu.com/s/1fz1umTanCi3V7ml61ctzmg|
 |748555|100%鲜橙汁 网络联机版|链接https://pan.baidu.com/s/1YqCpzeUVXjv4I4akglsIsg||
@@ -1089,11 +1089,11 @@ tags:                               #标签
 |632558|游离大陆/电脑小游戏|链接https://pan.baidu.com/s/1mDsNm3nNzb0L6fPfD6x2Dg||
 |352145|云游志/电脑小游戏|链接https://pan.baidu.com/s/1PABIOi3Zo58qKM0bEUOnvw||
 |698559|银白钢铁伊克斯|链接https://pan.baidu.com/s/17FXFdymLSpYAnMpd_DFOpw||
-|632544|永生之境：吸血鬼战争|链接https://pan.baidu.com/s/1Pwk66fnEO3qV1oO0sFOVXA|赠品https://pan.baidu.com/s/1fewCGqbG_Fa6dpKonk64RA|
+|632544|永生之境:吸血鬼战争|链接https://pan.baidu.com/s/1Pwk66fnEO3qV1oO0sFOVXA|赠品https://pan.baidu.com/s/1fewCGqbG_Fa6dpKonk64RA|
 |635222|一起玩农场/单机.多人同屏|链接https://pan.baidu.com/s/1M9hcuAa_X3oNhMfI25U-OQ||
 |632666|佣兵战歌/电脑小游戏|链接https://pan.baidu.com/s/1ToCSUFgq4HGhTIoblnBa_w||
 |658999|牙齿和尾巴/尾牙|链接https://pan.baidu.com/s/1X46skDq_Z3kaCk4X7OMsaw|赠品https://pan.baidu.com/s/1tPLGTwF0kPl0lXGs11WReQ|
-|521478|勇者斗恶龙：创世小玩家2|链接https://pan.baidu.com/s/1-yrTC4BZj98v_0N6lmoDsg||
+|521478|勇者斗恶龙:创世小玩家2|链接https://pan.baidu.com/s/1-yrTC4BZj98v_0N6lmoDsg||
 |987778|远星物语/交叉准则|链接https://pan.baidu.com/s/16ZqKl1z55npn0KFR-yqu6w||
 |654323|以爱之名EP1-2/你懂的|链接https://pan.baidu.com/s/1LVZoHULk71za5t-dftrv0w||
 |485744|隐身英雄重制版/单机.同屏多人.局域网联机|链接https://pan.baidu.com/s/1n2wEFM8IytYare1KFFFNrg||
@@ -1105,23 +1105,23 @@ tags:                               #标签
 |632587|妖语/你懂的|链接https://pan.baidu.com/s/12bGjxqFuTNh27xt6cI7RZA||
 |985478|伊泽轮回/电脑小游戏|链接https://pan.baidu.com/s/1aNe0-q6fdoLfqcU533Mi1A||
 |748547|月圆之夜/电脑小游戏|链接https://pan.baidu.com/s/1sB-u-BAC9uums0ww1G8wqA||
-|748596|最终幻想：纷争NT|链接https://pan.baidu.com/s/1QrsghNsks8BSxDdl7RSo9w|赠品https://pan.baidu.com/s/1D2No20vjiqW9e4AUTcxLgw|
-|526663|最终幻想12：黄道年代/时代|链接https://pan.baidu.com/s/15EqfIHaUTcpbXGFsC__QUg|赠品https://pan.baidu.com/s/1X6g4UWtrO5zcvJa4GZKI2A|
+|748596|最终幻想:纷争NT|链接https://pan.baidu.com/s/1QrsghNsks8BSxDdl7RSo9w|赠品https://pan.baidu.com/s/1D2No20vjiqW9e4AUTcxLgw|
+|526663|最终幻想12:黄道年代/时代|链接https://pan.baidu.com/s/15EqfIHaUTcpbXGFsC__QUg|赠品https://pan.baidu.com/s/1X6g4UWtrO5zcvJa4GZKI2A|
 |587412|最终幻想13/FF13|链接https://pan.baidu.com/s/1XkI5kRhoWP-CQMicGT4RdA|赠品https://pan.baidu.com/s/1k8NN4EPv7mmu1Steu0qRmg|
 ||最终幻想13-2|链接https://pan.baidu.com/s/1v5uHrmvW2roKDkg0UFRISw|赠品https://pan.baidu.com/s/1khNsr5FyhR3IRizSUVZyUA|
 ||最终幻想13-3|链接https://pan.baidu.com/s/1yBs1QtpEM0Fh0BC1OeZIkg|赠品https://pan.baidu.com/s/1SspJJ4PKIWA50GB72wPMKQ|
-|639569|最终幻想：零式HD|链接https://pan.baidu.com/s/1nmpHbbaNSQzb-FMEg5itgQ|赠品https://pan.baidu.com/s/1TDBXjVNwizA-6oFYPPcwgw|
+|639569|最终幻想:零式HD|链接https://pan.baidu.com/s/1nmpHbbaNSQzb-FMEg5itgQ|赠品https://pan.baidu.com/s/1TDBXjVNwizA-6oFYPPcwgw|
 |632548|最终幻想15/FF15|链接https://pan.baidu.com/s/1cDHriqZpCLNOUAWI-ZWsBQ|赠品https://pan.baidu.com/s/126E13jl4mwyM0jd1s1noCA|
 |256974|最终幻想 世界|链接https://pan.baidu.com/s/1B1sR5-JbBU51z1GCDv67-Q|赠品https://pan.baidu.com/s/17AnbN4px9bzLjI2q1nDzsA|
 |698574|祖先遗产/先祖遗赠|链接https://pan.baidu.com/s/1Ufg50zP7MYOE32xsRhVorg|赠品https://pan.baidu.com/s/1noKSMT2YsLiVZvgdvnKsEQ|
-|521597|中土世界：暗影魔多/魔多阴影|链接https://pan.baidu.com/s/1_gjVEOiJas0gX5rE4kYd6A|赠品https://pan.baidu.com/s/1A0Md0f5c34ecO-iOkDrEZQ|
-|521597|中土世界：战争之影终极版|链接https://pan.baidu.com/s/1T4s7KQnYsGwlv09JMuyzwg|赠品https://pan.baidu.com/s/19wupo3pTJSF6YE9L3rlhRA|
+|521597|中土世界:暗影魔多/魔多阴影|链接https://pan.baidu.com/s/1_gjVEOiJas0gX5rE4kYd6A|赠品https://pan.baidu.com/s/1A0Md0f5c34ecO-iOkDrEZQ|
+|521597|中土世界:战争之影终极版|链接https://pan.baidu.com/s/1T4s7KQnYsGwlv09JMuyzwg|赠品https://pan.baidu.com/s/19wupo3pTJSF6YE9L3rlhRA|
 |525263|正当防卫4/3/2/1|链接https://pan.baidu.com/s/1Zr_PPx-F7OSJqHRHc_-Omw|赠品https://pan.baidu.com/s/1QCeYxyrcAsvYkqwyBPJ2TA|
-|215412|质量效应4：仙女座/3/2/1|链接https://pan.baidu.com/s/1cqA4RrCh3sfnuVpVdcAS1g|赠品https://pan.baidu.com/s/1Pw7hN-tmYYZdtJzFZZ563A|
-|554874|战地：叛逆连队2|链接https://pan.baidu.com/s/1m7YdPdXFNfv1jtBv6Oa0ow||
+|215412|质量效应4:仙女座/3/2/1|链接https://pan.baidu.com/s/1cqA4RrCh3sfnuVpVdcAS1g|赠品https://pan.baidu.com/s/1Pw7hN-tmYYZdtJzFZZ563A|
+|554874|战地:叛逆连队2|链接https://pan.baidu.com/s/1m7YdPdXFNfv1jtBv6Oa0ow||
 |554874|战地5/战地风云5/BF5+1|链接https://pan.baidu.com/s/14XOhiRsCoWlVp8vf4j_Pwg|赠品https://pan.baidu.com/s/1ij-4eOSb3WPyrQUyWDohkw|
-|336587|咒语力量3：灵魂收割/含原版.前作|链接https://pan.baidu.com/s/1vS3I-ZUcG_wxkadY_1-PDg|赠品https://pan.baidu.com/s/16O2ty9FdDH117ZqgFoVFLA|
-|258969|自由人：游击战争|链接https://pan.baidu.com/s/1AnjSceBu5Ue5zNWllTGoiQ||
+|336587|咒语力量3:灵魂收割/含原版.前作|链接https://pan.baidu.com/s/1vS3I-ZUcG_wxkadY_1-PDg|赠品https://pan.baidu.com/s/16O2ty9FdDH117ZqgFoVFLA|
+|258969|自由人:游击战争|链接https://pan.baidu.com/s/1AnjSceBu5Ue5zNWllTGoiQ||
 |225874|撞车嘉年华|链接https://pan.baidu.com/s/1oaxWCFq7yMalTsLbX__KRA|赠品https://pan.baidu.com/s/1wf5u-S_kEZhwYhfl2H917A|
 |669933|征服火星|链接https://pan.baidu.com/s/1ROU2MN8g0HVBGHZJsEh7AQ||
 |296587|自由人|链接https://pan.baidu.com/s/1j7b_Igdxtevk52KEHpn0SA||
@@ -1129,7 +1129,7 @@ tags:                               #标签
 |639819|足球经理2019/2018|链接https://pan.baidu.com/s/1ieK-Vx3l0_1Mkdma1TBj0g|赠品https://pan.baidu.com/s/1SLJ1F16zvN0MPGVCcFDMsw|
 |215496|真三国无双876543|链接https://pan.baidu.com/s/1_Xnm2f2cdIzxgkFWeMZGYw|赠品https://pan.baidu.com/s/1n0FpLEocz_90B61r85RWLA|
 |526385|最后一个死胡同|链接https://pan.baidu.com/s/1uElLcdKBy8xqDFs5xxYlHw|赠品https://pan.baidu.com/s/1hQ1usm8YN26mCTkwM-zHog|
-|524985|侏罗纪世界：进化|链接https://pan.baidu.com/s/1QIFnF_9i8uJvKQUvE7ASgQ|赠品https://pan.baidu.com/s/1ZJpcAnGwoK0IqX-GsH-lfA|
+|524985|侏罗纪世界:进化|链接https://pan.baidu.com/s/1QIFnF_9i8uJvKQUvE7ASgQ|赠品https://pan.baidu.com/s/1ZJpcAnGwoK0IqX-GsH-lfA|
 |254121|中国式家长/电脑小游戏|链接https://pan.baidu.com/s/12PvB-a-wUfKZMwuTJKhJtg|赠品https://pan.baidu.com/s/1aoPtwdem3dFinYhQLtHYsw|
 |336232|重装机兵4月光歌姬|链接https://pan.baidu.com/s/162wVpjXvba54xsT2el_InA||
 |220215|煮糊了2网络联机版/分手厨房2/胡闹厨房2/地狱厨房2|链接https://pan.baidu.com/s/1EuYMUZm3xcAZw0Nv0aeaXw||
@@ -1141,30 +1141,30 @@ tags:                               #标签
 |587458|战斗狂怒/联机版|链接https://pan.baidu.com/s/1xCFlDiHuo749TQjKlLYbzw|赠品https://pan.baidu.com/s/1NhQO5YXNEHvv2CPhlp7pkg|
 |655887|战场女武神4/3/2/1|链接https://pan.baidu.com/s/1npP1gid6HETIiqDaoC55kw|赠品https://pan.baidu.com/s/1jEc5iXnUAvpYeoQhGA7h3A|
 |659887|战纹/战律/火焰纹章+高级战争/联机版|链接https://pan.baidu.com/s/17-feif2ZedqqA62TmbI9NA|赠品https://pan.baidu.com/s/10Rd_nZtWDN-O9i1vlrvGwQ|
-|656936|战争之人：突击小队2 冷战/5部合集|链接https://pan.baidu.com/s/1i2bYzClvVxQXh_idONz-vQ|赠品https://pan.baidu.com/s/1ays43H9XftE9NIqChhH1mw|
-|521214|中世纪2：全面战争|链接https://pan.baidu.com/s/1ko10BGlhsC3AeioAPwq72w|赠品https://pan.baidu.com/s/1RBdcDYOjFehmOVna0D66CQ|
+|656936|战争之人:突击小队2 冷战/5部合集|链接https://pan.baidu.com/s/1i2bYzClvVxQXh_idONz-vQ|赠品https://pan.baidu.com/s/1ays43H9XftE9NIqChhH1mw|
+|521214|中世纪2:全面战争|链接https://pan.baidu.com/s/1ko10BGlhsC3AeioAPwq72w|赠品https://pan.baidu.com/s/1RBdcDYOjFehmOVna0D66CQ|
 |549996|纸境YingXiong/国产|链接https://pan.baidu.com/s/1bzIW1CEIy_VyuUNQn07Cnw||
 |541256|最终幻想10/10-2高清重制版|链接https://pan.baidu.com/s/1NBvvnGDkP68RIsfGnQ5a3A|赠品https://pan.baidu.com/s/161QoLV3YVRpHXVdYGUGYrA|
-|632996|只狼：影逝二度|链接https://pan.baidu.com/s/1j4opqO2zxjbMKfhmxV-lQw|赠品https://pan.baidu.com/s/1h3et1tFhyHeCS6n8jmN-oQ|
-|665999|战镰：数字版/镰刀战争|链接https://pan.baidu.com/s/13oSbA9uGyMC5RFwEtnBmcw||
-|656696|Zhi人：第一章/国产恐怖|链接https://pan.baidu.com/s/11mqmUDqjOZiykqttRZvoRw||
+|632996|只狼:影逝二度|链接https://pan.baidu.com/s/1j4opqO2zxjbMKfhmxV-lQw|赠品https://pan.baidu.com/s/1h3et1tFhyHeCS6n8jmN-oQ|
+|665999|战镰:数字版/镰刀战争|链接https://pan.baidu.com/s/13oSbA9uGyMC5RFwEtnBmcw||
+|656696|Zhi人:第一章/国产恐怖|链接https://pan.baidu.com/s/11mqmUDqjOZiykqttRZvoRw||
 |874555|赃物与巫术|链接https://pan.baidu.com/s/1ILFdO7MpmGuW0LWR9zYajA||
 |658744|罪恶之城·BAD TOWN/你懂的|链接https://pan.baidu.com/s/13dk6qgmrKQkJLP-Xhv_kYg||
 |475888|宅男的人间冒险|链接https://pan.baidu.com/s/16bwaVtMeurPxSA6tUevUxw||
 |587441|猪兔大战HD重制版/单机.局域网联机|链接https://pan.baidu.com/s/1cEdhNjwgn1oOSnaRrUFYEA||
-|854125|战锤：混沌祸根/混乱之刃/混沌祸害|链接https://pan.baidu.com/s/10XSlTHDIhWEmAOh3NjTUnA|赠品https://pan.baidu.com/s/1JHV-yIYUZKBOogsdXEE1Mw|
+|854125|战锤:混沌祸根/混乱之刃/混沌祸害|链接https://pan.baidu.com/s/10XSlTHDIhWEmAOh3NjTUnA|赠品https://pan.baidu.com/s/1JHV-yIYUZKBOogsdXEE1Mw|
 |326521|作业疯了|链接https://pan.baidu.com/s/1I6oxVE9EIQzSWZizxxtlMQ|赠品https://pan.baidu.com/s/1EswCZCeozt3Ow5Ep4d2GNA|
-|254111|战锤40K：战争黎明3|链接https://pan.baidu.com/s/1OCvE8PvqZqOBWm4f5OWaKw|赠品https://pan.baidu.com/s/1IlKwyj2nm2xRprPdt3MLjA|
+|254111|战锤40K:战争黎明3|链接https://pan.baidu.com/s/1OCvE8PvqZqOBWm4f5OWaKw|赠品https://pan.baidu.com/s/1IlKwyj2nm2xRprPdt3MLjA|
 |332663|殖民大亨|链接https://pan.baidu.com/s/1l9VTYaLnuMQoszkpU9O4wg|赠品https://pan.baidu.com/s/1m6I3c5uhkbtdPidXVouEpQ|
 |456014|蒸汽之都的侦探少女/你懂的|链接https://pan.baidu.com/s/1Gd1qklzjZ9Q27-ntYBop9g||
 |632336|炽热合金/炙热合金/同屏联机|链接https://pan.baidu.com/s/1HKpD91i63ISxr58CWpVLLg||
 |587663|治愈我的瘾/你懂的|链接https://pan.baidu.com/s/1K4g5l_4ZBJ-NevzkoAsA6g||
 |569998|指环之城|链接https://pan.baidu.com/s/1iIBb3LHFcOgPRIiPNDZ_Ng||
-|745879|斩服少女：异布/同屏联机|链接https://pan.baidu.com/s/1a8puKYk0RSlcAsLOAZuuIg||
+|745879|斩服少女:异布/同屏联机|链接https://pan.baidu.com/s/1a8puKYk0RSlcAsLOAZuuIg||
 |854777|战争派对|链接https://pan.baidu.com/s/1ad6V_M5p4oZCRCxGaZIqzA||
 |963365|最后的木头|链接https://pan.baidu.com/s/1DrdE42ss9dUWdEIlTXiMhA||
 |632225|醉杀狂魔|链接https://pan.baidu.com/s/1DtVYT7SO8SBdC0H3xSRQEw||
-|874556|终结者：反抗军/抵抗|链接https://pan.baidu.com/s/1HwpicVKahB-SnGn92RiSiw|赠品https://pan.baidu.com/s/1uT4heawcJnM96sHMG9GcSQ|
+|874556|终结者:反抗军/抵抗|链接https://pan.baidu.com/s/1HwpicVKahB-SnGn92RiSiw|赠品https://pan.baidu.com/s/1uT4heawcJnM96sHMG9GcSQ|
 |255441|自动机械大厨/自动化餐厅|链接https://pan.baidu.com/s/1aMii29-KHXL_ynJQ6Nnlvw||
 |698889|追忆夏色年华/你懂的|链接https://pan.baidu.com/s/16MR8dRIU3DbZG0AV9GdLtw||
 |632547|再见狂野之心|链接https://pan.baidu.com/s/1GafcstLsdM_uNvKl8kzzzg||
@@ -1172,12 +1172,12 @@ tags:                               #标签
 |987445|自杀狂人/自杀男/自杀者熟睡|链接https://pan.baidu.com/s/1hIT9G3LNvxGkWR0GlLHDSw||
 |365558|炸裂!下(排)蛋(卵)拳!走向灭绝的逆袭!/你懂的|链接https://pan.baidu.com/s/1GHkiUI7WJydANUVL4eC2dQ||
 |365221|装甲冲突3|链接https://pan.baidu.com/s/1BpdEE8tU_onYBOj0eKC-gw||
-|635244|最后的胚胎：勇敢传说/你懂的|链接https://pan.baidu.com/s/1Ii5ISvm1FLQvtB5qOQYE9g||
+|635244|最后的胚胎:勇敢传说/你懂的|链接https://pan.baidu.com/s/1Ii5ISvm1FLQvtB5qOQYE9g||
 |698887|终末之岛/LastIsland/你懂的|链接https://pan.baidu.com/s/1NxiZGRwlO8C0JnncutiTuw||
 |632558|中世纪君主/电脑小游戏|链接https://pan.baidu.com/s/1KPU-gEhUX8OLOWmnsJzh7w||
 |879996|战斗四驱车/战斗赛车/单人.同屏多人|链接https://pan.baidu.com/s/1xQ-0z7OTgfOXwKreN5trmw||
-|784899|子弹少女：幻想|链接https://pan.baidu.com/s/1IUjpTNtPK2382FvBvH7esg||
-|200111|正太的任务：我的欧金金被瞄准了/你懂的|链接https://pan.baidu.com/s/1bEx-7niKHoOi9eXmMNVsxQ||
+|784899|子弹少女:幻想|链接https://pan.baidu.com/s/1IUjpTNtPK2382FvBvH7esg||
+|200111|正太的任务:我的欧金金被瞄准了/你懂的|链接https://pan.baidu.com/s/1bEx-7niKHoOi9eXmMNVsxQ||
 |587445|植物大战僵尸|链接https://pan.baidu.com/s/1lErY_w6Kn2Rq4eOcoN2WFQ|赠品https://pan.baidu.com/s/1Z1c1M7n4h58QPLPWbOC7Gg|
 |784796|真人快打X/单机.多人同屏|链接https://pan.baidu.com/s/1X2xTjSPzU9e-EfoivVis3w|赠品https://pan.baidu.com/s/1DHqcuJXE73fGX7LD0MIaGg|
 |632563|整蛊邻居2/整蛊专家2/1|链接https://pan.baidu.com/s/1Z2_m7gvtOz2XmggpmO1ZNA|赠品https://pan.baidu.com/s/16S-VqQhpL-TaZpwXG5GOyA|
