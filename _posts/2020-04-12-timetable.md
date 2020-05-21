@@ -112,3 +112,7 @@ tags:                               #标签
 |16:00-21:00|CSDN操作系统面试题|https://blog.csdn.net/gui951753/article/details/79489748?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522158963898419724843339535%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.57675%2522%257D&request_id=158963898419724843339535&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v25-1-79489748.first_rank_ecpm_v1_pc_rank_v3&utm_term=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98|
 |2020|05|19|
 |14:00-21:32|leetcode第202题|新思路:给一个数字 n，它的下一个数字是什么？按照一系列的数字来判断我们是否进入了一个循环。用map实现|
+|2020|05|21|
+|8:00-17:00|leetcode第202题根据提示完成|while n>0后 取余再除n可以遍历数字中的每一位数|
+|18:00-18:30|写使用select可以阻塞等待chan的代码||
+|20:00-21:30|找redis面试题看|https://thinkwon.blog.csdn.net/article/details/103522351|
