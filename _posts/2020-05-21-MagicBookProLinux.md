@@ -12,8 +12,4 @@ tags:                               #标签
 
 <center>皇帝的下载链接</center>
 
-<center><font color="#FFFFFF">
-
-[点一下](https://drive.google.com/file/d/1yZ0ookbTfq8M4fVl0CDQHeEJuYIfiWh-/view?usp=sharing)
-
-</font></center>
+[<font color="#FFFFFF">点一下</font>](https://drive.google.com/file/d/1yZ0ookbTfq8M4fVl0CDQHeEJuYIfiWh-/view?usp=sharing)
