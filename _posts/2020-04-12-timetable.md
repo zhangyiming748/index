@@ -116,3 +116,16 @@ tags:                               #标签
 |8:00-17:00|leetcode第202题根据提示完成<br>时间和内存占用超过100%用户,数据应该不准确<br>按照提示的思路提交五次后通过|while n>0后 取余再除n可以遍历数字中的每一位数|
 |18:00-18:30|写使用select可以阻塞等待chan的代码||
 |20:00-21:30|找redis面试题看|https://thinkwon.blog.csdn.net/article/details/103522351|
+|2020|05|22|
+|10:00-12:00|再看一遍昨天的redis面试题|配合操作|
+|14:00-21:30|找多线程面试题看|https://blog.csdn.net/cmyperson/article/details/79610870?ops_request_misc=&request_id=&biz_id=102&utm_term=%E5%A4%9A%E7%BA%BF%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-79610870|
+|2020|05|23|
+|10:00-12:00|复习常用的git命令|配合操作|
+|14:00-15:30|找并发编程面试题看|https://thinkwon.blog.csdn.net/article/details/104863992|
+|15:30-19:30|复习ES的queryDSL语句||
+|19:30-21:30|复习常用的sql语句||
+|2020|05|24|
+|10:00-xx:xx|看OneNote上所有的笔记，包括去年12月的|过一遍|
+|14:30-15:00|复习match和term的差别对比||
+|22:33-xx:xx|整理笔记||
+|明日计划|继续整理笔记,加强记忆忘掉的东西||
