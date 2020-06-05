@@ -141,3 +141,4 @@ tags:                               #标签
 |19:00-21:00|整理ssh、git命令||
 |2020|06|05|
 |了解shell|解决报错问题`unexpected operator`|默认的dash改回bash符号改成bash形式|
+|解决mount问题|挂载后只有root有WX权限||
