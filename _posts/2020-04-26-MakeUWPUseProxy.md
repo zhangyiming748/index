@@ -39,4 +39,8 @@ Win 10 的 UWP应用(应用商店下载的APP,如OneDrive\我的世界基岩版�
             -p= - AppContainer 或程序包系列安全标识符(SID).
             -?  - 显示 LoopbackExempt 模块的此帮助消息.
   ```
-  以OneNote为例,在命令行里输入:`CheckNetIsolation.exe LoopbackExempt -a -n="Microsoft.Office.OneNote_8wekyb3d8bbwe"`命令执行后,系统会提示完成,该UWP软件无法访问localhost的限制已经解除
+以OneNote为例,在命令行里输入:`CheckNetIsolation.exe LoopbackExempt -a -n="Microsoft.Office.OneNote_8wekyb3d8bbwe"`命令执行后,系统会提示完成,该UWP软件无法访问localhost的限制已经解除
+或者
+计算机\HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings\S-1-15-2-1333615684-3476610416-3051081704-793991562-341351578-2034363004-642090109aaaa
+后
+CheckNetIsolation.exe loopbackexempt -a -p=S-1-15-2-2551677095-2355568638-4209445997-2436930744-3692183382-387691378-1866284433
