@@ -7,7 +7,7 @@ author:     Zen                 # 作者
 header-img: img/photo/jiuzhaigou.webp    #这篇文章标题背景图片
 catalog: False                       # 是否归档
 tags:                               #标签
-    - 技巧
+    - 华为
 ---
 `C:\Program Files\Huawei\PCManager\res\drawable\logo`下存放了电脑管家中定制logo的图片
 `ren <file.bmp> <file.bmp.bak>`
