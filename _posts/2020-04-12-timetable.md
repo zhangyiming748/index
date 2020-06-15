@@ -149,3 +149,6 @@ tags:                               #标签
 |做第9题回文数|执行用时36ms内存消耗5.2 MB|用之前python的思路转换成字符串再反转比对完全行不通，按照之前做过的某题遍历数字|
 |尝试15题三数之和只想到了三重循环解法|看题解使用排序+双指针，明天尝试这种算法||
 |看redis五种数据结构的常用命令|||
+|15题按照思路写总会有错误，明天上午继续|||
+|解决报错|max file descriptors [4096] for elasticsearch process is too low, increase to at least [65536] | 修改/etc/security/limits.conf文件|
+解决报错|max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]|/etc/sysctl.conf
