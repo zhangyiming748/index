@@ -29,4 +29,4 @@ Current Battery Service state:
   voltage: 4399 #电池电压
   temperature: 350 #电池温度，单位是0.1摄氏度
   technology: Li-poly #电池种类
-  ```
+```
