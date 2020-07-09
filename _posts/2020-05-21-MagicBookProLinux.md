@@ -12,4 +12,4 @@ tags:                               #标签
 
 <center>皇帝的下载链接</center>
 
-[<font color="#FFFFFF">点一下</font>](https://drive.google.com/file/d/1yZ0ookbTfq8M4fVl0CDQHeEJuYIfiWh-/view?usp=sharing)
+[<font color="#FFFFFF">点一下</font>](https://share.zhangyiming748.workers.dev/%25E8%258A%25B1%25E7%25B2%2589/deepin_huawei_iso-v1.7-2.zip)
