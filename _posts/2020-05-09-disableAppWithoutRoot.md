@@ -158,8 +158,6 @@ adb shell pm disable-user com.huawei.phoneservice   会员服务
 adb shell pm disable-user com.android.packageinstaller  (打包安装程序)自测不能停
 adb shell pm disable-user com.huawei.android.hwpay  (华为钱包安全支付)停用
 adb shell pm disable-user com.vmall.client  (华为商城)删
-
-下面自己tia
 adb shell pm disable-user com.huawei.android.findmyphone   找回手机
 adb shell pm disable-user com.huawei.watch.sync   手表同步
 adb shell pm disable-user com.huawei.camera  (相机)
@@ -229,8 +227,8 @@ adb shell pm disable-user com.android.dreams.basic  (基本互动屏保)停用
 adb shell pm disable-user com.android.incallui  (拨号)
 adb shell pm disable-user com.huawei.systemmanager  (手机管家)虽然半残,但停用将影响服务 自测不能停
 adb shell pm disable-user com.android.inputdevices  (输入设备)
-adb shell pm disable-user com.huawei.yellowpage  (在线黄页)删\深度集成在通讯录内
-/vendor/app/gnss_supl20service_hisi/gnss_supl20service_hisi.apk=adb shell pm disable-user com.android.supl
+adb shell pm disable-user com.huawei.yellowpage  (在线黄页)深度集成在通讯录内
+adb shell pm disable-user com.android.supl
 adb shell pm disable-user com.huawei.hilink.framework
 adb shell pm disable-user com.google.android.webview
 adb shell pm disable-user com.huawei.HwMultiScreenShot  (滚动截屏)
@@ -266,11 +264,9 @@ adb shell pm disable-user com.huawei.mmitest
 adb shell pm disable-user com.android.apps.tag  (标记)停用
 adb shell pm disable-user com.qeexo.smartshot  (智能截屏)
 adb shell pm disable-user com.android.settings
-adb shell pm disable-user com.szzc.ucar.pilot  (神州租车)删
 adb shell pm disable-user com.android.calculator2  (计算器)
 adb shell pm disable-user com.autonavi.minimap  (高德地图)删
 adb shell pm disable-user com.huawei.android.projectmenu  (工程菜单)
-ctrip.android.view  (携程旅行)删
 adb shell pm disable-user com.android.cts.ctsshim
 adb shell pm disable-user com.huawei.android.pushagent  (推送服务)停用
 adb shell pm disable-user com.huawei.geofence  (地理围栏)
@@ -297,5 +293,15 @@ adb shell pm disable-user com.huawei.lbs  (HwLBSService)
 adb shell pm disable-user com.android.bluetooth  (蓝牙)
 adb shell pm disable-user com.android.providers.contacts  (联系人存储)
 adb shell pm disable-user com.android.captiveportallogin
-adb shell pm disable-user com.huawei.android.airsharing  (多屏互动)停用
+adb shell pm disable-user com.huawei.android.airsharing (多屏互动)停用
+adb shell pm disable-user com.huawei.himovie (华为视频)
+adb shell pm disable-user com.huawei.browser (华为浏览器)
+adb shell pm disable-user com.huawei.health (运动健康)
+adb shell pm disable-user com.android.mediacenter (音乐播放器)
+adb shell pm disable-user com.huawei.android.thememanager (华为主题)
+adb shell pm disable-user com.huawei.hwireader (华为阅读)
+adb shell pm disable-user com.huawei.hifolder (精品推荐)
+adb shell pm disable-user com.huawei.android.findmyphone (查找手机)
+adb shell pm disable-user com.android.stk （sim卡应用）
+adb shell pm disable-user com.huawei.search （下拉搜索）
 ```
