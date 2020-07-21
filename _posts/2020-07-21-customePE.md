@@ -12,6 +12,7 @@ tags:                               #标签
 
 
 使用Ventoy制作多合一启动盘,支持legacy和uefi启动
+[![UozddH.png](https://s1.ax1x.com/2020/07/21/UozddH.png)](https://imgchr.com/i/UozddH)
 ----
 
 已经整合的镜像:
