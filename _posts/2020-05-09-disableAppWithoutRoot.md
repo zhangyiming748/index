@@ -302,6 +302,6 @@ adb shell pm disable-user com.huawei.android.thememanager (华为主题)
 adb shell pm disable-user com.huawei.hwireader (华为阅读)
 adb shell pm disable-user com.huawei.hifolder (精品推荐)
 adb shell pm disable-user com.huawei.android.findmyphone (查找手机)
-adb shell pm disable-user com.android.stk （sim卡应用）
-adb shell pm disable-user com.huawei.search （下拉搜索）
+adb shell pm disable-user com.android.stk (sim卡应用)
+adb shell pm disable-user com.huawei.search (下拉搜索)
 ```
