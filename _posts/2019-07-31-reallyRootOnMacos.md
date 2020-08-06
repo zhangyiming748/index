@@ -7,7 +7,7 @@ author:     Base on Xie Bruce                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: False                       # 是否归档
 tags:                               #标签
-    - Macintosh OS
+    - macOS
 ---
 
 [这是原文地址](https://www.xiebruce.top/809.html/comment-page-1#comment-289)

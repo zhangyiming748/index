@@ -7,7 +7,7 @@ author:     Base on ITHome                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: False                       # 是否归档
 tags:                               #标签
-    - Macintosh OS
+    - macOS
 ---
 其实相较于Windows,macOS整天哪哪都需要验证密码,更不容易忘,但这不是连MacBook Air都有指纹识别了嘛,忘记密码的风险也就大了一些,了解一些技巧或多一手准备还是很有必要的.
 和Windows一样,方法很多,Command + R + Terminal + resetpassword.对不对呢,也对,可以解决问题,但并非是所有情况下的最优解.下面和大家分享几种解决方案.
