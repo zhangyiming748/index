@@ -1,10 +1,10 @@
 ---
 layout:     post                    # 使用的布局(不需要改)
 title:      安装系统提示应用程序副本已损坏的解决方法             # 标题
-subtitle:   我真的很喜欢你 但我没钱 本来今天想把ipad卖了给你买七夕礼物 但海底捞服务员不让还让我滚出去 #副标题
+subtitle:   我是一只被禁足的安小鸟 #副标题
 date:       2020-08-25 00:00:00 GMT+0800             # 时间
 author:     Zen                 # 作者
-header-img: img/photo/jiuzhaigou.webp    #这篇文章标题背景图片
+header-img: img/photo/birdAngle.webp    #这篇文章标题背景图片
 catalog: False                     # 是否归档
 tags:                               #标签
     - macOS
