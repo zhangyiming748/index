@@ -9,7 +9,9 @@ catalog: True                   # 是否归档
 tags:                               #标签
     - 华为
 ---
-
+# 插播
+健康使用手机/学生模式只能卸载不能禁用
+----
 有时候华为推送的新版本并不能适合所有人的使用需求,这就会导致某些用户希望停留在较低版本(包括我),但是每次连接wifi都会跳出升级提示,比较不方便.
 
 此命令针对 Android 6.0及以下版本并未做尝试,如有基友尝试成功请在issue中告知
@@ -302,6 +304,6 @@ adb shell pm disable-user com.huawei.android.thememanager (华为主题)
 adb shell pm disable-user com.huawei.hwireader (华为阅读)
 adb shell pm disable-user com.huawei.hifolder (精品推荐)
 adb shell pm disable-user com.huawei.android.findmyphone (查找手机)
-adb shell pm disable-user com.android.stk （sim卡应用）
-adb shell pm disable-user com.huawei.search （下拉搜索）
+adb shell pm disable-user com.android.stk (sim卡应用)
+adb shell pm disable-user com.huawei.search (下拉搜索)
 ```

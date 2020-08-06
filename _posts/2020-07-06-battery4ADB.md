@@ -21,12 +21,12 @@ Current Battery Service state:
   Max charging current: 0 #最大充电电流
   Max charging voltage: 0 #最大充电电压
   Charge counter: 44000 # 充电计数
-  status: 5 #电池状态：2：充电状态 ，其他数字为非充电状态
-  health: 2 #电池健康状态：只有数字2表示good
+  status: 5 #电池状态:2:充电状态 ,其他数字为非充电状态
+  health: 2 #电池健康状态:只有数字2表示good
   present: true #电池是否安装在机身
   level: 100 #电量: 百分比
   scale: 100
   voltage: 4399 #电池电压
-  temperature: 350 #电池温度，单位是0.1摄氏度
+  temperature: 350 #电池温度,单位是0.1摄氏度
   technology: Li-poly #电池种类
 ```
