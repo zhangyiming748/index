@@ -33,3 +33,6 @@ Catalina每隔一段时间就会自动提示更新,系统更新图标上会显�
 `defaults write com.apple.systempreferences AttentionPrefBundleIDs 0 `
 
 `killall Dock`
+7. 恢复
+
+`sudo /usr/sbin/softwareupdate --reset-ignored`
