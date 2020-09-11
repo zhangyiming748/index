@@ -11,7 +11,7 @@ tags:                               #标签
 ---
 
 + 插上磁盘
-![wNKJVe.png](https://s1.ax1x.com/2020/09/11/wNKJVe.png "桌面上会出现盘符，但这样打开只能读不能写")
+![wNKJVe.png](https://s1.ax1x.com/2020/09/11/wNKJVe.png "桌面上会出现盘符,但这样打开只能读不能写")
 + 打开终端
 ![wNM1Wn.png](https://s1.ax1x.com/2020/09/11/wNM1Wn.png "查看磁盘的 Name")
 <center>如图Elements就是我磁盘的Name</center>
@@ -27,4 +27,4 @@ tags:                               #标签
 + 卸载磁盘
 ![wNG8SJ.png](https://s1.ax1x.com/2020/09/11/wNG8SJ.png "或者直接用命令卸载")
 + 缺点
-磁盘的省电功能不可用，通电过程中不会休眠，即使长时间未读写
+磁盘的省电功能不可用,通电过程中不会休眠,即使长时间未读写
