@@ -15,7 +15,7 @@ tags:                               #标签
 + 打开终端
 ![wNM1Wn.png](https://s1.ax1x.com/2020/09/11/wNM1Wn.png "查看磁盘的 Name")
 <center>如图Elements就是我磁盘的Name</center>
-+ 然后打开终端
++ 然后打开vim
 ![wNQ2j0.png](https://s1.ax1x.com/2020/09/11/wNQ2j0.png "sudo vim /etc/fstab")
 + 写入指令
 ![wNleUg.png](https://s1.ax1x.com/2020/09/11/wNleUg.png "LABEL=Elements	none	ntfs	rw,auto,nobrowse")
