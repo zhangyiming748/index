@@ -34,3 +34,10 @@ CET4至今未过
 ![Jpg5dI.jpg](https://s1.ax1x.com/2020/04/14/Jpg5dI.jpg)<center>顺便安装了一个工具手机远程拍摄,照相机是佳能SX710 HS</center>
 
 [视频中涉及到的软件](https://drive.google.com/file/d/169D6Cn0iV-M0dSqn0TL6dds-sMBZCnwV/view?usp=sharing)
+
+然而,今年9.25之后,Google把车门焊死了,辗转反侧找到另一个教程,理论上可以用于emui10.1
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_hNg2NiomHg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[视频中涉及到的软件](https://drive.google.com/file/d/1XavsWoL6tOz8CtRK1i1MHOh3xpkFIG3Y/view?usp=sharing)
