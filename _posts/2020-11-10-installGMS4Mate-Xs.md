@@ -7,7 +7,7 @@ author:     zen                      # 作者
 header-img: img/photo/birdAngle.webp     #这篇文章标题背景图片
 catalog: False                       # 是否归档
 tags:                               #标签
-    - 操作系统
+    - 华为
 ---
 理论上适用于2020年6月22日后的设备(P40系列,Mate40系列,Mate X/Xs)
 仅在EMUI10上进行过测试
