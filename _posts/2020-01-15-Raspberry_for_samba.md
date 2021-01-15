@@ -13,9 +13,9 @@ tags:                               #标签
 1. 首先设置硬盘的自动挂载
   我的设备是从旧电脑上拆下来的NGFF固态硬盘,设备文件名`/dev/sda`,分区`sda1`已经格式化为`ext4`
 
-  首先手动挂载一遍`sudo mount /dev/sda1 /mnt`(如果已经被自动挂载需要先卸载，自动挂载点文件路径太长)
+  首先手动挂载一遍`sudo mount /dev/sda1 /mnt`(如果已经被自动挂载需要先卸载,自动挂载点文件路径太长)
 
-  接下来打开`/etc/fstab`添加一行`/dev/sda1 /mnt  ext4  defaults  0 0`然后`mount -a`验证一下写的没问题（否则开机进入emergency环境）之后重启
+  接下来打开`/etc/fstab`添加一行`/dev/sda1 /mnt  ext4  defaults  0 0`然后`mount -a`验证一下写的没问题(否则开机进入emergency环境)之后重启
 2. 确保没有问题后卸载设备进行samba安装
   安装samba程序`sudo apt-get install samba samba-common-bin`
   安装过程中如果提示需要安装额外的包选择`yes`
