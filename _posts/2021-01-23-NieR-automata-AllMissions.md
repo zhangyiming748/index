@@ -1,8 +1,8 @@
 ---
 layout:     post                    # 使用的布局(不需要改)
-title:      尼尔自动人形27个结局             # 标题
+title:      尼尔自动人形60个支线任务             # 标题
 subtitle:   我是一只被禁足的安小鸟 #副标题
-date:       2021-01-23 00:00:00 GMT+0800             # 时间
+date:       2021-01-23 00:01:00 GMT+0800             # 时间
 author:     Zen                 # 作者
 header-img: img/photo/birdAngle.webp    #这篇文章标题背景图片
 catalog: False                   # 是否归档
