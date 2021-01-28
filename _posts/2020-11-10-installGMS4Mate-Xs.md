@@ -13,6 +13,12 @@ tags:                               #标签
 仅在EMUI10上进行过测试
 
 ----
+
+[![ySbNSf.jpg](https://s3.ax1x.com/2021/01/28/ySbNSf.jpg)](https://imgchr.com/i/ySbNSf)
+<center>到底是你不行还是教程不行,群众的眼睛是雪亮的</center>
+
+<hr>
+
 [以下教程中需要用到的工具](https://1drv.ms/u/s!AiE-m9GZtVO8jv1KxZ_aNzn0gzifQw?e=tCIolm)
 1. 安装之前的准备
 如果之前安装过(无论成功与否),需要[彻底清理](https://1drv.ms/u/s!AiE-m9GZtVO8jv1M-dPPeV8VEQDYbQ?e=AbetLl)并且
