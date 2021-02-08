@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,radio=true ,CRI 环球资讯广播 FM90.5
+#EXTINF:-1 ,radio=true ,CRI 环球资讯广播
 http://live.xmcdn.com/live/1040/64.m3u8
-#EXTINF:-1 ,radio=true ,CRI 环球资讯广播 FM90.5
+#EXTINF:-1 ,radio=true ,CRI 环球资讯广播
 http://ls.qingting.fm/live/24035.m3u8
 #EXTINF:-1 ,radio=true ,CRI 中文环球广播
 http://live.xmcdn.com/live/1043/64.m3u8
@@ -19,15 +19,15 @@ http://live.xmcdn.com/live/1055/64.m3u8
 http://live.xmcdn.com/live/1052/64.m3u8
 #EXTINF:-1 ,radio=true ,CRI 闽南之音
 http://ls.qingting.fm/live/1002.m3u8
-#EXTINF:-1 ,radio=true ,CRI Hit FM FM88.7
+#EXTINF:-1 ,radio=true ,CRI Hit FM
 http://live.xmcdn.com/live/75/64.m3u8
-#EXTINF:-1 ,radio=true ,CRI Hit FM FM88.7
+#EXTINF:-1 ,radio=true ,CRI Hit FM
 http://ls.qingting.fm/live/1007.m3u8
-#EXTINF:-1 ,radio=true ,CRI 轻松调频 FM91.5
+#EXTINF:-1 ,radio=true ,CRI 轻松调频
 http://live.xmcdn.com/live/1042/64.m3u8
-#EXTINF:-1 ,radio=true ,CRI 轻松调频 FM91.5
+#EXTINF:-1 ,radio=true ,CRI 轻松调频
 http://ls.qingting.fm/live/1006.m3u8
-#EXTINF:-1 ,radio=true ,CRI NEWS Plus AM846
+#EXTINF:-1 ,radio=true ,CRI NEWS Plus
 http://ls.qingting.fm/live/4584.m3u8
 #EXTINF:-1 ,radio=true ,CNR 经济之声
 http://live.xmcdn.com/live/1066/64.m3u8
@@ -41,9 +41,9 @@ http://ls.qingting.fm/live/386.m3u8
 http://live.xmcdn.com/live/12/64.m3u8
 #EXTINF:-1 ,radio=true ,CNR 音乐之声
 http://ls.qingting.fm/live/388.m3u8
-#EXTINF:-1 ,radio=true ,CNR 经典音乐广播 101.8
+#EXTINF:-1 ,radio=true ,CNR 经典音乐广播
 http://live.xmcdn.com/live/13/64.m3u8
-#EXTINF:-1 ,radio=true ,CNR 经典音乐广播 101.8
+#EXTINF:-1 ,radio=true ,CNR 经典音乐广播
 http://ls.qingting.fm/live/389.m3u8
 #EXTINF:-1 ,radio=true ,CNR 中华之声
 http://live.xmcdn.com/live/14/64.m3u8
@@ -85,276 +85,276 @@ http://ls.qingting.fm/live/398.m3u8
 http://live.xmcdn.com/live/45/64.m3u8
 #EXTINF:-1 ,radio=true ,CNR 中国交通广播
 http://ls.qingting.fm/live/4985.m3u8
-#EXTINF:-1 ,radio=true ,CNR 中华之声 (Opt-1)
+#EXTINF:-1 ,radio=true ,CNR 中华之声1
 http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 中华之声 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 中华之声2
 http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 中国之声 (Opt-1)
+#EXTINF:-1 ,radio=true ,CNR 中国之声1
 http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 中国之声 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 中国之声2
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 中国乡村之声 (Opt-1)
+#EXTINF:-1 ,radio=true ,CNR 中国乡村之声1
 http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 中国乡村之声 (Opt-3)
+#EXTINF:-1 ,radio=true ,CNR 中国乡村之声3
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 中国交通广播 (Opt-1)
+#EXTINF:-1 ,radio=true ,CNR 中国交通广播1
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 中国交通广播 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 中国交通广播2
 http://ngcdn016.cnr.cn/live/gsgljtgb48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 华夏之声 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 华夏之声2
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 华夏之声 (Opt-3)
+#EXTINF:-1 ,radio=true ,CNR 华夏之声3
 http://ngcdn007.cnr.cn/live/hxzs48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 哈语广播 (Opt-1)
+#EXTINF:-1 ,radio=true ,CNR 哈语广播1
 http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 哈语广播 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 哈语广播2
 http://ngcdn025.cnr.cn/live/hygb48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 娱乐广播 (Opt-1)
+#EXTINF:-1 ,radio=true ,CNR 娱乐广播1
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 娱乐广播 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 娱乐广播2
 http://ngcdn014.cnr.cn/live/ylgb48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 文艺之声 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 文艺之声2
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 文艺之声 (Opt-3)
+#EXTINF:-1 ,radio=true ,CNR 文艺之声3
 http://ngcdn010.cnr.cn/live/wyzs48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 神州之声 (Opt-1)
+#EXTINF:-1 ,radio=true ,CNR 神州之声1
 http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 神州之声 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 神州之声2
 http://ngcdn006.cnr.cn/live/szzs48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 经典音乐广播 101.8 (Opt-1)
+#EXTINF:-1 ,radio=true ,CNR 经典音乐广播1
 http://ngcdn004.cnr.cn/live/dszs48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 经典音乐广播 101.8 (Opt-3)
+#EXTINF:-1 ,radio=true ,CNR 经典音乐广播3
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 经济之声 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 经济之声2
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 经济之声 (Opt-3)
+#EXTINF:-1 ,radio=true ,CNR 经济之声3
 http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 维语广播 (Opt-1)
+#EXTINF:-1 ,radio=true ,CNR 维语广播1
 http://ngcdn013.cnr.cn/live/wygb48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 维语广播 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 维语广播2
 http://ngcdn013.cnr.cn/live/wygb/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 老年之声 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 老年之声2
 http://ngcdn011.cnr.cn/live/lnzs48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 老年之声 (Opt-3)
+#EXTINF:-1 ,radio=true ,CNR 老年之声3
 http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 藏语广播 (Opt-1)
+#EXTINF:-1 ,radio=true ,CNR 藏语广播1
 http://ngcdn012.cnr.cn/live/zygb/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 藏语广播 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 藏语广播2
 http://ngcdn012.cnr.cn/live/zygb48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 音乐之声 (Opt-2)
+#EXTINF:-1 ,radio=true ,CNR 音乐之声2
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 音乐之声 (Opt-3)
+#EXTINF:-1 ,radio=true ,CNR 音乐之声3
 http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 香港之声 (Opt-1)
+#EXTINF:-1 ,radio=true ,CNR 香港之声1
 http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8
-#EXTINF:-1 ,radio=true ,CNR 香港之声 (Opt-3)
+#EXTINF:-1 ,radio=true ,CNR 香港之声3
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1 ,radio=true ,CRI Easy FM – FM91.5
-http://sk.cri.cn/915.m3u8
-#EXTINF:-1 ,radio=true ,CRI Hit FM FM88.7 (Opt-1)
+#EXTINF:-1 ,radio=true ,CRI Easy FM
+#EXTINF:-1 ,radio=true ,CRI Hit FM1
 http://sk.cri.cn/887.m3u8
-#EXTINF:-1 ,radio=true ,CRI NEWS Plus AM1008 (Opt-2)
+#EXTINF:-1 ,radio=true ,CRI NEWS Plus2
 http://sk.cri.cn/am1008.m3u8
-#EXTINF:-1 ,radio=true ,CRI NEWS Plus AM846
+#EXTINF:-1 ,radio=true ,CRI NEWS Plus
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 ,radio=true ,CRI 中文环球广播 (Opt-2)
+#EXTINF:-1 ,radio=true ,CRI 中文环球广播2
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 ,radio=true ,CRI 南海之声 (Opt-2)
+#EXTINF:-1 ,radio=true ,CRI 南海之声2
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 ,radio=true ,CRI 客家之声
 http://sk.cri.cn/hakka.m3u8
-#EXTINF:-1 ,radio=true ,CRI 环球资讯广播 FM90.5 (Opt-2)
+#EXTINF:-1 ,radio=true ,CRI 环球资讯广播2
 http://sk.cri.cn/905.m3u8
-#EXTINF:-1 ,radio=true ,CRI 闽南之音 (Opt-2)
+#EXTINF:-1 ,radio=true ,CRI 闽南之音2
 http://sk.cri.cn/minnan.m3u8
-#EXTINF:-1 ,radio=true ,当涂人民广播电台 FM90.1
+#EXTINF:-1 ,radio=true ,当涂人民广播电台
 http://ls.qingting.fm/live/78237.m3u8
-#EXTINF:-1 ,radio=true ,北京新闻广播 FM100.6
+#EXTINF:-1 ,radio=true ,北京新闻广播
 http://ls.qingting.fm/live/339.m3u8
-#EXTINF:-1 ,radio=true ,北京音乐广播 FM97.4
+#EXTINF:-1 ,radio=true ,北京音乐广播
 http://live.xmcdn.com/live/95/64.m3u8
-#EXTINF:-1 ,radio=true ,北京音乐广播 FM97.4
+#EXTINF:-1 ,radio=true ,北京音乐广播
 http://ls.qingting.fm/live/332.m3u8
-#EXTINF:-1 ,radio=true ,北京交通广播 FM103.9
+#EXTINF:-1 ,radio=true ,北京交通广播
 http://live.xmcdn.com/live/93/64.m3u8
-#EXTINF:-1 ,radio=true ,北京交通广播 FM103.9
+#EXTINF:-1 ,radio=true ,北京交通广播
 http://ls.qingting.fm/live/336.m3u8
-#EXTINF:-1 ,radio=true ,北京文艺广播 FM87.6
+#EXTINF:-1 ,radio=true ,北京文艺广播
 http://live.xmcdn.com/live/94/64.m3u8
-#EXTINF:-1 ,radio=true ,北京文艺广播 FM87.6
+#EXTINF:-1 ,radio=true ,北京文艺广播
 http://ls.qingting.fm/live/333.m3u8
-#EXTINF:-1 ,radio=true ,北京欢乐时光 FM106.5
+#EXTINF:-1 ,radio=true ,北京欢乐时光
 http://live.xmcdn.com/live/107/64.m3u8
-#EXTINF:-1 ,radio=true ,北京欢乐时光 FM106.5
+#EXTINF:-1 ,radio=true ,北京欢乐时光
 http://ls.qingting.fm/live/341.m3u8
-#EXTINF:-1 ,radio=true ,北京怀旧金曲 FM107.5
+#EXTINF:-1 ,radio=true ,北京怀旧金曲
 http://live.xmcdn.com/live/102/64.m3u8
-#EXTINF:-1 ,radio=true ,北京怀旧金曲 FM107.5
+#EXTINF:-1 ,radio=true ,北京怀旧金曲
 http://ls.qingting.fm/live/340.m3u8
-#EXTINF:-1 ,radio=true ,北京古典音乐 FM98.6
+#EXTINF:-1 ,radio=true ,北京古典音乐
 http://live.xmcdn.com/live/99/64.m3u8
-#EXTINF:-1 ,radio=true ,北京古典音乐 FM98.6
+#EXTINF:-1 ,radio=true ,北京古典音乐
 http://ls.qingting.fm/live/344.m3u8
-#EXTINF:-1 ,radio=true ,北京教学广播 FM99.4
+#EXTINF:-1 ,radio=true ,北京教学广播
 http://live.xmcdn.com/live/104/64.m3u8
-#EXTINF:-1 ,radio=true ,北京教学广播 FM99.4
+#EXTINF:-1 ,radio=true ,北京教学广播
 http://ls.qingting.fm/live/338.m3u8
-#EXTINF:-1 ,radio=true ,北京长书广播 FM104.3
+#EXTINF:-1 ,radio=true ,北京长书广播
 http://live.xmcdn.com/live/105/64.m3u8
-#EXTINF:-1 ,radio=true ,北京长书广播 FM104.3
+#EXTINF:-1 ,radio=true ,北京长书广播
 http://ls.qingting.fm/live/342.m3u8
-#EXTINF:-1 ,radio=true ,北京戏曲曲艺 FM105.1
+#EXTINF:-1 ,radio=true ,北京戏曲曲艺
 http://live.xmcdn.com/live/106/64.m3u8
-#EXTINF:-1 ,radio=true ,北京戏曲曲艺 FM105.1
+#EXTINF:-1 ,radio=true ,北京戏曲曲艺
 http://ls.qingting.fm/live/343.m3u8
-#EXTINF:-1 ,radio=true ,北京房山经典音乐 FM96.9
+#EXTINF:-1 ,radio=true ,北京房山经典音乐
 http://live.xmcdn.com/live/963/64.m3u8
-#EXTINF:-1 ,radio=true ,北京房山经典音乐 FM96.9
+#EXTINF:-1 ,radio=true ,北京房山经典音乐
 http://ls.qingting.fm/live/68746.m3u8
-#EXTINF:-1 ,radio=true ,北京好音乐 FM95.9
+#EXTINF:-1 ,radio=true ,北京好音乐
 http://ls.qingting.fm/live/2131011.m3u8
-#EXTINF:-1 ,radio=true ,海南交通广播 FM100
+#EXTINF:-1 ,radio=true ,海南交通广播
 http://ls.qingting.fm/live/4911.m3u8
-#EXTINF:-1 ,radio=true ,海南国际旅游之声 FM103.8
+#EXTINF:-1 ,radio=true ,海南国际旅游之声
 http://ls.qingting.fm/live/1862.m3u8
-#EXTINF:-1 ,radio=true ,海南新闻广播 FM88.6
+#EXTINF:-1 ,radio=true ,海南新闻广播
 http://ls.qingting.fm/live/1861.m3u8
-#EXTINF:-1 ,radio=true ,海南民生广播 FM101
+#EXTINF:-1 ,radio=true ,海南民生广播
 http://ls.qingting.fm/live/1511803.m3u8
-#EXTINF:-1 ,radio=true ,海南音乐广播 FM94.5
+#EXTINF:-1 ,radio=true ,海南音乐广播
 http://ls.qingting.fm/live/4878.m3u8
 #EXTINF:-1 ,radio=true ,海口音乐广播
 http://ls.qingting.fm/live/23859.m3u8
-#EXTINF:-1 ,radio=true ,龙广乡村广播 AM945
+#EXTINF:-1 ,radio=true ,龙广乡村广播
 http://stream3.hljtv.com/hljrdnc/sd/live.m3u8
-#EXTINF:-1 ,radio=true ,龙广乡村广播 AM945
+#EXTINF:-1 ,radio=true ,龙广乡村广播
 http://ls.qingting.fm/live/4977.m3u8
-#EXTINF:-1 ,radio=true ,龙广交通广播 FM99.8
+#EXTINF:-1 ,radio=true ,龙广交通广播
 http://ls.qingting.fm/live/4973.m3u8
-#EXTINF:-1 ,radio=true ,龙广北大荒之声 FM104.6
+#EXTINF:-1 ,radio=true ,龙广北大荒之声
 http://stream3.hljtv.com/hljrdgx/sd/live.m3u8
-#EXTINF:-1 ,radio=true ,龙广新闻广播 FM94.6
+#EXTINF:-1 ,radio=true ,龙广新闻广播
 http://stream3.hljtv.com/hljrdjt/sd/live.m3u8
-#EXTINF:-1 ,radio=true ,龙广新闻广播 FM94.6
+#EXTINF:-1 ,radio=true ,龙广新闻广播
 http://ls.qingting.fm/live/4974.m3u8
-#EXTINF:-1 ,radio=true ,龙广朝鲜语广播 AM873
+#EXTINF:-1 ,radio=true ,龙广朝鲜语广播
 http://stream3.hljtv.com/hljrdcy/sd/live.m3u8
-#EXTINF:-1 ,radio=true ,龙广青苹果之声 FM104.6
+#EXTINF:-1 ,radio=true ,龙广青苹果之声
 http://ls.qingting.fm/live/4976.m3u8
-#EXTINF:-1 ,radio=true ,龙广音乐广播 FM95.8
+#EXTINF:-1 ,radio=true ,龙广音乐广播
 http://stream3.hljtv.com/hljrdnx/sd/live.m3u8
-#EXTINF:-1 ,radio=true ,龙广音乐广播 FM95.8
+#EXTINF:-1 ,radio=true ,龙广音乐广播
 http://ls.qingting.fm/live/4969.m3u8
-#EXTINF:-1 ,radio=true ,龙广女性广播 FM102.1
+#EXTINF:-1 ,radio=true ,龙广女性广播
 http://stream3.hljtv.com/hljrdnx/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" tvg-country="CN" tvg-url="" group-title="",Blue 美剧频道
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV-1 综合
+http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV-1 综合
+http://117.169.120.140:8080/live/cctv-1/.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV-1 综合
+http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV-1 综合
+http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV-1 综合
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-2 财经
+http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-2 财经
+http://117.169.120.140:8080/live/cctv-2/.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-2 财经
+http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-2 财经
+http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-2 财经
+http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-2 财经
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV-3 综艺
+http://117.169.120.140:8080/live/cctv-3/.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV-3 综艺
+http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV-3 综艺
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV-4 中文国际
+http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV-4 中文国际
+http://117.169.120.140:8080/live/cctv-4/.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV-4 中文国际
+http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV-5 体育
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV-5 体育
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV-5+ 体育赛事
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV-5+ 体育赛事
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV-6 电影
+http://117.169.120.140:8080/live/cctv-6/.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV-6 电影
+http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV-6 电影
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-7 国防军事
+http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-7 国防军事
+http://117.148.187.37/PLTV/88888888/224/3221226470/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-7 国防军事
+http://117.169.120.140:8080/live/cctv-7/.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-7 国防军事
+http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-8 电视剧
+http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-8 电视剧
+http://117.169.120.140:8080/live/cctv-8/.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-8 电视剧
+http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-8 电视剧
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-8 电视剧
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Documentary",CCTV-9 纪录
+http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Documentary",CCTV-9 纪录
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/HqScjKW.jpg" tvg-country="CN" tvg-url="" group-title="",CCTV 3
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" tvg-country="CN" tvg-url="" group-title="",CCTV 4
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/OkLtNrC.jpg" tvg-country="CN" tvg-url="" group-title="",CCTV-8
 http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-1 综合
-http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-1 综合
-http://117.169.120.140:8080/live/cctv-1/.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-1 综合
-http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-1 综合
-http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-1 综合
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Education",CCTV中国中央电视台-10 科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Education",CCTV-10 科教
 http://117.169.120.140:8080/live/cctv-10/.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Education",CCTV中国中央电视台-10 科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Education",CCTV-10 科教
 http://121.31.30.90:8085/ysten-business/live/cctv-10/yst.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-11 戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-11 戏曲
 http://117.148.187.37/PLTV/88888888/224/3221226219/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-11 戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-11 戏曲
 http://117.169.120.140:8080/live/cctv-11/.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-11 戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-11 戏曲
 http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-12 社会与法制
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-12 社会与法制
 http://117.148.187.37/PLTV/88888888/224/3221226167/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-12 社会与法制
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-12 社会与法制
 http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV-13 新闻
 http://117.148.187.37/PLTV/88888888/224/3221226193/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV-13 新闻
 http://117.169.120.140:8080/live/cctv-13/.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV-13 新闻
 http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV-14 少儿
 http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV-14 少儿
 http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV-14 少儿
 http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV-14 少儿
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV-15 音乐
 http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-2 财经
-http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-2 财经
-http://117.169.120.140:8080/live/cctv-2/.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-2 财经
-http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-2 财经
-http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-2 财经
-http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-2 财经
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
-http://117.169.120.140:8080/live/cctv-3/.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
-http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-4 中文国际
-http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-4 中文国际
-http://117.169.120.140:8080/live/cctv-4/.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-4 中文国际
-http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
-http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
-http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
-http://117.169.120.140:8080/live/cctv-6/.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
-http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-7 国防军事
-http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-7 国防军事
-http://117.148.187.37/PLTV/88888888/224/3221226470/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-7 国防军事
-http://117.169.120.140:8080/live/cctv-7/.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-7 国防军事
-http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-8 电视剧
-http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-8 电视剧
-http://117.169.120.140:8080/live/cctv-8/.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-8 电视剧
-http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-8 电视剧
-http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-8 电视剧
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Documentary",CCTV中国中央电视台-9 纪录
-http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Documentary",CCTV中国中央电视台-9 纪录
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CGTN (720p)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/509_300.png" tvg-country="CN" tvg-url="" group-title="",CGTN 1
