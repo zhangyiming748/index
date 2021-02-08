@@ -5,7 +5,7 @@ subtitle:   我是一只被禁足的安小鸟 #副标题
 date:       2020-11-10  08:00:00            # 时间
 author:     zen                      # 作者
 header-img: img/photo/birdAngle.webp     #这篇文章标题背景图片
-catalog: False                       # 是否归档
+catalog: True                       # 是否归档
 tags:                               #标签
     - 华为
 ---
