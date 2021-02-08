@@ -40,6 +40,8 @@ tags:                               #标签
 
 [![ySoPU0.png](https://s3.ax1x.com/2021/01/28/ySoPU0.png)](https://imgchr.com/i/ySoPU0)
 
+[![yUz8C4.jpg](https://s3.ax1x.com/2021/02/08/yUz8C4.jpg)](https://imgchr.com/i/yUz8C4)
+
 [![ySoeKJ.png](https://s3.ax1x.com/2021/01/28/ySoeKJ.png)](https://imgchr.com/i/ySoeKJ)
 
 [![yS7X8K.jpg](https://s3.ax1x.com/2021/01/28/yS7X8K.jpg)](https://imgchr.com/i/yS7X8K)
