@@ -5,7 +5,7 @@ subtitle:   我是一只被禁足的安小鸟 #副标题
 date:       2021-02-20  00:00:00 GMT+0800             # 时间
 author:     Zen                 # 作者
 header-img: img/photo/birdAngle.webp    #这篇文章标题背景图片
-catalog: False                  # 是否归档
+catalog: True                  # 是否归档
 tags:                               #标签
     - 技巧
 ---
@@ -32,4 +32,4 @@ Windows10自带了一些软件如`人脉` `闹钟和时钟` `获取帮助`等一
 |Windows 相机|Windows 相机|	Microsoft.WindowsCamera_2020.902.20.0_x64__8wekyb3d8bbwe|	Microsoft.WindowsCamera_8wekyb3d8bbwe|
 |Windows 闹钟和时钟|Windows 闹钟和时钟|	Microsoft.WindowsAlarms_10.2009.5.0_x64__8wekyb3d8bbwe|	microsoft.windowsalarms_8wekyb3d8bbwe|
 
-就不一一列举了，相差的人自然会查到
+就不一一列举了，想查的人自然会查到
