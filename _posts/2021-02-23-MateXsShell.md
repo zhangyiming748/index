@@ -9,6 +9,11 @@ catalog: True                  # 是否归档
 tags:                               #标签
     - 华为
 ---
+
+![测试图片插入](https://imgur.com/a/TTPs5AS)
+----
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/TTPs5AS" data-context="false" ><a href="//imgur.com/a/TTPs5AS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 到了万寿路华为售后说明来意后
 啪的一下,很快啊,售后小哥就从后面拿出来一个手机壳
 [![外包装](https://s3.ax1x.com/2021/02/23/yqhlPU.jpg)](https://imgchr.com/i/yqhlPU)
