@@ -183,7 +183,7 @@ tags:                               #标签
 |对于两个写库,两个请求向分别打到两个写库中,他们互相向对方同步,会不会出现不一致,||
 |哈希的实现有哪几种,如何取hashcode,冲突检测几种方法 ||
 |用过go,那么进程,协程,线程各自的优缺点 ||
-|算法题:遍历二叉树,循环有序数组找指定值 ||
+|算法题:遍历二叉树,循环有序数组找指定值 |[![遍历二叉树](https://z3.ax1x.com/2021/03/25/6O7QjH.png)](https://raw.githubusercontent.com/zhangyiming748/zhangyiming748.github.io/master/code/travers_the_binary_tree.go)|
 |事务是怎么实现的?(undo_log,MVCC) ||
 |mongodb和redis的区别||
 |请你说说golang的CSP思想||
