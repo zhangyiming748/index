@@ -29,7 +29,7 @@ tags:                               #标签
 |GMP 模型||
 |分布式缓存框架,singleflight 并发,深挖,一直挖到sync.WaitGroup ||
 |缓存击穿&缓存雪崩||
-|sync.WaitGroup|常用的有Add、Done、Wait，函数间传递需要传指针|
+|sync.WaitGroup|常用的有Add\Done\Wait,函数间传递需要传指针|
 |cookiesession||
 |设计学生成绩数据库,并写出查询语文成绩top3的人.url输入全过程.从此引出后端除了响应请求还有什么||
 |什么是分布式系统||
