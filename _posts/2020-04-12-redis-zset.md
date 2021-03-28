@@ -7,7 +7,7 @@ author:     Zen                 # 作者
 header-img: img/photo/birdAngle.webp    #这篇文章标题背景图片
 catalog: False                    # 是否归档
 tags:                               #标签
-    - redis学习
+    - Redis
 ---
 
 zset底层的存储结构包括ziplist或skiplist,在同时满足以下两个条件的时候使用ziplist,其他时候使用skiplist,两个条件如下:
