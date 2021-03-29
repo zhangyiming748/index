@@ -25,3 +25,19 @@ tags:                               #标签
 ⌫:delete
 ----
 ⇧+⌘+. == 显示隐藏文件
+
+取消自动开机:
+
+`sudo nvram AutoBoot=%00`
+
+重新启用自动开机:
+
+`sudo nvram AutoBoot=%03`
+
+开启开机音效:
+
+`sudo nvram BootAudio=%01`
+
+取消开机音效:
+
+`sudo nvram BootAudio=%00`
