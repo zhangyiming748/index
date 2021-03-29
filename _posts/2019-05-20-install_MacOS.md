@@ -16,7 +16,7 @@ tags:                               #标签
 这种大版本升级,我总是喜欢干净的全新安装,所以当然是使用USB启动盘来安装全新的系统,当初的系统还是可以直接下载系统制作U盘的,时过境迁,苹果已经不提供单独的镜像下载了,所以这次就来个一劳永逸的方法,老少通吃!
 事前准备:一个大于8G的u盘
 开始制作(以macOS 10.14 Mojave为例)
-+ 需要把u盘格式化为`Mac OS X 扩展（日志式）` `GUID 分区图``
++ 需要把u盘格式化为`Mac OS X 扩展(日志式)` `GUID 分区图``
 1. 下載 macOS High Sierra:
 ![2](https://raw.githubusercontent.com/zhangyiming748/zhangyiming748.github.io/master/img/installMacOS/2.webp)
 2. 下载完成macOS Mojave后按下command(⌘)+ Q关闭跳出来的安装信息
