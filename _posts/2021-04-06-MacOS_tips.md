@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局(不需要改)
-title:      Catalina下关闭Big Sur更新提示             # 标题
+title:      macOS小技巧             # 标题
 subtitle:   我是一只被禁足的安小鸟 #副标题
 date:       2020-12-25 00:00:00 GMT+0800             # 时间
 author:     Zen                 # 作者
