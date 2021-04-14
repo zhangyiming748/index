@@ -10,7 +10,7 @@ tags:                               #标签
     - 华为
 ---
 理论上适用于2020年6月22日后的设备(P40系列,Mate40系列,Mate X/Xs)
-仅在EMUI10上进行过测试
+仅在EMUI10/11上进行过测试
 
 ----
 
@@ -19,14 +19,17 @@ tags:                               #标签
 
 <hr>
 
-[以下教程中需要用到的工具](https://1drv.ms/u/s!AiE-m9GZtVO8jv1KxZ_aNzn0gzifQw?e=tCIolm)
+以下教程中需要用到的工具(百度秒传)
+```
+b0821a4836c8220f782143f9f60152f1#6a84b1cd409c67c63a67125f3b40ee50#531056167#安装全家桶方法.tar.gz
+```
 1. 安装之前的准备
-如果之前安装过(无论成功与否),需要[彻底清理](https://1drv.ms/u/s!AiE-m9GZtVO8jv1M-dPPeV8VEQDYbQ?e=AbetLl)并且
-关闭应用分身
-2. 按照[第一部分视频](https://1drv.ms/v/s!AiE-m9GZtVO8jv1IVSrJcwLFSjbIoA?e=35JCb5)操作后
+如果之前安装过(无论成功与否),需要彻底清理并且关闭应用分身
+2. 按照第一部分视频操作后
 进入设置->安全->更多安全设置->设备管理器->谷歌服务助手
-应该是如下效果,否则从头再做一遍 ![Bq0d2R.jpg](https://s1.ax1x.com/2020/11/10/Bq0d2R.jpg)
-3. 按照[第二部分视频](https://1drv.ms/v/s!AiE-m9GZtVO8jv1LcX38WIHcYom1Bg?e=qbZHkp)操作
+应该是如下效果,否则从头再做一遍
+![Bq0d2R.jpg](https://s1.ax1x.com/2020/11/10/Bq0d2R.jpg)
+3. 按照第二部分视频操作
 4. 最终效果图
 ![BqsGl9.jpg](https://s1.ax1x.com/2020/11/10/BqsGl9.jpg)
 ----
