@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 ,简书1080p
+http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 ,北邮
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
+#EXTINF:-1 ,终极1080p
+http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
+#EXTINF:-1 ,辽宁沈阳移动CCTV5
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225497/index.m3u8
+#EXTINF:-1 ,江苏南京移动CCTV5
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+#EXTINF:-1 ,江西南昌移动CCTV5
+http://223.82.250.72/ysten-business/live/cctv-5/index.m3u8
+#EXTINF:-1 ,重庆联通CCTV-5高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000304?AuthInfo=xxx&userid=
+#EXTINF:-1 ,重庆联通CCTV-5标清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000303?AuthInfo=xxx&userid=
+#EXTINF:-1 ,重庆联通CCTV5＋高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000230?AuthInfo=xxx&userid=
+#EXTINF:-1 ,宁夏银川电信CCTV-5HD
+rtsp://124.224.238.165:554/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil
+#EXTINF:-1 ,宁夏银川电信CCTV5＋HD
+rtsp://124.224.238.165:554/PLTV/88889012/224/3221225943/10000100000000060000000000758560_0.smil
+#EXTINF:-1 ,广电电信CCTV-5＋高清
+rtsp://183.59.32.147:554/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil
+#EXTINF:-1 group-title="央视",CCTV5  
+http://39.135.34.146:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&contentid=1000000001000004794&livemode=1&stbid=005203ff000360100001001a34c0cd33&usertoken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004794&owchid=ystenlive&owsid=1106497909461092492&authinfo=yolxjswzzffv3fvb8mhhuelkgjklbu5h0jb3qahfse7aoraovdzdwbfnj0sxjearfiatofcd93c7ach3puyar1v%2bioi39cfseenlxp5u9ufadu6bcdl7v7ctgkugzw1d
