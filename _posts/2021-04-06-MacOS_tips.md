@@ -12,3 +12,5 @@ tags:                               #标签
 
 # 批量删除macOS读取外部驱动器产生的4k挂载点文件
 `find yourdir/ -size 4k -exec rm -f {} \;`
+# 批量删除macOS自动建立的`.DS_Store`文件
+`sudo find yourdir/ -name ".DS_Store" -depth -exec rm {} \;`
