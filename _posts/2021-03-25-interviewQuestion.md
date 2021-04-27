@@ -43,7 +43,7 @@ tags:                               #标签
 |session如何存储||
 |多台服务器session存储怎么设计||
 |除了存redis还能怎么存||
-|http和https区别|明文传输，安全协议等|
+|http和https区别|明文传输,安全协议等|
 |https详细过程||
 |getpost区别.还有什么其他方法.分别说说是做什么的||
 |web安全问题||
@@ -68,7 +68,7 @@ tags:                               #标签
 |go的调度||
 |go struct能不能比较?|某些情况下可以|
 |go defer(for defer)||
-|select可以用于什么?|控制最大并发，实现超时判断|
+|select可以用于什么?|控制最大并发,实现超时判断|
 |context包的用途?||
 |client如何实现长连接?||
 |主协程如何等其余协程完再操作|wait.group|
