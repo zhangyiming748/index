@@ -7,7 +7,7 @@ author:     Zen                      # 作者
 header-img: img/photo/birdAngle.webp   #这篇文章标题背景图片
 catalog: True                       # 是否归档
 tags:                               #标签
-    - 技巧
+    - Git
 ---
 
 1. 查找域名对应的ip地址
