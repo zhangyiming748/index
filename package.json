@@ -1,7 +1,7 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <zhangyiming748@protonmail.com>",
+    "name": "zen-blog",
+    "title": "Zen Blog",
+    "author": "Zen <zhangyiming748@protonmail.com>",
     "version": "1.7.0",
     "homepage": "http://zhangyiming748.github.io",
     "repository": {
