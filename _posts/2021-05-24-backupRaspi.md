@@ -54,3 +54,25 @@ writing to `/media/pi/Gloway720/backup.img': Input/output error
 备份会生成与硬盘相同大小的IMG文件,我一开始还天真的
 
 `$ sudo dc3dd if=/dev/sda of=/home/pi/backup.img`
+
+用时1h51m25s02mm生成的img文件大小为
+```
+$ du -h backup.img
+120G	backup.img
+```
+
+压缩命令
+`# ./pishrink.sh ../backup.img`
+```
+$ du -h backup.img
+11G	backup.img
+```
+继续压缩
+
+`$ XZ_OPT='-9ek --threads=0' tar -Jcvf backup.img.tar.xz`
+
+得到最终的档案大小
+```
+$ du -h backup.img.tar.xz
+5.8G	backup.img.tar.xz
+```
