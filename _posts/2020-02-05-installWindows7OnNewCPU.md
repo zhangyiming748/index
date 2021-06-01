@@ -19,7 +19,7 @@ ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B585
 + 使用任何你擅长的工具把镜像文件中`resource\install.wim`提取出来
 + 使用[DISM++](http://cdn.chuyu.me/Dism++10.1.1001.10_d4ba4eb035254b3326d6adc6638bc9c8daea7018.zip)或任何你喜欢的方式挂载这个wim包到本机的任意一个空文件夹下,这里要注意你的绝对路径不要含有任何中文和特殊符号
 + 以dism++为例,左侧找到驱动管理(我已经很长时间没用Windows了,不过大概是这个意思)
-+ 把Intel或AMD的XHCL芯片组驱动文件解压添加适合自己的到当前wim下
++ 把Intel或AMD的XHCL芯片组驱动文件[74gt](https://pan.baidu.com/s/1v79zuYaCh6VmdZgm5PQZoQ)解压添加适合自己的到当前wim下
 + dism++ 任务栏找到`卸载映像`此时wim文件处理完毕
 + 解压iso中全部文件为一个文件夹,这里的install.wim替换成刚才制作好的wim
 + 还是以dism++为例,你也可以选择你喜欢的工具(我个人喜欢oscdimg)有个打包镜像的工具,选择这个新文件夹打包,就会生成一个新的iso文件
