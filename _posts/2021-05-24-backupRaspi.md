@@ -76,3 +76,9 @@ $ du -h backup.img
 $ du -h backup.img.tar.xz
 5.8G	backup.img.tar.xz
 ```
+# 测试其他系统
+无法在open Euler系统上通过包管理器安装dc3dd
+无法在open Euler系统上通过编译安装dc3dd
+TF卡插入另一台deb系linux下安装dc3dd打包
+无法通过PiShrink压缩 应该是因为不支持rpm系发行版
+32G卡系统完成手动扩容后使用
