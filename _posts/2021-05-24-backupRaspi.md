@@ -82,3 +82,4 @@ $ du -h backup.img.tar.xz
 TF卡插入另一台deb系linux下安装dc3dd打包
 无法通过PiShrink压缩 应该是因为不支持rpm系发行版
 32G卡系统完成手动扩容后使用
+通过tarxz压缩后文件大小5.78G
