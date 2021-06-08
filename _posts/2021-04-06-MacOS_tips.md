@@ -14,3 +14,5 @@ tags:                               #标签
 `find ./ -size 4k -exec rm -f {} \;`
 # 批量删除macOS自动建立的`.DS_Store`文件
 `find ./ -name ".DS_Store" -depth -exec rm {} \;`
+# 查找并显示文件
+`find ./ -name '*.txt' -print`
