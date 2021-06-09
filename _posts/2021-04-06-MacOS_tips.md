@@ -16,3 +16,7 @@ tags:                               #标签
 `find ./ -name ".DS_Store" -depth -exec rm {} \;`
 # 查找并显示文件
 `find ./ -name '*.txt' -print`
+# 查找指定范围文件
+`find . -type f -mtime -1 -size +100k`
+# 查找空文件
+`find -type d -empty`
