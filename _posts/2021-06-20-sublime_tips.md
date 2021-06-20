@@ -22,3 +22,9 @@ tags:                               #标签
 }
 
 ```
+# 设置Package走代理
+`[Preferences]->[Package Settings]->[Package Control]->[Settings]`
+```
+"http_proxy":"http://127.0.0.1:8889",
+"https_proxy":"http://127.0.0.1:8889",
+```
