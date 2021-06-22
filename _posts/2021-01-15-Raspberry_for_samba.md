@@ -65,4 +65,4 @@ sudo chmod -R ug=rwx,o=rx /mnt/disk
 `sudo smbpasswd -a pi`
 这就是后期用来访问smb服务的用户名和密码
 ## 验证
-![通过其他电脑连接](https://s3.ax1x.com/2021/01/15/sw6IVs.png)
+![通过其他电脑连接](https://z3.ax1x.com/2021/01/15/sw6IVs.png)

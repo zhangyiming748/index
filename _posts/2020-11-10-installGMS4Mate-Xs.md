@@ -14,7 +14,7 @@ tags:                               #标签
 
 ----
 
-[![ySbNSf.jpg](https://s3.ax1x.com/2021/01/28/ySbNSf.jpg)](https://imgchr.com/i/ySbNSf)
+[![ySbNSf.jpg](https://z3.ax1x.com/2021/01/28/ySbNSf.jpg)](https://imgchr.com/i/ySbNSf)
 <center>到底是你不行还是教程不行,群众的眼睛是雪亮的</center>
 
 <hr>
@@ -39,30 +39,30 @@ b0821a4836c8220f782143f9f60152f1#6a84b1cd409c67c63a67125f3b40ee50#531056167#安�
 
 因为这种教程一旦回复量过高就会被风控删帖,仅残留了一部分成功反图和被删帖前的打赏记录,还是那句话,不会就说不会,别说不能,你装不上是你笨,别怪教程不能用
 
-[![ySINNV.png](https://s3.ax1x.com/2021/01/28/ySINNV.png)](https://imgchr.com/i/ySINNV)
+[![ySINNV.png](https://z3.ax1x.com/2021/01/28/ySINNV.png)](https://imgchr.com/i/ySINNV)
 
-[![ySoPU0.png](https://s3.ax1x.com/2021/01/28/ySoPU0.png)](https://imgchr.com/i/ySoPU0)
+[![ySoPU0.png](https://z3.ax1x.com/2021/01/28/ySoPU0.png)](https://imgchr.com/i/ySoPU0)
 
-[![yUz8C4.jpg](https://s3.ax1x.com/2021/02/08/yUz8C4.jpg)](https://imgchr.com/i/yUz8C4)
+[![yUz8C4.jpg](https://z3.ax1x.com/2021/02/08/yUz8C4.jpg)](https://imgchr.com/i/yUz8C4)
 
-[![ySoeKJ.png](https://s3.ax1x.com/2021/01/28/ySoeKJ.png)](https://imgchr.com/i/ySoeKJ)
+[![ySoeKJ.png](https://z3.ax1x.com/2021/01/28/ySoeKJ.png)](https://imgchr.com/i/ySoeKJ)
 
-[![yS7X8K.jpg](https://s3.ax1x.com/2021/01/28/yS7X8K.jpg)](https://imgchr.com/i/yS7X8K)
+[![yS7X8K.jpg](https://z3.ax1x.com/2021/01/28/yS7X8K.jpg)](https://imgchr.com/i/yS7X8K)
 
-[![yS7OC6.jpg](https://s3.ax1x.com/2021/01/28/yS7OC6.jpg)](https://imgchr.com/i/yS7OC6)
+[![yS7OC6.jpg](https://z3.ax1x.com/2021/01/28/yS7OC6.jpg)](https://imgchr.com/i/yS7OC6)
 
-[![yS7jgO.jpg](https://s3.ax1x.com/2021/01/28/yS7jgO.jpg)](https://imgchr.com/i/yS7jgO)
+[![yS7jgO.jpg](https://z3.ax1x.com/2021/01/28/yS7jgO.jpg)](https://imgchr.com/i/yS7jgO)
 
-[![ySHi5t.jpg](https://s3.ax1x.com/2021/01/28/ySHi5t.jpg)](https://imgchr.com/i/ySHi5t)
+[![ySHi5t.jpg](https://z3.ax1x.com/2021/01/28/ySHi5t.jpg)](https://imgchr.com/i/ySHi5t)
 
-[![yS7q4x.jpg](https://s3.ax1x.com/2021/01/28/yS7q4x.jpg)](https://imgchr.com/i/yS7q4x)
+[![yS7q4x.jpg](https://z3.ax1x.com/2021/01/28/yS7q4x.jpg)](https://imgchr.com/i/yS7q4x)
 
-[![ySHSDH.jpg](https://s3.ax1x.com/2021/01/28/ySHSDH.jpg)](https://imgchr.com/i/ySHSDH)
+[![ySHSDH.jpg](https://z3.ax1x.com/2021/01/28/ySHSDH.jpg)](https://imgchr.com/i/ySHSDH)
 
-[![yS7vvD.jpg](https://s3.ax1x.com/2021/01/28/yS7vvD.jpg)](https://imgchr.com/i/yS7vvD)
+[![yS7vvD.jpg](https://z3.ax1x.com/2021/01/28/yS7vvD.jpg)](https://imgchr.com/i/yS7vvD)
 
-[![ySHCVA.jpg](https://s3.ax1x.com/2021/01/28/ySHCVA.jpg)](https://imgchr.com/i/ySHCVA)
+[![ySHCVA.jpg](https://z3.ax1x.com/2021/01/28/ySHCVA.jpg)](https://imgchr.com/i/ySHCVA)
 
-[![yS7zKe.jpg](https://s3.ax1x.com/2021/01/28/yS7zKe.jpg)](https://imgchr.com/i/yS7zKe)
+[![yS7zKe.jpg](https://z3.ax1x.com/2021/01/28/yS7zKe.jpg)](https://imgchr.com/i/yS7zKe)
 
-[![ySHkPP.jpg](https://s3.ax1x.com/2021/01/28/ySHkPP.jpg)](https://imgchr.com/i/ySHkPP)
+[![ySHkPP.jpg](https://z3.ax1x.com/2021/01/28/ySHkPP.jpg)](https://imgchr.com/i/ySHkPP)

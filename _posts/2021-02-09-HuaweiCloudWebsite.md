@@ -23,7 +23,7 @@ tags:                               #标签
 没有Windows电脑的华为用户怎么办?Mac电脑硬盘不够大怎么办?外接移动固态硬盘的M1苹果用户怎么办?
 浏览器?早就车门焊死了
 
-[![yaIp40.png](https://s3.ax1x.com/2021/02/09/yaIp40.png)](https://imgchr.com/i/yaIp40)
+[![yaIp40.png](https://z3.ax1x.com/2021/02/09/yaIp40.png)](https://imgchr.com/i/yaIp40)
 
 只要想查看或下载文件,弹出的就是重定向错误
 http error应该是 3XX
