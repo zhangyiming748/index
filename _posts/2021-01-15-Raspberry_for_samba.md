@@ -7,7 +7,7 @@ author:     Zen                 # 作者
 header-img: img/photo/birdAngle.webp    #这篇文章标题背景图片
 catalog: True                     # 是否归档
 tags:                               #标签
-    - 树莓派
+    - Raspberry
 ---
 
 ## 首先设置硬盘的自动挂载
