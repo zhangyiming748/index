@@ -7,7 +7,7 @@ author:     Zen                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: False                       # 是否归档
 tags:                               #标签
-    - 操作系统
+    - Windows
 ---
 
 Ghost 系统是指使用Ghost软件做成镜像压缩包的Windows系统,俗称Ghost版系统.

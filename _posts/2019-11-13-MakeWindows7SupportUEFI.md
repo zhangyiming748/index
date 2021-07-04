@@ -7,7 +7,7 @@ author:     Zen                 # 作者
 header-img: img/photo/jiuzhaigou.webp    #这篇文章标题背景图片
 catalog: False                       # 是否归档
 tags:                               #标签
-    - 操作系统
+    - Windows
 ---
 
 对于有特殊需求的人群,Windows7才是他们需要的操作系统,现在的廉价笔记本很多都是纯efi了,Windows7却原生不支持uefi启动,以下是解决方法

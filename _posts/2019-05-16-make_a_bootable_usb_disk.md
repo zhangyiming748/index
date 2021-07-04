@@ -7,7 +7,7 @@ author:     Zen                      # 作者
 header-img: img/pet/supremelysab-787607-unsplash.webp   #这篇文章标题背景图片
 catalog: True                       # 是否归档
 tags:                               #标签
-    - 操作系统
+    - Windows
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eWowF40_pDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

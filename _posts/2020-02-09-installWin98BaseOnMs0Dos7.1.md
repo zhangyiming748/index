@@ -7,7 +7,7 @@ author:     Zen                 # 作者
 header-img: img/photo/birdAngle.webp  #这篇文章标题背景图片
 catalog: False                      # 是否归档
 tags:                               #标签
-    - 操作系统
+    - Windows
 ---
 
 win98简体中文版:ed2k://|file|SC_WIN98SE.exe|278540368|939909E688963174901F822123E55F7E|/

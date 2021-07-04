@@ -7,7 +7,7 @@ author:     Zen                 # 作者
 header-img: img/photo/jiuzhaigou.webp    #这篇文章标题背景图片
 catalog: False                       # 是否归档
 tags:                               #标签
-    - 操作系统
+    - Windows
 ---
 
 1. 确保三个文件放在`c:\`

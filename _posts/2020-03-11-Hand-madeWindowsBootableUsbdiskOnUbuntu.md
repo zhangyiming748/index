@@ -7,7 +7,7 @@ author:     Zen                      # 作者
 header-img: img/photo/birdAngle.webp   #这篇文章标题背景图片
 catalog: False                       # 是否归档
 tags:                               #标签
-    - 操作系统
+    - Linux
 ---
 [原文地址](https://www.onetransistor.eu/2014/09/make-bootable-windows-usb-from-ubuntu.html)
 ----

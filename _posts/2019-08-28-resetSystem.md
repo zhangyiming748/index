@@ -7,7 +7,7 @@ author:     Zen                      # 作者
 header-img: img/photo/jiuzhaigou.webp   #这篇文章标题背景图片
 catalog: ture                       # 是否归档
 tags:                               #标签
-    - 操作系统
+    - Windows
 ---
 总有人保留着一种想法:win10电脑随便设置,实在不行就重置
 

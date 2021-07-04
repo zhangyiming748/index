@@ -7,7 +7,7 @@ author:     Zen                      # 作者
 header-img: img/photo/birdAngle.webp   #这篇文章标题背景图片
 catalog: True                       # 是否归档
 tags:                               #标签
-    - 操作系统
+    - Windows
 ---
 首先说明PE只是用来维护系统而不是重装系统的工具,不多说,你细品
 ----

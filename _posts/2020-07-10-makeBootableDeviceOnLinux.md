@@ -7,7 +7,7 @@ author:     Zen                 # 作者
 header-img: img/photo/birdAngle.webp    #这篇文章标题背景图片
 catalog: ture                  # 是否归档
 tags:                               #标签
-    - 操作系统
+    - Linux
 ---
 
 经常有初学者开始尝试双系统的时候在安装linux的步骤时直接选择liunx默认双系统方案--覆盖windows的grud,这样会导致windows系统在某些错误的时候不会出现在系统选单,最简单的方法就是重新安装windows,但是大部分人还不知道怎么在linux上制作系统盘,其实,在linux下制作系统盘比在windows上容易的不是一点半点,接下来就讲解一下两种系统启动方式的制作方法:

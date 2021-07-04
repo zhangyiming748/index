@@ -7,7 +7,7 @@ author:     Zen                      # 作者
 header-img: img/photo/jiuzhaigou.webp   #这篇文章标题背景图片
 catalog: Ture                       # 是否归档
 tags:                               #标签
-    - 操作系统
+    - Android
 ---
 
 这里介绍四种方法,原文在凤凰论坛的帮助,但是不太好找,只有在中文网站才能在特定网站找到,这里整理一下

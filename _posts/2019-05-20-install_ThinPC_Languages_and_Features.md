@@ -7,7 +7,7 @@ author:     Zen                      # 作者
 header-img: img/pet/supremelysab-787607-unsplash.webp   #这篇文章标题背景图片
 catalog: False                       # 是否归档
 tags:                               #标签
-    - 操作系统
+    - Windows
 ---
 
 Windows Thin PC 是一个官方精简版的Windows7系统,只安装了最必要的功能,并且没有给用户提供GUI的选择功能界面,所以需要自己手动用dism命令添加功能
