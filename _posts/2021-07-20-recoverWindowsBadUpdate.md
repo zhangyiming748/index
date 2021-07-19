@@ -7,7 +7,7 @@ author:     Zen                 # 作者
 header-img: img/photo/birdAngle.webp    #这篇文章标题背景图片
 catalog: False                     # 是否归档
 tags:                               #标签
-    - Proxy
+    - Windows
 ---
 
 + 用U盘启动后，进入恢复环境后，先选择“修复计算机”，之后逐级进入“疑难解答-高级选项”，找到“命令提示符”，OK，开始吧！
