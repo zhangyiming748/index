@@ -36,3 +36,19 @@ Host github.com
 
 # 生成公钥
 `ssh-keygen -t rsa -C "zhangyiming748@gmail.com"`
+
+# 设置默认的编辑器
+
+`vim .gitconfig`
+
+```
+# [user]
+#       email = zhangyiming748@gmail.com
+#       name = zen
+# [http]
+#       proxy = http://172.29.128.1:8889
+# [https]
+#       proxy = http://172.29.128.1:8889
+[core]
+        editor = sublime -n -w
+```
