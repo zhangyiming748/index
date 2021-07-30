@@ -12,7 +12,7 @@ tags:                               #标签
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-lbY7jl354" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# 为心急的人准备的文字版
+# 为暴躁老哥准备的文字版
 1. 使用系统盘启动忘记密码的电脑
 2. 按`Shift+F10`或`Fn+Shift+F10`打开命令提示符
 3. 输入`regedit`打开注册表
