@@ -9,7 +9,7 @@ catalog: False                     # 是否归档
 tags:                               #标签
     - Windows
 ---
-<iframe src="//player.bilibili.com/player.html?aid=672334392&bvid=BV1TU4y1Y7nL&cid=314749662&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=672334392&bvid=BV1TU4y1Y7nL&cid=314749662&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 根据视频指引，下载了Windows8.1嵌入式版32位和64位
 在VMware中安装
