@@ -18,7 +18,7 @@ tags:                               #标签
 - [x] 使用kms激活
 - [x] 导出了ova文件
 
-[32位虚拟机]()
+[32位虚拟机](9c8e4f7dd43db23fa3071d1c34926224#874b1f5ed97f44f3227cf5a17130f65e#10189419520#Windows Embedded 8.1 x86.ova)
 
 [64位虚拟机]()
 
@@ -29,13 +29,13 @@ tags:                               #标签
 [激活工具](bb404b1b6de44b1b3efe5f13db3c97df#2c75509e5d5b5aa49fa1e3d40a5a99cd#7991296#kmscipo_20210827_165110.iso)
 
 # 附:各个版本的安装密钥
+
 |版本|安装密钥|
 |:---:|:---:|
 |Windows 8.1 Embedded Industry Automotive|VHXM3-NR6FT-RY6RT-CK882-KW2CJ|
 |Windows 8.1 Embedded Industry Enterprise|FNFKF-PWTVT-9RC8H-32HB2-JB34X|
 |Windows 8.1 Embedded Industry Pro|NMMPB-38DD4-R2823-62W8D-VXKJB<br>HB39N-V9K6F-P436V-KWBTC-Q3R9V<br>84NRV-6CJR6-DBDXH-FYTBF-4X49V<br>RRYGR-8JNBY-V2RJ9-TJP4P-749T7<br>967N4-R7KXM-CJKJB-BHGCW-CPKT7<br>6RH4V-HNTWC-JQKG8-RFR3R-36498|
-|Windows 8.1 Pro
-|GCRJD-8NW9H-F2CDX-CCM8D-9D6T9|
+|Windows 8.1 Pro|GCRJD-8NW9H-F2CDX-CCM8D-9D6T9|
 |Windows 8.1 Pro N|HMCNV-VVBFX-7HMBH-CTY9B-B4FXY|
 |Windows 8.1 Enterprise|MHF9N-XY6XB-WVXMC-BTDCT-MKKG7|
 |Windows 8.1 Enterprise N|TT4HM-HN7YT-62K67-RGRQJ-JFFXW|
